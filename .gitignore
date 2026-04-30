@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.tmp
+*.swp
+tmp/
+
+*.log
+
+
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
