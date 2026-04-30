@@ -4,5 +4,5 @@ draft = true
 title = 'Inicio'
 +++
 
-Guía para familiares, parejas y amigos de afectados por el TOC.
+Guía para familiares y amigos de afectados por el TOC.
 
