@@ -23,8 +23,14 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
-        run: hugo --minify
+      - name: Install Hugo modules
+        run: |
+          hugo mod clean
+          hugo mod get
+          hugo mod tidy
+
+      - name: Build site
+        run: hugo --minify --gc --cleanDestinationDir
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
