@@ -1,0 +1,16 @@
+{{- $books := .Site.Data.books -}}
+{{- $cols := .Get "cols" | default 3 -}}
+
+<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
+  {{- range $books -}}
+    {{- partial "shortcodes/book-card" (dict
+      "link"    .shop
+      "image"   .cover
+      "title"   .title
+      "authors" .authors
+      "editor"  .editor
+      "year"    .year
+      "language" .language
+    ) | safeHTML -}}
+  {{- end -}}
+</div>

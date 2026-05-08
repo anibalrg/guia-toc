@@ -1,0 +1,40 @@
+{{- $link    := .link -}}
+{{- $image   := .image -}}
+{{- $title   := .title -}}
+{{- $authors := .authors -}}
+{{- $editor  := .editor -}}
+{{- $year    := .year -}}
+{{- $language:= .language | upper| default "" -}}
+
+{{- if not (eq $language "") -}}
+  {{- $language = printf "[%s]" ($language) -}}
+{{- end -}}
+
+<a
+  class="hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700"
+  href="{{ $link }}"
+  target="_blank"
+  rel="noreferrer"
+>
+  {{- with $image -}}
+    <img
+      alt="{{ $title }}"
+      class="hextra-card-image hx:w-full hx:h-64 hx:object-cover"
+      loading="lazy"
+      decoding="async"
+      src="{{ $image | safeURL }}"
+    />
+  {{- end -}}
+
+  <div class="hx:mt-auto">
+    <span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">
+      {{- $title -}}
+    </span>
+    <div class="hextra-card-subtitle hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mt-2">
+      {{ delimit $authors ", " }}
+    </div>
+    <div class="hx:text-xs hx:font-normal hx:text-gray-400 hx:dark:text-gray-500 hx:px-4 hx:mb-4 hx:mt-1">
+      {{ $editor }}, {{ $year }} {{ $language }}
+    </div>
+  </div>
+</a>

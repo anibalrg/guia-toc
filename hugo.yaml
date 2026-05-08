@@ -1,9 +1,97 @@
-baseURL = 'https://anibalrg.github.io/guia-toc/'
-languageCode = 'es'
-locale = 'es-ES'
-title = 'Guía TOC'
+title: Info TOC
+baseURL: https://anibalrg.github.io/guia-toc/
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+locale: es
+defaultContenLanguage: es
+languages:
+  es:
+    label: Español
+    weight: 1
+  # en:
+  #   label: English
+  #   weight: 2
+
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+enableInlineShortcodes: true
+
+outputs:
+  home: [html, markdown, llms]
+  page: [html, markdown]
+  section: [html, rss, markdown]
+
+menu:
+  main:
+    - name: Buscar
+      weight: 1
+      params:
+        type: search
+    - name: GitHub
+      weight: 2
+      url: https://github.com/anibalrg/guia-toc/
+      params:
+        icons: github
+    - name: Glosario
+      pageRef: /glossary
+      weight: 3
 
 
-[module]
-  [[module.imports]]
-    path = "github.com/imfing/hextra"
+params:
+  description: Información útil para familiares de personas con TOC
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    logo:
+      path: images/logo-black.png
+      dark: images/logo-white.png
+      link: /guia-toc
+      width: 64
+
+  externalLinkDecoration: true
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+
+  theme:
+    default: light
+    displayToogle: true
+
+  toc:
+    displayTags: true
+
+  imageZoom:
+    enable: true
+
+  page:
+    width: wide
+    contextMenu:
+      enable: true
+
+  # flexsearch enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: content
+      tokenize: forward
+
+  blog:
+    list:
+      displayTags: true
+      sortBy: date
+      sortOrder: desc
+
+  highlight:
+    copy:
+      enable: true
+      display: hover
+
+  comments:
+    enable: true

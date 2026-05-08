@@ -1,0 +1,58 @@
+# title
+# authors: array of authors
+# editor
+# year
+# cover: link to the cover image
+# language: ISO code (es by default)
+
+- title: Desbloquea tu cerebro
+  authors:
+    - Jeffrey M. Schwartz
+    - Beverly Beyette
+  editor: HarperCollins
+  year: 2023
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1674047804i/79485596.jpg
+
+- title: The Man Who Couldn't Stop
+  authors:
+    - David Adam
+  editor: Picador
+  year: 2014
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1393519278i/20930755.jpg
+  language: en
+
+- title: Detección del TOC en niños
+  authors:
+    - Natalia Hernández Yuste
+  year: 2020
+  editor: Círculo Rojo
+  cover: https://editorialcirculorojo.com/wp-content/uploads/publicaciones/deteccion-del-toc-en-ninos-guia-practica-para-padres-y-docentes/deteccion-del-toc-en-ninos.gif
+
+- title: Qué puedo hacer cuando me obsesiono demasiado
+  authors:
+    - Dawn Huebner
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1529169117i/40541617.jpg
+  editor: Hogrefe TEA
+  year: 2011
+
+- title: Sal del laberinTOC
+  authors:
+    - Antonio Domingo Soto
+  editor: Independiente
+  year: 2022
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1682769149i/144528427.jpg
+
+- title: "We Are Bad: OCD and a Girl Lost in Thought"
+  authors:
+    - Lily Bailey
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1507708427i/35604044.jpg
+  editor: Harper
+  year: 2016
+  language: en
+
+- title: Tocados
+  authors:
+    - Damián Alcolea
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1452669754i/28530510.jpg
+  editor: Plataforma Editorial
+  year: 2014
