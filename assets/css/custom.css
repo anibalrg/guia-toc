@@ -1,0 +1,8 @@
+    :root {
+        --primary-background-color: e4 e4 d0;
+}
+
+
+[data-theme="dark"] {
+    --primary-background-color: 22 1d 20;
+}
