@@ -26,7 +26,7 @@ Lo más urgente es confirmar o descartar que se trata de TOC, determinar si coex
 {{< /hextra/hero-subtitle >}}
 
 {{< callout type="info">}}
-Se estima que los afectados por TOC tardan, de media, entre **siete años**  y **diez años** en pedir ayuda desde la aparición de los primeros síntomas.
+Las personas afectadas por TOC son las que más tardan en pedir ayuda de todas las patologías mentales. Desde el inicio de sus síntomas, de media, **los adultos tardan entre siete y diez años**, mientras que **los menores entre dos y tres años**.
 {{< /callout >}}
 
 
@@ -35,9 +35,10 @@ Se estima que los afectados por TOC tardan, de media, entre **siete años**  y *
 Los terapeutas comienzan el tratamiento con esta fase para ofrecer toda la información que el afectado y los familiares necesitan para conocer los enrevesados mecanismos de este trastorno y los pormenores de la terapia.
 {{< /hextra/hero-subtitle >}}
 
+
 {{< hextra/hero-section heading="h3">}}Terapia{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
- El tratamiento psicológico más respaldado científicamente para el TOC es la **terapia cognitivo-conductual** (TCC) en combinación con la técnica de **exposición con prevención de respuesta** (EPR). Es importante que los terapeutas sean especialistas en este trastorno y el apoyo familiar.
+ El tratamiento psicológico más estandarizado para el TOC es la **terapia cognitivo-conductual** (TCC) en combinación con la técnica de **exposición con prevención de respuesta** (EPR). Es importante que los terapeutas sean especialistas en este trastorno y el apoyo familiar durante la terapia.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}Medicación{{< /hextra/hero-section >}}
@@ -51,29 +52,28 @@ Según [IOCDF](https://iocdf.org/es/que-es-el-toc/como-se-trata-el-toc/): los pa
 
 {{< hextra/hero-section heading="h3">}}¿Y nosotros qué hacemos?{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Hemos recopilado documentación, vídeos, *podcasts*, etc. para empezar a informarnos todo lo posible sobre el TOC. Es muy recomendable acudir a los grupos de ayuda o apoyo mutuo (GAM) gestionados por las asociaciones, clínicas y otras entidades.
+Lo más importante, según muchos de los testimonios de los afectados, es simplemente estar presentes, acompañarles, hacer que no se sientan solos en esto. Sin embargo, en nuestro intento por ayudarles, hacemos muchas cosas que, a la larga, les perjudican y ayudan al TOC. Por ello, conviene que nos informemos todo lo posible. También es muy recomendable acudir a los grupos de ayuda o apoyo mutuo (GAM) gestionados por las asociaciones especializadas y profesionales de la salud mental.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}{{< /hextra/hero-section >}}
 
-{{< hextra/feature-grid cols="3" >}}
+{{< hextra/feature-grid cols="2" >}}
     {{< hextra/feature-card link="guias/que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Conocer todo lo posible sobre este trastorno nos permitirá empatizar y ayudar mejor a los nuestros.">}}
 
-    {{< hextra/feature-card link="recursos" title="Recursos en internet" icon="heart" subtitle="Afortunadamente, tenemos acceso a una enorme cantidad de recursos útiles para comprender el TOC." >}}
+    {{< hextra/feature-card link="recursos" title="Recursos" icon="heart" subtitle="Afortunadamente, tenemos acceso a una enorme cantidad de recursos útiles para comprender el TOC: vídeos, podcasts, libros, documentos, etc." >}}
 
-
-    {{< hextra/feature-card link="guias/que-hacer" title="¿Qué debemos hacer los familiares?" icon="question-mark-circle" >}}
+    {{< hextra/feature-card link="guias/que-hacer" title="¿Qué debemos hacer?" icon="question-mark-circle" >}}
     
-    {{< hextra/feature-card link="guias/que-no-hacer" title="¿Qué no debemos hacer los familiares?" icon="warning" >}}
+    {{< hextra/feature-card link="guias/que-no-hacer" title="¿Qué no debemos hacer?" icon="warning" >}}
     
     {{< hextra/feature-card link="guias/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
     
-    {{< hextra/feature-card link="ayuda/asociaciones" title="Especialistas en TOC" icon="heart" >}}
-    {{< hextra/feature-card link="ayuda/terapia" title="La terapia" icon="heart" subtitle="Dudas sobre el modo de afrontar este problema desde el punto de vista clínico.">}}
+    {{< hextra/feature-card link="ayuda/asociaciones" title="Asociaciones" icon="heart" subtitle="Psicólogos, psiquiatras y neurólogos">}}
+    {{< hextra/feature-card link="noticias" title="Noticias" icon="newspaper" subtitle="Noticias sobre el TOC.">}}
     
     {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de afectados" icon="heart" subtitle="La mejor forma de entender a los afectados por TOC es escucharles." >}}
 
-    {{< hextra/feature-card link="glossary" title="Glosario" icon="book-open" >}}
+    {{< hextra/feature-card link="glosario" title="Glosario" icon="book-open" >}}
     
 
 {{< /hextra/feature-grid >}}

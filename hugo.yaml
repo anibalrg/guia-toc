@@ -5,6 +5,7 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
+layoutDir: layouts
 locale: es
 defaultContenLanguage: es
 languages:
@@ -31,14 +32,19 @@ menu:
       weight: 1
       params:
         type: search
-    - name: GitHub
+    - name: Glosario
+      pageRef: /glossary
       weight: 2
+    - name: Noticias
+      url: /news
+      weight: 10
+      params:
+        icons: newspaper
+    - name: GitHub
+      weight: 20
       url: https://github.com/anibalrg/guia-toc/
       params:
         icons: github
-    - name: Glosario
-      pageRef: /glossary
-      weight: 3
 
 
 params:

@@ -1,11 +1,13 @@
-- term: TOC
-  abbr: TOC
-  definition: "Transtorno Obsesivo-Compulsivo. Tipo de trastorno mental caracterizado por las obsesiones y las compulsiones"
+- term: EPR
+  definition: Exposición con Prevención de Respuesta. Técnica usada en la TCC para tratar el TOC
+
+- term: OMS
+  definition: Organización Mundial de la Salud
 
 - term: TCC
   abbr: TCC
-  definition: "Terapia Cognitivo-Conductual. Terapia estándar para tratar el TOC"
+  definition: Terapia cognitivo-conductual - terapia estándar para tratar el TOC
 
-- term: ERP
-  abbr: ERP
-  definition: "Exposición con Prevención de Respuesta. Técnica usada en la TCC para tratar el TOC"
+- term: TOC
+  definition: Transtorno obsesivo-compulsivo - tipo de trastorno mental caracterizado por las obsesiones y las compulsiones.
+

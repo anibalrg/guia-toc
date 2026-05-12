@@ -1,8 +1,37 @@
-    :root {
+:root {
         --primary-background-color: e4 e4 d0;
 }
 
 
 [data-theme="dark"] {
     --primary-background-color: 22 1d 20;
+}
+
+
+abbr[title] {
+  text-decoration: underline dotted;
+  cursor: help;
+  position: relative;
+}
+
+abbr[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 125%;
+  left: 0;
+  background: var(--tw-prose-invert-body, #1f2937);
+  color: white;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  max-width: 280px;
+  white-space: normal;
+  line-height: 1.4;
+  z-index: 10;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.dark abbr[title]:hover::after {
+  background: #e5e7eb;
+  color: #111827;
 }
