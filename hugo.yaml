@@ -7,7 +7,7 @@ module:
 
 layoutDir: layouts
 locale: es
-defaultContenLanguage: es
+defaultContentLanguage: es
 languages:
   es:
     label: Español
