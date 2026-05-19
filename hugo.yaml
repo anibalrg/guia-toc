@@ -32,7 +32,7 @@ menu:
       weight: 1
       params:
         type: search
-    - name: Glosario
+    - name: Diccionario
       pageRef: /glossary
       weight: 2
     - name: Noticias
@@ -101,3 +101,10 @@ params:
 
   comments:
     enable: true
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
