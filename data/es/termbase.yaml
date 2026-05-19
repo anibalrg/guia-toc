@@ -1,13 +1,69 @@
+- term: acomodación
+  definition: |
+    Conductas que realizamos familiares y amigos para reducir el malestar del afectado y adaptarnos a las exigencias del TOC. Son acomodaciones: participar en rituales, adaptar horarios, tranquilizar constantemente, contestar repetidas veces la misma pregunta, evitar ciertas situaciones, proporcionar jabón, gel o champú infinitos, permitir duchas interminables, etc.
+
+- term: ansiedad
+  definition: |
+    Estado de alerta, preocupación o anticipación ante una posible amenaza futura, incierto o imaginada. En los afectados de TOC, suele aparecer debido o junto a las obsesiones porque la mente intenta eliminar completamente la duda, prevenir cualquier posibilidad o conseguir certeza absoluta. Mientras el miedo afirmaría «hay peligro», la ansiedad dudaría «¿y si hubiera peligro?».
+
+- term: ciclo del TOC
+  definition: La obsesión hace que aumente la ansiedad. La compulsión produce alivio temporal reduciendo la ansiedad, pero fortalece el TOC, haciendo que la necesidad de repetirla vuelva con más fuerza cada vez.
+
+- term: compulsión
+  definition: |
+    Conducta física o mental que se realiza para reducir la ansiedad o evitar un temor provocado por una obsesión. Compulsiones físicas son, por ejemplo: lavarse, tocar, comprobar, repetir acciones un número de veces, etc.; y compulsiones mentales: repetir frases o rezar, contar, analizar recuerdos...
+
+- term: disparador
+  definition: Estímulo que activa las obsesiones que causan la ansiedad. Puede se una situación, un pensamiento, una imagen o una sensación.
+
+- term: egodistónico
+  definition: Pensamiento, imágen, sentimiento o conducta que está en conflicto con los valores, las  creencias y la autopercepción de la persona, causándole angustia, malestar, repugnancia, asco, miedo, ansiedad, etc. Los afectados por TOC luchan contra sus pensamientos porque no se identifican con ellos.
+
 - term: EPR
-  definition: Exposición con Prevención de Respuesta. Técnica usada en la TCC para tratar el TOC
+  definition: Exposición con Prevención de Respuesta. Técnica usada en la Terapia cognitivo-conductual (TCC) para tratar el TOC, basada en la exposición gradual a las situaciones que generan malestar, evitando realizar las conductas de alivio aprendidas (compulsiones) para reducir la ansiedad, aprendiendo a convivir con ella y dejando que se reduzca de forma natural.
+
+- term: evitación
+  definition: Alejarse de situaciones, personas, pensamientos, lugares u objetos que pueden activar las obsesiones. Es una respuesta lógica y natural que produce alivio a corto plazo, pero contribuye a perpetuar el TOC pues es lo contrario de la exposición.
+
+- term: extinción
+  definition: Proceso mediante el que el cerebro aprende que el miedo, peligro o amenaza temida no ocurre y la ansiedad disminuye sin necesidad de compulsiones.
+
+- term: habituación
+  definition: Disminución gradual de la ansiedad cuando la persona permanece el tiempo suficiente ante aquello que teme sin evitarlo ni realizar compulsiones.
+
+- term: miedo
+  definition: Respuesta emocional ante un peligro que percibimos como inmediato y claramente identificable. Se procesa en la amigdala cerebral, que prepara el cuerpo para reaccionar inmediatamente para huir, protegerse o defenderse. Suele estar ligado al contenido de la obsesión.
+
+- term: neutralización
+  definition: |
+    Intento de reducir la sensación de amenaza o culpa y la ansiedad provocada por una obsesión mediante: rituales o compulsiones físicas o mentales, reaseguración, evitación, repetición de frases (mantras, rezos...), intento de sustituir pensamientos negativos por positivos, etc. Todo tipo de neutralización produce alivio momentáneo porque reduce la ansiedad, pero refuerza el TOC porque el cerebro aprende que la obsesión es importate o peligrosa.
+
+- term: obsesión
+  definition: Pensamiento, imagen, duda, impulso o sensación repetitiva e involuntaria que provoca malestar, culpa o ansiedad al interpretarse como muy importante o peligroso, generando mucha angustia, culpa o miedo. Toda obsesión comienza con un pensamiento intrusivo, pero no todo pensamiento intrusivo genera una obsesión.
 
 - term: OMS
   definition: Organización Mundial de la Salud
 
+- term: pensamiento intrusivo
+  definition: Pensamiento, imagen, impulso o sensación no deseada que aparece de forma automática en casi todas las personas, pero que en los afectados de TOC adquiren demasiada importancia conviertiéndose en una obsesión.
+
+- term: reaseguración
+  definition: Búsqueda repetida de tranquilidad o confirmación para aliviar dudas y ansiedad o prevenir un suceso temido.
+
+- term: ritual
+  definition: Acciones o pensamientos repetitivos que la persona siente que *debe hacer* para reducir la ansiedad o prevenir un suceso temido. Suele ser un conjunto de compulsiones, aunque se suelen utilizar como sinónimos.
+
+- term: rumiación
+  definition: Darle vueltas una y otra vez a dudas, recuerdos, miedos, posibilidades intentando encontrar la certeza absoluta.
+
 - term: TCC
-  abbr: TCC
-  definition: Terapia cognitivo-conductual - terapia estándar para tratar el TOC
+  definition: Terapia cognitivo-conductual. Terapia estándar para tratar el TOC.
 
-- term: TOC
-  definition: Transtorno obsesivo-compulsivo - tipo de trastorno mental caracterizado por las obsesiones y las compulsiones.
+- term: tolerancia a la incertidumbre
+  definition: Capacidad de aceptar que no es posible tener certeza absoluta sobre todo. Suele ser uno de los objetivos de la terapia.
 
+- term: validación emocional
+  definition: Reconocimiento del sufrimiento sin reforzar el TOC.
+
+- term: ventana de tolerancia
+  definition: Nivel de ansiedad que una persona puede manejar sin sentirse completamente desbordada. La terapia suele trabajar dentro de esa ventana de forma gradual.
