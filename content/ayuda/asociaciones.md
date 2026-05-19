@@ -134,9 +134,20 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
 Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [Confederación de salud mental España](https://consaludmental.org/) puede serte de ayuda para encontrar asociaciones. Agrupa a 360 entidades que se pueden buscar [geográficamente](https://consaludmental.org/directorio-asociaciones/) o mediante un [buscador](https://consaludmental.org/directorio-asociaciones/:conoce-todas-las-entidades-y-servicios/).
 
 
+
 ## Foros
-* [Foro TOC](https://www.forotoc.com/).
+{{< callout type="error" icon="warning" >}}
+La búsqueda de información en foros, grupos de Facebook, canales de Telegram, WhatsApp, chatbots y demás se pueden convertir, para algunos afectados, en herramientas de compulsión.
+{{< /callout >}}
+
+* [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
 * [My OCD Community](https://healthunlocked.com/my-ocd) [EN].
+
+
+## Blogs
+* [Yo superé el trastorno obsesivo-compulsivo](https://yosupereltrastornobsesivocompulsivo.blogspot.com/).
+* [Foro TOC](https://www.forotoc.com/blog/), foro para afectados de TOC y blog de Leonardo Vitali.
+* [Intrusive Thoughts](https://www.intrusivethoughts.org/es/)
 
 
 ## Grupos de apoyo mutuo/ayuda mutua (GAM) y programa de pacientes expertos

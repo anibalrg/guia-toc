@@ -37,6 +37,9 @@ Psicóloga especializada en TOC.
 * Colaboradora Universidad de Granada.
 
 
+### [Natasha Daniels](https://childocdtherapist.com/) [EN]
+Terapeuta infantil especialistaen trastornos de ansiedad y ocd.
+
 ### [Jean-Étienne Dominique Esquirol](https://es.wikipedia.org/wiki/Jean_%C3%89tienne_Dominique_Esquirol)
 
 
@@ -49,6 +52,9 @@ Era una contable muy honrada y trabajaba mucho, pero empezó a tener miedo de eq
 Sin trabajo sus obsesiones se hicieron aún mayores. Empezó a cortar el dobladillo de sus vestidos y apretarse tanto los cordones de sus zapatos que sus pies se hinchaban por encima, todo para evitar tener sitios en los que esconder cosas. Se sostenía la ropa mientras caminaba no rozara muebles ni puertas. Tenía que examinar detenidamente llaves, pomos y manillas de puertas, ventanas y armarios para evitar llevarse algo de valor sin darse cuenta.
 
 Sus miedos y los comportamientos con los que los aliviaba, a veces, se iban, pero siempre volvían.
+
+
+### [Edna Ben Jacob Foa](https://en.wikipedia.org/wiki/Edna_Foa)
 
 
 ### Rosa Iglesias Rosique
