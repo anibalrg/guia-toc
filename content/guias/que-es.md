@@ -5,14 +5,15 @@ weight: 1
 ---
 
 ### Introducción
-El {{< term "TOC" >}} es un trastorno mental caracterizado por las **obsesiones** y las **compulsiones**, el gran malestar que estas generan y la frecuencia con las que se sufren.
+El TOC es un trastorno mental caracterizado por las **obsesiones** y las **compulsiones**, el gran malestar que estas generan y la frecuencia con las que se sufren.
 
-Está considerado por la OMS como uno de los cinco trastornos mentales más inhabilitantes. Sin embargo, sigue siendo un gran desconocido para la mayoría de nosotros. Hasta hace poco tiempo, el TOC se consideraba dentro de los trastornos de ansiedad. Actualmente se le considera en una categoría independiente.
+Está considerado por la {{< term OMS >}} como uno de los cinco trastornos mentales más inhabilitantes. Sin embargo, sigue siendo un gran desconocido para la mayoría de nosotros. Hasta hace poco tiempo, el TOC se consideraba dentro de los trastornos de ansiedad. Actualmente se le considera en una categoría independiente.
 
-{{< figure src="https://ysm-res.cloudinary.com/image/upload/c_crop,x_0,y_172,w_2231,h_1255/c_fill,f_auto,q_auto:eco,dpr_1,w_753,ar_16:9/v1/yms/prod/5d63e66c-deeb-4577-8bc6-7779a0b730ac"
-alt="Comparativa de un cerebro de un paciente con TOC con uno sin TOC"
-link="https://medicine.yale.edu/news-article/what-does-an-ocd-brain-look-like/"
-caption="Imágenes obtenidas mediante PET del cerebro de una persona sin TOC (arriba) y del de una persona con TOC (abajo) mostrando las diferencias en la activación de las distintas zonas (rojo-amarillo mayor activación). Yale School of Medicine." >}}
+{{< figure
+      src="/guia-toc/images/PET-OCD.png"
+      alt="Comparativa de un cerebro de un paciente con TOC con uno sin TOC"
+      caption="Diferencias de activación entre el cerebro de una persona sin TOC (control) y el de una persona con TOC (OCD). Las zonas amarillas y rojas son las más activadas. 2014, C. Pittenger."
+>}}
 
 
 ### Las obsesiones
@@ -26,6 +27,7 @@ Las compulsiones son las conductas repetitivas, tanto físicas como mentales, qu
 
 ### Causas
 El TOC es un trastorno mental del que no se conoce una causa concreta. Se considera de origen multifactorial, es decir, que pueden intervenir muchos factores simultáneamente para que una persona lo desarrolle:
+
 * factores genéticos: antecedentes familiares
 * rasgos de personalidad concretos (variables cognitivas):
   * intolerancia a la incertidumbre
@@ -38,7 +40,7 @@ El TOC es un trastorno mental del que no se conoce una causa concreta. Se consid
 * causas bioquímicas y neurobiológicas: anomalías en ciertos neurotransmisores 
 * sucesos estresantes que pueden actuar como detonantes
 * otros trastornos mentales (comorbilidad)
-* infección por estreptococos (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*)
+* infección por estreptococos que afecta al [núcleo caudado](https://es.wikipedia.org/wiki/N%C3%BAcleo_caudado) del cerebro (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*)
     
 
 ### El ciclo del TOC
@@ -56,6 +58,7 @@ stateDiagram-v2
 Los psicólogos y psiquiatras valoran la severidad o gravedad del TOC antes de comenzar la terapia y el tratamiento. Para ello se tienen en cuenta: la cantidad de obsesiones, la intensidad del malestar, el nivel de ansiedad, las horas diarias que la persona dedica a distintas compulsiones, etc. Se utilizan herramientas en forma de encuesta como la conocida por la escala Y-BOCS (*Yale-Brown Obssesive-Compulsive Scale*) y su versión para menores CY-BOCS. Ambas evalúan las compulsiones y las obsesiones y las puntúan, valorando la severidad en muy leve, leve, moderado o severo.
 
 ### Prevalencia
+
 Las cifras varían con los estudios. Por ejemplo, un reciente estudio llevado a cabo en 10 países sobre una población de más de 50.000 personas arrojó las siguientes cifras: la prevalencia de por vida se estimó en el 4,1%, es decir, 4 de cada 100 personas encuestadas habían sufrido TOC en algún momento de su vida y 3 de cada 100 lo habían tenido durante el último año.
 
 Otros 

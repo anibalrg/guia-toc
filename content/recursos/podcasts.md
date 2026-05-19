@@ -6,7 +6,7 @@ toc: false
 type: docs
 ---
 
-### {{< icon microphone >}} **Nieves y el TOC**
+### {{< icon microphone >}} **Nieves y el TOC** {#nieves-y-el-toc}
 
 «Iniciativa en formato podcast para dar a conocer el trastorno obsesivo compulsivo, de la mano de [Nieves Álvarez](https://nievesalvarez.es/), psicóloga especializada, y de los diferentes invitados, afectados de toc.
 
@@ -20,7 +20,7 @@ De forma breve y muy personal iremos dando visibilidad a este fenómeno, con el 
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}} {{< icon film >}} **TOC & beats**
+### {{< icon microphone >}} {{< icon film >}} **TOC & beats** {#toc-and-beats}
 
 «[TOC & beats](https://tocandbeats.blogspot.com/) es un programa de radio y podcast dedicado a la salud mental y más concretamente al Trastorno Obsesivo Compulsivo. El programa está amenizado con música electrónica. Empezó a emitirse en mayo de 2022 y cuenta con la colaboración de la [Asociación TOC Zaragoza](https://toczaragoza.com). Los fundadores del programa son: David de Alfonso, subdirector y comentarista; Alfonso Ansó, pinchadiscos del programa; y [Yann Lana](https://asistentetoc.com/), director y guionista. Contamos además con Luis Dionis como contertulio habitual y con dos colaboradoras: Alicia Rodríguez (Sisu Jouska) y Alicia Gallego (Aluandii).
 

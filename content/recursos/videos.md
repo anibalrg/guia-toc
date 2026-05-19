@@ -42,6 +42,9 @@ Son muy recomendables sus charlas de preguntas y respuestas para afectados y par
 
 
 ### [Talk Toc Mx](https://www.youtube.com/channel/UC1x6TMgVahfTFjY8FApnG_g)
-  
+«Talk TOC es una comunidad de apoyo e información para pacientes con Trastorno Obsesivo Compulsivo y personas interesadas en el tema. Nos interesa fomentar la salud mental y romper estigmas en relación a los trastornos mentales. ¡Todos son bienvenidos!». 
 
+### [Conversaciones Compulsivas](https://www.youtube.com/@ConversacionesCompulsivas)
+
+«Bienvenido a Conversaciones Compulsivas, el podcast donde abordamos la salud mental desde una perspectiva profesional, honesta y humana. En cada episodio, especialistas comparten experiencias, rompen estigmas y ofrecen herramientas para cuidar tu bienestar emocional. Porque la terapia no es para locos, es para humanos. ¡Suscríbete y acompáñanos!».
 
