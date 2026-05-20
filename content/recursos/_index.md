@@ -13,12 +13,12 @@ type: docs
 
 
 
-## {{< icon "book-open" >}} Libros
+## {{< icon "book-open" >}} Libros {#Libros}
 <!-- TODO: especializar cards -->
 {{< book-cards >}}
 
 
-## {{< icon library >}} Artículos interesantes
+## {{< icon library >}} Artículos interesantes {#Articulos-interesantes}
 
 * **[Protocolo abreviado de terapia individual de la Fundación TOC Granada](https://tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)**
 

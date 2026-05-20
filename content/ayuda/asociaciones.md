@@ -143,13 +143,6 @@ La búsqueda de información en foros, grupos de Facebook, canales de Telegram, 
 * [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
 * [My OCD Community](https://healthunlocked.com/my-ocd) [EN].
 
-
-## Blogs
-* [Yo superé el trastorno obsesivo-compulsivo](https://yosupereltrastornobsesivocompulsivo.blogspot.com/).
-* [Foro TOC](https://www.forotoc.com/blog/), foro para afectados de TOC y blog de Leonardo Vitali.
-* [Intrusive Thoughts](https://www.intrusivethoughts.org/es/)
-
-
 ## Grupos de apoyo mutuo/ayuda mutua (GAM) y programa de pacientes expertos
 Casi todas las asociaciones especializadas en TOC gestionan GAM para afectados y familiares, tanto presenciales como por videoconferencia.
 
