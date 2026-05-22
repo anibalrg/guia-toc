@@ -7,7 +7,7 @@ weight: 1
 
 
 {{< hextra/feature-grid cols="2" >}}
-    {{< hextra/feature-card link="guias/que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Conocer todo lo posible sobre este trastorno nos permitirá empatizar y ayudar mejor a los nuestros.">}}
+    {{< hextra/feature-card link="que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Conocer todo lo posible sobre este trastorno nos permitirá empatizar y ayudar mejor a los nuestros.">}}
 
     {{< hextra/feature-card link="que-hacer" title="¿Qué debemos hacer?" icon="question-mark-circle" >}}
     

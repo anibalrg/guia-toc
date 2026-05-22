@@ -19,12 +19,12 @@ Más de 300 vídeos con  multitud de vídeos con:
   Hemos destacado algunas, pero hay muchas muy interesantes:
   * Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
     * Farmacológicos:
-  {{< youtube PwRkQ_WxZtQ >}}
+  {{< youtube id=PwRkQ_WxZtQ loading=lazy >}}
     * Tratamientos para pacientes resistentes a los fármacos:
-  {{< Youtube Ra9Pv5vl7LA >}}
+  {{< Youtube id=Ra9Pv5vl7LA loadin=lazy >}}
   
   * El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica Asi el TOC es un problema biológico o aprendido:
-  {{<  youtube M5U1l-ElhX0 >}}
+  {{<  youtube id=M5U1l-ElhX0 loading=lazy >}}
   
 
 ### [Asociación TOC Zaragoza](https://www.youtube.com/@toczaragoza)

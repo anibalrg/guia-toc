@@ -2,10 +2,22 @@
 date: 2026-05-12
 title: Nombres
 weight:
-toc: false
+toc: true
 ---
 
-### Dra. María del Pino Alonso Ortega
+
+### Jonathan Abramowitz
+
+
+### Damián Alcolea
+
+* Autor de la obra teatral *Palabras para una revolución*.
+* Autor del libro [Tocados]({{% relref "/recursos/#book-tocados" %}}).
+* Actor en series como *Águila roja* y *El internado*.
+* Divulgador sobre salud mental y TOC. Destacan su charla *Rompiendo el estigma del TOC* en TEDxMadrid y su intervención en la Sala Constitucional del Congreso de los Diputados de España por el Día Mundial de la Salud Mental en 2018.
+
+
+### Dra. María del Pino Alonso
 Es una de las principales psiquiatras e investigadoras especializadas en TOC. Especialista en el estudio de los factores neurobiológicos (mediante el uso de neuroimagen) y genéticos que permiten el pronóstico a largo plazo, y los tratamientos de las formas especialmente graves de este trastorno.
 
 * Jefa del Servicio de Psiquiatría y responsable de la Unidad de TOC del [Hospital de Bellvitge](https://bellvitgehospital.cat/es), uno de los hospitales de referencia en España en el tratamiento del TOC.
@@ -16,6 +28,7 @@ Es una de las principales psiquiatras e investigadoras especializadas en TOC. Es
 * Miembro del grupo de trabajo  *Enhancing Neuro Imaging Genetics through Meta Analyis* (ENIGMA) para la mejora del uso de neuroimagen en los trastornos mentales.
 * Miembro del grupo de trabajo *Psychiatric Genomics Consortium* [PGC](https://pgc.unc.edu/). La mayor de colaboración en la historia de la psiquiatría para comprender la arquitectura genética de los trastornos psiquiátricos.
 * Presidenta de la Asociación [TOC 2.0](https://toc20.org/) de Barcelona.
+
 
 ### Nieves Álvarez
 
@@ -38,9 +51,12 @@ Psicóloga especializada en TOC.
 
 
 ### [Natasha Daniels](https://childocdtherapist.com/) [EN]
-Terapeuta infantil especialistaen trastornos de ansiedad y ocd.
+
+Terapeuta infantil y escritora especiada en trastornos de ansiedad y TOC.
+
 
 ### [Jean-Étienne Dominique Esquirol](https://es.wikipedia.org/wiki/Jean_%C3%89tienne_Dominique_Esquirol)
+
 
 
 ### Mademoiselle F.
@@ -54,22 +70,39 @@ Sin trabajo sus obsesiones se hicieron aún mayores. Empezó a cortar el dobladi
 Sus miedos y los comportamientos con los que los aliviaba, a veces, se iban, pero siempre volvían.
 
 
+### Wayne K. Goodman.
+
+Psiquiatra estadounidense reconocido internacionalmente por ser uno de los pioneros en la investigación del TOC. También fue uno de los creadores de la escala *Yale-Brown Obsessive Compulsive Scale (Y-BOCS)* —una de las herramientas para evaluar la severidad del trastorno— y  ha liderado el desarrollo de terapias farmacológicas y el uso de neuromodulación para el TOC resistente.
+
+Durante los años 80, Goodman fue uno de los investigadores principales del primer ensayo médico para tratar el TOC en la universidad de Yale. Animó a los participantes a reunirse para hablar de sus experiencias con el trastorno y la medicación. De esas reuniones surgió la [*International OCD Foundation*](https://iocdf.org/our-history/).
+
+
 ### [Edna Ben Jacob Foa](https://en.wikipedia.org/wiki/Edna_Foa)
+
+
+### Steve C. Hayes
+
+Creador de la terapia de aceptación y compromiso, que ha influido en el actual tratamiendo del TOC.
+
+### Joh Hershfield
+
+
+### Mardi Horowitz
 
 
 ### Rosa Iglesias Rosique
 
-* Fundadora de la [Asociación Planeta TOC](https://www.planetatoc.com) (ArroyoMolinos, Madrid).
+* Presidenta y cofundadora de la [Asociación Planeta TOC](https://www.planetatoc.com) (ArroyoMolinos, Madrid).
 * Fundadora de la [Fundación Nacional para el TOC](https://fundaciontoc.org/) (ArroyoMolinos, Madrid).
 
 <!-- ### Rosa Lafuente -->
+
 
 ### [Yann Lana](https://asistentetoc.com/).
 
 * Asistente personal en Salud Mental y Agente de Apoyo Mutuo especializado en TOC. 
 * Cofundador de la [Asociación TOC Zaragoza](https://toczaragoza.com).
 * Cofundador y director del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
-
 
 
 ### Dra. María Luisa Lázaro García
@@ -83,17 +116,41 @@ Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital
 ### [Aurelio López García](https://tocgranda.com)
 
 
+
+### [Stanley J. Rachman](https://es.wikipedia.org/wiki/Stanley_Rachman)
+
+Psicólogo pionero en las investigaciones sobre el TOC y la ansiedad. Sus estudios explicaron como se desarrollan y persisten los pensamientos intrusivos, las compulsiones y las respuestas al miedo. Fue uno de los primeros en cuestionar el uso del psicoanálisis para tratar el TOC y puso las bases para el enfoque cognitivo y conductual que se sigue utilizando en la actualidad. 
+
+Rachman impulsó algunos de los primeros estudios que investigaban la exposición y prevención de respuesta como posible tratamiento para el TOC.
+
+Ha publicado multitud de libros y cientos de artículos sobre el TOC y los trastornos de ansiedad. Recientemente, ha propuesto nuevos modelos conceptuales y tratamientos para las obsesiones, el miedo a la contaminación y las compulsiones de comprobación.
+
+
+### Paul Salkovskis
+
+Psicólogo pionero por su trabajo en la terapia cognitivo-conductual, la comprensión del TOC —es uno de los creadores del modelo cognitivo del TOC— y los trastornos de ansiedad. Ha contribuido a perfeccionar el enfoque de la TCC para el tratamiento del TOC. Creador de conceptos como: *ritual mental*, *reaseguración*, *comprobación compulsiva* y otros.
+
+
+### [Jeffrey M. Schwartz](https://en.wikipedia.org/wiki/Jeffrey_M._Schwartz) [EN]
+
+Uno de los psiquiatras especializado en TOC más conocidos. Creador de los conocidos como **Los cuatro pasos**: reetiquetar, reatribuir, reenfocar y reevaluar. Autor del famoso libro [Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}}).
+
 ### Carles Soriano-Mas
+
 Investigador y profesor asociado especializado en neuroimagen, neuropsicoloǵía y psiquiatría dedicado al estudio del TOC y los trastornos de humor y la ansiedad. 
 * Investigador principal y jefe de laboratorio en el [Instituto de Investigaciones Biomédicas de Bellvitge](https://idibell.cat/es/), Barcelona.
 * Profesor asociado al Departamento de Psicología Social y Cuantitativa de la Universidad de Barcelona.
 * Investigador asociada del Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM) del Ministerio de Economía y Competividad.
 
 
-### [Jeffrey M. Schwartz](https://en.wikipedia.org/wiki/Jeffrey_M._Schwartz) [EN]
+### David Veale
 
 
 ### [Claire Weekes](https://en.wikipedia.org/wiki/Claire_Weekes) [EN]
+
+Una de las grandes pioneras del estudio de los trastornos de ansiedad —ella misma los sufría—. Su forma de tratar la ansiedad se basaba en tres pasos: aceptarla, evitar resistirse y reducir el miedo a los síntomas. Se anticipó a manera en que se trata el TOC con la terapia cognitivo-conductual y la exposición con prevención de respuesta.
+
+### Sally Winston
 
 
 

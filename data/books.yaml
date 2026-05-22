@@ -13,13 +13,13 @@
   year: 2023
   cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1674047804i/79485596.jpg
 
-- title: The Man Who Couldn't Stop
+- title: Aplastar elTOC
   authors:
-    - David Adam
-  editor: Picador
-  year: 2014
-  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1393519278i/20930755.jpg
-  language: en
+    - Natasha Daniels
+    - Fernando Montesinos (trad.)
+  editor: Desclée De Brouwer
+  year: 2025
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747277346i/227667756.jpg
 
 - title: Detección del TOC en niños
   authors:
@@ -32,8 +32,16 @@
   authors:
     - Dawn Huebner
   cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1529169117i/40541617.jpg
-  editor: Hogrefe TEA
+  editor: TEA Hogrefe
   year: 2011
+
+- title: The Man Who Couldn't Stop
+  authors:
+    - David Adam
+  editor: Picador
+  year: 2014
+  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1393519278i/20930755.jpg
+  language: en
 
 - title: Sal del laberinTOC
   authors:
@@ -57,10 +65,3 @@
   editor: Plataforma Editorial
   year: 2014
 
-- title: Aplastar elTOC
-  authors:
-    - Natasha Daniels
-    - Fernando Montesinos (trad.)
-  editor: Desclée De Brouwer
-  year: 2025
-  cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747277346i/227667756.jpg

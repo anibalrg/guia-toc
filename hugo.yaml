@@ -33,10 +33,10 @@ menu:
       params:
         type: search
     - name: Diccionario
-      pageRef: /glossary
+      pageRef: /glosario
       weight: 2
     - name: Noticias
-      url: /news
+      url: /noticias
       weight: 10
       params:
         icons: newspaper
