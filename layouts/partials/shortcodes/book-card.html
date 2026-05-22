@@ -5,6 +5,7 @@
 {{- $editor  := .editor -}}
 {{- $year    := .year -}}
 {{- $language:= .language | upper| default "" -}}
+{{- $id      := printf "book-%s" (.title | anchorize) -}}
 
 {{- if not (eq $language "") -}}
   {{- $language = printf "[%s]" ($language) -}}
@@ -26,7 +27,7 @@
     />
   {{- end -}}
 
-  <div class="hx:mt-auto">
+  <div class="hx:mt-auto" id="{{ $id }}">
     <span class="hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50">
       {{- $title -}}
     </span>
