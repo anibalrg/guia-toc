@@ -27,6 +27,11 @@ Lo más urgente es que un psicólogo confirme o descarte que se trata de TOC, de
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
+Sin terapia, el TOC puede cronificarse y aparecer de forma episódica a lo largo de la vida.
+{{< /hextra/hero-subtitle >}}
+
+{{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
+{{< hextra/hero-subtitle >}}
 Muchos afectados muestran alivio al saber que ellos no son sus obsesiones y que lo que les está pasando, les ocurre a millones de personas en todo el mundo y tiene explicación, nombre y un tratamiento.
 {{< /hextra/hero-subtitle >}}
 
@@ -76,7 +81,7 @@ Es muy recomendable acudir a los grupos de ayuda o apoyo mutuo (GAM) gestionados
 
     {{< hextra/feature-card link="ayuda/asociaciones" title="Buscar ayuda" icon="heart" subtitle="Asociaciones, grupos de ayuda mutua, foros&hellip;">}}
 
-    {{< hextra/feature-card link="guias/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
+    {{< hextra/feature-card link="ayuda/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
     
     {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de afectados" icon="heart" subtitle="La mejor forma de entender es escucharles." >}}
 
