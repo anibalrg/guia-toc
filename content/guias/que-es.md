@@ -40,9 +40,12 @@ Las últimas investigaciones apuntan cada vez más a que el TOC es un trastorno 
 
 * factores genéticos (antecedentes familiares)
 * ambientes familiares muy estrictos o demasiado sobreproctectores
-* sucesos estresantes o traumáticos que pueden actuar como detonantes
 * otros trastornos mentales (comorbilidad)
-* infección por estreptococos que afecta al [núcleo caudado](https://es.wikipedia.org/wiki/N%C3%BAcleo_caudado) del cerebro (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*)
+
+Los síntomas del TOC se van desarrollan gradualmente, pero a veces, puede haber un suceso que actúa como detonante y dispara los síntomas:
+* sucesos estresantes o traumáticos
+* cambios hormonales bruscos (por ejemplo en mujeres: menarquia, embarazo, postparto, menstruación)
+* aunque es controvertido porque no existen pruebas definitivas, se hipotetiza que en menores, tras ciertas infecciones virales por estreptococos que afectan al [núcleo caudado](https://es.wikipedia.org/wiki/N%C3%BAcleo_caudado) del cerebro (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*), se pueden dar síntomas de TOC.
 
 
 ### Rasgos de personalidad
@@ -66,16 +69,12 @@ Una vez que el TOC se ha desarrollado, a causa del aluvión de dudas que les pro
 Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
 
 ### El ciclo del TOC
+{{< figure
+      src="/guia-toc/images/ciclo-oc.svg"
+      alt="Ciclo de retroalimentación del TOC"
+      caption="Los pensamientos intrusivos provocan miedo, duda, vergüenza o ansiedad. El cerebro sobreestima el peligro y genera mucho malestar. La neutralización consigue aliviarlo momentáneamente. Pero en realidad está reforzando la obsesión, porque el cerebro aprende que la amenaza era importante y hay que responder a ella."
+>}}
 
-```mermaid
-stateDiagram-v2
-    Alivio: Alivio momentáneo
-    [*] --> Obsesión: pensamiento intrusivo
-    Alivio --> Obsesión: pensamiento intrusivo
-    Obsesión --> Ansiedad
-    Ansiedad --> Compulsión
-    Compulsión --> Alivio
-```
 
 ### Gravedad del TOC
 
