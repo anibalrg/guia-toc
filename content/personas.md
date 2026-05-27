@@ -6,7 +6,7 @@ toc: true
 ---
 
 
-### Jonathan Abramowitz
+### [Jonathan Abramowitz](https://jonabram.web.unc.edu/)
 
 
 ### Damián Alcolea
