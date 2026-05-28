@@ -10,13 +10,13 @@ cascade:
 
 {{< hextra/hero-container image="images/logo.svg"  imageTitle="TOC logo" cols="2" >}}
     {{< hextra/hero-headline >}}Información básica{{< /hextra/hero-headline >}}
-    {{< hextra/hero-subtitle >}}para familiares y amigos de afectados por el Trastorno obsesivo-compulsivo{{< /hextra/hero-subtitle >}}
+    {{< hextra/hero-subtitle >}}para familiares y amigos de personas con Trastorno obsesivo-compulsivo{{< /hextra/hero-subtitle >}}
 {{< /hextra/hero-container >}}
 
 
-{{< hextra/hero-section heading="h3">}}Objetivos{{< /hextra/hero-section >}}
+{{< hextra/hero-section heading="h3">}}Objetivo{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-El principal objetivo debe ser evitar el sufrimiento innecesario que padecen los afectados y sus familiares. Al que se suma la impotencia por no saber ayudarles.
+El TOC genera un enorme sufrimiento en las personas que lo padecen y mucha impotencia en quienes intentamos ayudarlas. Comprender cómo funciona este trastorno es esencial para poder acompañarlas sin empeorar el problema.
 {{< /hextra/hero-subtitle >}}
 
 
@@ -25,24 +25,16 @@ El principal objetivo debe ser evitar el sufrimiento innecesario que padecen los
 Lo más urgente es que un psicólogo confirme o descarte que se trata de TOC, determine si existen o no otros trastornos simultáneamente (**comorbilidad**) y valore la severidad. Si lo considera necesario, un psiquiatra determinará si es necesaria la administración de algún medicamento como complemento a la terapia.
 {{< /hextra/hero-subtitle >}}
 
-{{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
-{{< hextra/hero-subtitle >}}
-Sin terapia, el TOC puede cronificarse y aparecer de forma episódica a lo largo de la vida.
-{{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Muchos afectados muestran alivio al saber que ellos no son sus obsesiones y que lo que les está pasando, les ocurre a millones de personas en todo el mundo y tiene explicación, nombre y un tratamiento.
+Muchos personas muestran alivio al saber que ellos no son sus obsesiones y que lo que están viviendo les ocurre a millones de personas en todo el mundo, tiene explicación, nombre y tratamiento.
 {{< /hextra/hero-subtitle >}}
-
-{{< callout type="info">}}
-Los afectados de TOC **son los que más tardan** en pedir ayuda de todas las patologías mentales. **Los adultos tardan entre siete y diez años**, mientras que **los menores entre dos y tres**.
-{{< /callout >}}
 
 
 {{< hextra/hero-section heading="h3">}}Psicoeducación{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Los terapeutas comienzan el tratamiento con esta fase para ofrecer toda la información que el afectado y los familiares necesitan para conocer los mecanismos de este trastorno y los pormenores de la terapia.
+Los terapeutas comienzan el tratamiento con esta fase para ofrecer toda la información que el afectado y los familiares necesitan para conocer los mecanismos de este trastorno y en qué consiste la terapia.
 {{< /hextra/hero-subtitle >}}
 
 
@@ -53,27 +45,34 @@ El tratamiento psicológico más estandarizado para el TOC es la **terapia cogni
 
 {{< hextra/hero-section heading="h3">}}Medicación{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Algo que nos inquieta a algunos familiares es que algunos afectados de TOC necesitan además medicación. Los medicamentos administrados son, principalmente, antidepresivos del tipo conocido como inhibidores selectivos de la recaptación de la serotonina (ISRS) o la clomipramina.
+Algunos personas necesitan medicación como complemento a la terapia. Los tratamientos más utilizados en la actualidad dos tipos de antidepresivos: los ISRS (Inhibidores Selectivos de la Recaptación de la Serotonina) y la clomipramina. Para tratar el TOC, normalmente, se necesitan dosis más altas de que para tratar la depresión, algo que nos suele generar dudas y preocupación a los familiares.
 {{< /hextra/hero-subtitle >}}
 
-{{< callout type="info" >}}
-Los pacientes que sólo se medican pueden reducir sus síntomas entre el 40% y el 60%, mientras que los que sólo hacen terapia y responden a ella, los reducen entre el 60% y 80%.  ([*IOCDF*](https://iocdf.org/es/que-es-el-toc/como-se-trata-el-toc/)).
-{{< /callout >}}
 
 {{< hextra/hero-section heading="h3">}}¿Y nosotros qué hacemos?{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Lo más importante, según muchos de los testimonios de los afectados, es simplemente estar presentes, acompañar, hacer que no se sientan solos en esto. Sin embargo, en nuestro intento por ayudar, hacemos muchas cosas que, a la larga, perjudican porque ayudan al TOC.
+Muchas personas con TOC coinciden en que una de las ayudas más importantes es, simplemente, sentirse acompañadas y no estar solas en esto.
+{{< /hextra/hero-subtitle >}}
+
+{{< hextra/hero-section heading="h3">}}{{< /hextra/hero-section >}}
+{{< hextra/hero-subtitle >}}
+Buscar apoyo cuando lo necesitemos, especialmente en los grupos de ayuda o apoyo mutuo (GAM) organizados por las asociaciones, donde compartir experiencias y aprender de profesionales, personas con TOC y familiares en una situación parecida a la nuestra.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Es muy recomendable acudir a los grupos de ayuda o apoyo mutuo (GAM) gestionados, principalmente, por las asociaciones especializadas, donde se aprende de profesionales, afectados recuperados y personas en nuestra misma situación o muy parecida.
+Aprender todo lo posible sobre cómo funciona el TOC para ayudar a nuestros familiares y amigos sin reforzarlo.
+{{< /hextra/hero-subtitle >}}
+
+{{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
+{{< hextra/hero-subtitle >}}
+Como familiares de una persona con TOC, reunimos toda la información que nos habría gustado encontrar antes, con la esperanza de que pueda serte útil para comprender y ayudar mejor.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}{{< /hextra/hero-section >}}
 
 {{< hextra/feature-grid cols="2" >}}
-    {{< hextra/feature-card link="guias/que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Conocer todo lo posible sobre este trastorno nos permitirá empatizar y ayudar mejor a los nuestros.">}}
+    {{< hextra/feature-card link="guias/que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Profundizar más en el conocimiento del TOC.">}}
 
     {{< hextra/feature-card link="guias/que-hacer" title="¿Qué debemos hacer?" icon="question-mark-circle" >}}
     
@@ -83,7 +82,7 @@ Es muy recomendable acudir a los grupos de ayuda o apoyo mutuo (GAM) gestionados
 
     {{< hextra/feature-card link="ayuda/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
     
-    {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de afectados" icon="heart" subtitle="La mejor forma de entender es escucharles." >}}
+    {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de personas con TOC y familiares" icon="heart" subtitle="La mejor forma de entender es escucharles." >}}
 
     {{< hextra/feature-card link="recursos" title="Recursos" icon="heart" subtitle="Afortunadamente, tenemos acceso a una enorme cantidad de recursos útiles para comprender el TOC: vídeos, podcasts, libros, documentos, etc." >}}
 
