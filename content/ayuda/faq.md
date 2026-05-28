@@ -28,7 +28,13 @@ title: Pregruntas frecuentes
 
 ## Medicación
 
+{{< callout type="info" >}}
+Los pacientes que sólo se medican pueden reducir sus síntomas entre el 40% y el 60%, mientras que los que sólo hacen terapia y responden a ella, los reducen entre el 60% y 80%.  ([*IOCDF*](https://iocdf.org/es/que-es-el-toc/como-se-trata-el-toc/)).
+{{< /callout >}}
+
 ### ¿Cómo ayudan los ISRS? ¿Por qué funcionan?
+
+### ¿Por qué mi familiar toma varias pastillas?
 
 ### 
 

@@ -81,8 +81,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="392.5"
-     inkscape:cx="484"
+     inkscape:cy="411.5"
+     inkscape:cx="354"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -133,7 +133,7 @@
      inkscape:label="Layer 1"
      transform="translate(-0.24080663,-40.218882)">
     <g
-       id="g31">
+       id="g11">
       <rect
          style="fill:#cbc0a9;fill-opacity:0.99985;fill-rule:evenodd;stroke:none;stroke-width:0.115604;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect112"
@@ -143,99 +143,58 @@
          y="40.218884"
          ry="0.3371703" />
       <rect
-         style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.217622;stroke-opacity:1"
-         id="rect5"
-         width="68.553322"
-         height="26.090355"
-         x="124.23785"
-         y="114.02996"
-         ry="0.42907342" />
+         style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.217183;stroke-opacity:1"
+         id="rect1"
+         width="68.490715"
+         height="26.008827"
+         x="71.587975"
+         y="58.549076"
+         ry="0.42773265" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65352px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.265008px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="139.75154"
-         y="124.04064"
-         id="text5"
-         transform="scale(0.99727254,1.0027349)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="95.910187"
+         y="69.042999"
+         id="text1"
+         transform="scale(0.99837813,1.0016245)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.65352px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.265008px"
-           x="139.75154"
-           y="124.04064"
-           id="tspan8">Alivio temporal</tspan></text>
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264473px"
+           x="95.910187"
+           y="69.042999">Obsesión</tspan></text>
       <g
-         id="g1"
-         transform="matrix(0.99796398,0,0,1.001209,59.464912,-31.819372)"
-         style="fill:#fbfbfb;fill-opacity:0.99985">
+         id="g4">
         <rect
            style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.217273;stroke-opacity:1"
-           id="rect1"
+           id="rect4"
            width="68.630447"
            height="25.977421"
-           x="12.147795"
-           y="90.259323"
+           x="71.518105"
+           y="169.70561"
            ry="0.42721614" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="34.925808"
-           y="105.19254"
-           id="text1"><tspan
-             sodipodi:role="line"
-             id="tspan1"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
-             x="34.925808"
-             y="105.19254">Obsesión</tspan></text>
-      </g>
-      <rect
-         style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.218386;stroke-opacity:1"
-         id="rect3"
-         width="69.036865"
-         height="26.08968"
-         x="12.874775"
-         y="114.0303"
-         ry="0.42906231" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:79.8712;display:inline;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="38.275772"
-         y="105.19254"
-         id="text3"
-         transform="matrix(1.0059218,0,0,1.0043214,8.9325034,18.227907)"><tspan
-           x="38.275772"
-           y="105.19254"
-           id="tspan5"><tspan
-             style="font-weight:bold;-inkscape-font-specification:'HK Grotesk Bold'"
-             id="tspan2">Miedo/Culpa</tspan></tspan></text>
-      <rect
-         style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.217273;stroke-opacity:1"
-         id="rect4"
-         width="68.630447"
-         height="25.977421"
-         x="71.518105"
-         y="169.70561"
-         ry="0.42721614" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="83.502617"
-         y="187.13905"
-         id="text7"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="83.502617"
            y="187.13905"
-           id="tspan6">Compulsión/Evitación</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="87.350189"
-         y="179.86023"
-         id="text2"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;stroke:none;stroke-width:0.264583px"
+           id="text7"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+             x="83.502617"
+             y="187.13905"
+             id="tspan6">Compulsión/Evitación</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="87.350189"
            y="179.86023"
-           id="tspan4">Neutralización</tspan></text>
+           id="text2"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;stroke:none;stroke-width:0.264583px"
+             x="87.350189"
+             y="179.86023"
+             id="tspan4">Neutralización</tspan></text>
+      </g>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.215451px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
          d="m 161.56015,114.11722 c 0,0 -0.20334,-14.987585 -5.15521,-25.912334 -5.70517,-12.586683 -15.04581,-16.156431 -15.04581,-16.156431"
@@ -256,38 +215,97 @@
          d="m 45.192299,140.23435 c 0,0 0.25464,15.67013 6.4558,27.09241 7.144508,13.15989 18.841666,16.89222 18.841666,16.89222"
          id="path29"
          sodipodi:nodetypes="csc" />
+      <rect
+         style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.218386;stroke-opacity:1"
+         id="rect3"
+         width="69.036865"
+         height="26.08968"
+         x="12.874775"
+         y="114.0303"
+         ry="0.42906231" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="19.292843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.91372px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:79.8712;display:inline;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="38.275772"
+         y="105.19254"
+         id="text3"
+         transform="matrix(1.0059218,0,0,1.0043214,8.9325034,18.227907)"><tspan
+           x="38.275772"
+           y="105.19254"
+           id="tspan3"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'HK Grotesk Bold'"
+             id="tspan2">Miedo/Asco/Culpa/Vergüenza</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="47.467525"
          y="131.39555"
          id="text29"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
-           x="19.292843"
-           y="131.39555"
-           id="tspan29">Aumenta malestar/ansiedad</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="158.46405"
-         y="131.39555"
-         id="text30"><tspan
-           sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+           x="47.467525"
+           y="131.39555"
+           id="tspan29">Aumenta el malestar</tspan></text>
+      <g
+         id="g3">
+        <rect
+           style="fill:#fbfbfb;fill-opacity:0.99985;fill-rule:evenodd;stroke:#000000;stroke-width:0.217622;stroke-opacity:1"
+           id="rect5"
+           width="68.553322"
+           height="26.090355"
+           x="124.23785"
+           y="114.02996"
+           ry="0.42907342" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.265008px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="139.75154"
+           y="124.04064"
+           id="text5"
+           transform="scale(0.99727255,1.0027349)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk Bold';fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.265008px"
+             x="139.75154"
+             y="124.04064"
+             id="tspan8">Alivio temporal</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="158.46405"
            y="131.39555"
-           id="tspan30">Disminuye el malestar/ansiedad</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
-           x="158.46405"
-           y="137.12819"
-           id="tspan31">pero refuerza el ciclo</tspan></text>
+           id="text30"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+             x="158.46405"
+             y="131.39555"
+             id="tspan30">Disminuye el malestar,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+             x="158.46405"
+             y="137.12819"
+             id="tspan31">pero refuerza el ciclo</tspan></text>
+      </g>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.221235px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28-7)"
          d="m 102.89677,168.733 c 0,0 0.21331,-15.06506 5.40776,-26.0463 5.98467,-12.65179 15.78294,-16.23997 15.78294,-16.23997"
          id="path30"
          sodipodi:nodetypes="csc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:125%;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="105.7783"
+         y="74.945007"
+         id="text6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+           x="105.7783"
+           y="74.945007"
+           id="tspan5">Pensamiento intrusivo,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'HK Grotesk';-inkscape-font-specification:'HK Grotesk';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99985;stroke:none;stroke-width:0.264583px"
+           x="105.7783"
+           y="80.677643"
+           id="tspan9"> sensación, sentimiento, imagen</tspan></text>
     </g>
   </g>
 </svg>

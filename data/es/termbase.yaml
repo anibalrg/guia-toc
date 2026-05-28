@@ -11,7 +11,7 @@
 
 - term: compulsión
   definition: |
-      Conducta física o mental difícil de resistir que se realiza para reducir la ansiedad o evitar un temor provocado por una obsesión. Compulsiones físicas son, por ejemplo: lavarse, tocar, comprobar, repetir acciones un número de veces, preguntar varias veces lo mismo...; compulsiones mentales son: repetir frases o rezar, contar, analizar recuerdos, etc.
+      Conducta física o mental difícil de resistir que se realiza para reducir la ansiedad o evitar un temor provocado por una obsesión. Compulsiones físicas son, por ejemplo: lavarse, tocar, comprobar, repetir acciones un número de veces determinado, preguntar varias veces lo mismo...; compulsiones mentales son: repetir frases, rezar, contar, analizar recuerdos, reemplazar pensamientos negativos por positivos, etc.
 
 - term: disparador
   definition: Estímulo que activa las obsesiones que causan la ansiedad. Puede se una situación, un pensamiento, una imagen o una sensación.
@@ -31,12 +31,16 @@
 - term: habituación
   definition: Disminución gradual de la ansiedad cuando la persona permanece el tiempo suficiente ante aquello que teme sin evitarlo ni realizar compulsiones.
 
+- term: ISRS
+  definition: |
+    Inhibidor Selectivo de la Recaptación de la Serotonina. Son el grupo de antidepresivos —junto con la clomipramina— que se usan como tratamiento para el TOC en la actualidad. Los más conocidos son: sertralina, fluoxetina y paroxetina.
+
 - term: miedo
   definition: Respuesta emocional ante un peligro que percibimos como inmediato y claramente identificable. Se procesa en la amigdala cerebral, que prepara el cuerpo para reaccionar inmediatamente para huir, protegerse o defenderse. Suele estar ligado al contenido de la obsesión.
 
 - term: neutralización
   definition: |
-    Intento de reducir la sensación de amenaza o culpa y la ansiedad provocada por una obsesión mediante: rituales o compulsiones físicas o mentales, reaseguración, evitación, repetición de frases (mantras, rezos...), intento de sustituir pensamientos negativos por positivos, etc. Todo tipo de neutralización produce alivio momentáneo porque reduce la ansiedad, pero refuerza el TOC porque el cerebro aprende que la obsesión es importate o peligrosa.
+    Intento de reducir la sensación de amenaza o culpa y la ansiedad provocada por una obsesión mediante compulsiones o evitaciones. Todo tipo de neutralización produce alivio momentáneo porque reduce la ansiedad, pero refuerza el TOC porque el cerebro aprende que la obsesión es importante o peligrosa.
 
 - term: obsesión
   definition: Pensamiento, imagen, duda, impulso o sensación repetitiva e involuntaria que provoca malestar, culpa o ansiedad al interpretarse como muy importante o peligroso, generando mucha angustia, culpa o miedo. Toda obsesión comienza con un pensamiento intrusivo, pero no todo pensamiento intrusivo genera una obsesión.
@@ -66,4 +70,4 @@
   definition: Reconocimiento del sufrimiento sin reforzar el TOC.
 
 - term: ventana de tolerancia
-  definition: Rango óptimo de activación emocional y física dentro del cual una persona puede gestionar sus emociones, pensar con claridad y actuar eficazmente. Referido al nivel de ansiedad que provoca la terapia, es la ansiedad que una persona puede manejar sin sentirse completamente desbordada (hiperactivación) o apática (hipoactivación). La terapia debe efectuarse dentro de esta ventana y de forma gradual.
+  definition: Rango óptimo de activación emocional y física dentro del cual una persona puede gestionar sus emociones, pensar con claridad y actuar eficazmente. Referido al nivel de ansiedad que provoca la terapia, es la ansiedad que una persona puede manejar sin sentirse completamente desbordada (hiperactivación) o apática (hipoactivación). Desde el punto de vista de la terapia, esta debe efectuarse dentro de esta ventana y de forma gradual. En realidad, todos deberíamos tratar de actuar y tomar decisiones cuando estamos dentro de la ventana de tolerancia.
