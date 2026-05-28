@@ -119,7 +119,7 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
         title="Asociación TOC Zaragoza"
         alt="Asociación TOC Zaragoza"
         subtitle="Zaragoza"
-        link="https://tocvalencia.org/"
+        link="https://toczaragoza.com/"
         image="https://yt3.googleusercontent.com/iFtYXhrXEklP6SpxXQAuBuleln_czuFrEVqZXkvq7-ZaP9C6U8vbrdYzwy9KMvLD9R5p-dBS7Q=s160-c-k-c0x00ffffff-no-rj" 
     >}}
 
@@ -136,9 +136,6 @@ Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [
 
 
 ## Foros
-{{< callout type="error" icon="warning" >}}
-La búsqueda de información en foros, grupos de Facebook, canales de Telegram, WhatsApp, chatbots y demás se pueden convertir, para algunos afectados, en herramientas de compulsión.
-{{< /callout >}}
 
 * [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
 * [My OCD Community](https://healthunlocked.com/my-ocd) [EN].
