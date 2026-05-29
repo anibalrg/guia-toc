@@ -19,7 +19,7 @@ Más de 300 vídeos con  multitud de vídeos con:
   Hemos destacado algunas, pero hay muchas muy interesantes:
   * Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
     * Farmacológicos:
-  {{< youtube id=PwRkQ_WxZtQ loading=lazy >}}
+  {{< youtube id=PwRkQ_WxZtQ >}}
   
     * Tratamientos para pacientes resistentes a los fármacos:
   {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
