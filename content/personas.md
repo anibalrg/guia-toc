@@ -52,7 +52,11 @@ Psicóloga especializada en TOC.
 
 ### [Natasha Daniels](https://childocdtherapist.com/) [EN]
 
-Terapeuta infantil y escritora especiada en trastornos de ansiedad y TOC.
+* Terapeuta infantil especilizada en trastornos de ansiedad y TOC. Madre de tres niños con ansiedad y TOC.
+* Escritora de libros especializados en la ansiedad y el TOC para niños y padres.
+* Presentadora del *podcast* [*AT Parenting Survival Podcast](https://podcasts.apple.com/us/podcast/at-parenting-survival-raising-kids-with-ocd-anxiety/id1205679186) y de su canal en YouTube: [Natasha Daniels](https://www.youtube.com/@childocdtherapist).
+* Autora del libro [Aplastar el TOC]({{% relref "/recursos/#book-aplastar-el-toc" %}}).
+
 
 
 ### [Jean-Étienne Dominique Esquirol](https://es.wikipedia.org/wiki/Jean_%C3%89tienne_Dominique_Esquirol)
@@ -84,7 +88,7 @@ Durante los años 80, Goodman fue uno de los investigadores principales del prim
 
 Creador de la terapia de aceptación y compromiso, que ha influido en el actual tratamiendo del TOC.
 
-### Joh Hershfield
+### John Hershfield
 
 
 ### Mardi Horowitz
@@ -92,7 +96,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 
 ### Rosa Iglesias Rosique
 
-* Presidenta y cofundadora de la [Asociación Planeta TOC](https://www.planetatoc.com) (ArroyoMolinos, Madrid).
+* Presidenta y fundadora de la [Asociación Planeta TOC](https://www.planetatoc.com) (ArroyoMolinos, Madrid).
 * Fundadora de la [Fundación Nacional para el TOC](https://fundaciontoc.org/) (ArroyoMolinos, Madrid).
 
 <!-- ### Rosa Lafuente -->
@@ -102,7 +106,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 
 * Asistente personal en Salud Mental y Agente de Apoyo Mutuo especializado en TOC. 
 * Cofundador de la [Asociación TOC Zaragoza](https://toczaragoza.com).
-* Cofundador y director del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
+* Director y guionista del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
 
 
 ### Dra. María Luisa Lázaro García
@@ -133,7 +137,10 @@ Psicólogo pionero por su trabajo en la terapia cognitivo-conductual, la compren
 
 ### [Jeffrey M. Schwartz](https://en.wikipedia.org/wiki/Jeffrey_M._Schwartz) [EN]
 
-Uno de los psiquiatras especializado en TOC más conocidos. Creador de los conocidos como **Los cuatro pasos**: reetiquetar, reatribuir, reenfocar y reevaluar. Autor del famoso libro [Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}}).
+Uno de los psiquiatras especializado en TOC más conocidos.
+* Creador de los conocidos como **Los cuatro pasos**: reetiquetar, reatribuir, reenfocar y reevaluar.
+* Autor del famoso libro [Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}}).
+
 
 ### Carles Soriano-Mas
 
