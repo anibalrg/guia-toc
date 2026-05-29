@@ -10,11 +10,11 @@ type: docs
 
 ### [Fundación TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
-Más de 300 vídeos con  multitud de vídeos con:
-  * testimonios de afectados y familiares;
+Más de 300 vídeos sobre multitud de temas relacionados con el TOC de uno de los sitios de referencia en el tratamiento contra el TOC:
+  * testimonios de personas con TOC y familiares;
   * charlas de expertos: psicólogos, psiquiatras y neurólogos;
   * charlas especializadas en TOC infanto-adolescente;
-  * cortos realizados por afectados de TOC…
+  * cortos realizados por personas con TOC…
   
   Hemos destacado algunas, pero hay muchas muy interesantes:
   * Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
