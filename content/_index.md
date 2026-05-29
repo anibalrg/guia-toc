@@ -40,7 +40,7 @@ Los terapeutas comienzan el tratamiento con esta fase para ofrecer toda la infor
 
 {{< hextra/hero-section heading="h3">}}Terapia{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-El tratamiento psicológico más estandarizado para el TOC es la **terapia cognitivo-conductual** (TCC) en combinación con la técnica de **exposición con prevención de respuesta** (EPR). Es importante que los terapeutas sean especialistas en este trastorno y el apoyo familiar durante la terapia.
+El tratamiento psicológico más estandarizado para el TOC es la **terapia cognitivo-conductual** (TCC) en combinación con la técnica de **exposición con prevención de respuesta** (EPR). Es importante que los terapeutas sean especialistas en este trastorno. También que cuenten con todo nuestro apoyo mientras dura el tratamiento.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}Medicación{{< /hextra/hero-section >}}
@@ -66,7 +66,7 @@ Aprender todo lo posible sobre cómo funciona el TOC para ayudar a nuestros fami
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Como familiares de una persona con TOC, reunimos toda la información que nos habría gustado encontrar antes, con la esperanza de que pueda serte útil para comprender y ayudar mejor.
+Como familiares de una persona con TOC, reunimos aquí la información que nos hubiera gustado encontrar antes, con la esperanza de que pueda serte útil para comprender y ayudar mejor.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}{{< /hextra/hero-section >}}
