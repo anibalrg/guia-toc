@@ -6,11 +6,11 @@ weight: 1
 
 ### Introducción
 
-El TOC es un trastorno mental caracterizado por **obsesiones** que causan un gran malestar emocional y **neutralizaciones** (comunmente conocidas como **compulsiones**) que se realizan para tratar de aliviar este malestar o prevenir un suceso temido y que, a largo plazo, refuerzan el trastorno.
+El TOC es un trastorno mental caracterizado por **obsesiones**, que causan un gran malestar emocional, **compulsiones** o **evitaciones** que tratan de **neutralizar** el malestar, o ambas.
 
 Aunque está considerado por la {{< term OMS >}} como uno de los trastornos mentales más inhabilitantes, sigue siendo un gran desconocido. Hasta hace unos años, el TOC se consideraba dentro de los trastornos de ansiedad por las guías de psiquiatría, ya que la mayoría de afectados sufren de ansiedad. Actualmente se considera una categoría independiente junto a otros trastornos de su espectro[^espectro].
 
-[^espectro]: El *Trastorno obsesivo-compulsivo y relacionados*, también llamado *espectro obsesivo-compulsivo*, es una categoría de trastornos que comparten similitudes con el TOC. Anteriormente, algunos eran trastornos de ansiedad y otros de control de impulsos. Las dos principales guías psiquíatricas: DSM-5 (APA, 2013) y  CIE 11 (OMS,2019) coinciden en los siguientes:
+[^espectro]: El *Trastorno obsesivo-compulsivo y relacionados*, también llamado *espectro obsesivo-compulsivo*, es una categoría de trastornos que comparten similitudes con el TOC. Anteriormente, algunos eran trastornos de ansiedad y otros de control de impulsos. Las dos principales guías psiquíatricas: DSM-5 (*Diagnostic and Statistical Manual of mental disorders*, *American Psychitric Association*) y  CIE 11 (Clasificación Internacional de Enfermedades, OMS) coinciden en los siguientes:
     * **TOC**
     * **Trastorno Dismórfico Corporal** (TDC). Obsesión por los defectos percibidos de la apariencia  física que conducen a comportamientos repetitivos como mirarse en el espejo. 
     * **Trastorno de Acumulación**. Aunque diferente al Síndrome de Diógenes, comparte la dificultad para deshacerse de posesiones.
@@ -20,7 +20,7 @@ Aunque está considerado por la {{< term OMS >}} como uno de los trastornos ment
 
 ### Las obsesiones
 
-Las obsesiones son **pensamientos intrusivos** —dudas, ideas, imágenes, impulsos, sensaciones—, repetitivos, persistentes, no deseados, que generan malestar y sufrimiento: miedo, asco, culpa, vergüenza, ansiedad…
+Las obsesiones son **pensamientos intrusivos** —dudas, ideas, imágenes, impulsos, sensaciones—, repetitivos, persistentes, no deseados, que generan malestar en forma de  miedo, asco, culpa, vergüenza, ansiedad…
 
 Estos pensamientos son contrarios a los valores de la persona que los sufre (**egodistónicos** ). **Las personas con TOC suelen obsesionarse precisamente con aquello que más les importa**. Por ejemplo, una persona con TOC, con un gran sentido de la responsabilidad y que tenga que manejar dinero, dedicará mucho tiempo a revisar y asegurarse de que no se equivoca en su manejo.
 
@@ -28,21 +28,18 @@ A menudo, las obsesiones están relacionadas con la preocupación o el miedo a s
 
 Estudios y revisiones indican que los pensamientos intrusivos son muy comunes en la población general. El problema es que el TOC hace que se interpreten como muy peligrosos e importantes.
 
-Al malestar causado por las obsesiones, muchas personas con TOC añaden la frustración, sensación de incompresión y vergüenza por ser conscientes de que sus miedos y dudas son irracionales, exagerados o poco razonables. «Sé que esto no tiene sentido, pero ¿y si…?».
+Al malestar causado por las obsesiones, muchas personas con TOC añaden la frustración, sensación de incompresión y vergüenza por ser conscientes de que sus miedos y dudas son irracionales, exagerados o poco razonable: «sé que esto no tiene sentido, pero ¿y si…?».
 
-Desde el punto de vista clínico, se considera que debe ser tratado cuando:
-
-* interfieren en el día a día de la persona,
-* consumen mucho tiempo y energía,
-* causan un malestar importante,
-* llevan a tratar de neutralizar el malestar.
-
+Para que se diagnostique el TOC, debe cumplir algunas de estas condiciones:
+* consumir mucho tiempo diario,
+* causar mucho malestar,
+* deteriorar la vida en cualquier aspecto: familiar, social, educativo, laboral… 
 
 ### Neutralizaciones: compulsiones y evitaciones
 
-Los afectados de TOC realizan conductas llamadas neutralizaciones para intentar reducir el malestar o evitar un peligro. Ambas buscan aliviar el malestar de que causa la obsesión. Hay dos tipos: compulsiones y evitaciones.
+Los afectados de TOC se siente impulsados a realizar conductas, llamadas neutralizaciones, para intentar reducir el malestar que causan las obsesiones. Hay dos tipos: compulsiones y evitaciones. Ambas buscan aliviar el malestar de que causa la obsesión.
 
-Aclaración: En mucha información sobre el TOC se habla de compulsiones cuando en realidad están hablando de compulsiones y evitaciones, es decir, neutralizaciones.
+Aclaración: En mucha información sobre el TOC los términos compulsiones y neutralizaciones son intercambiables.
 
 
 #### Compulsiones
@@ -86,8 +83,12 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 
 * María oye un ruido cuando su oche pasa por un bache. Inmediatamente le aparece un pensamiento que le genera miedo y culpa: «*¿y si he atropellado a alguien?*». Para aliviar la duda, vuelve atŕas para comprobar si hay alguien herido. Al ver que no hay nadie, se calma. Sin embargo, la duda no desaparece del todo y siente la necesidad de volver a comprobarlo. Con el tiempo, aparecerán nuevas comprobaciones por estímulos parecidos y el trayecto de María se irá haciendo cada vez más largo.
 
-* Pedro cierra la puerta y pulsa el botón del ascensor. Le asalta la duda: «¿He cerrado bien la puerta?». Mete la llave en la cerradura y comprueba que la puerta esté bien cerrada. Baja en el ascensor y cuando va a salir por el portal la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces. Pulsa el botón del ascenso, baja y al salir del portal, de nuevo duda «¿he cerrado bien la puerta?»
+* Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir.
 
+
+### Diagnóstico
+
+Para que se diagnostique el TOC, las obsesiones y compulsiones deben llevar mucho tiempo diario, generar gran malestar o deteriorar la vida de la persona en cualquier aspecto: personal, familiar, social, educativo, laboral…
 
 
 ### Causas
@@ -128,7 +129,7 @@ Las personas con TOC suelen compartir algunos rasgos de personalidad comunes, qu
 * tendencia a interiorizar
 * necesidad de control
 
-Una vez que el TOC se ha desarrollado, a causa del aluvión de dudas que les proporciona su cerebro, los afectados por TOC suelen desarrollen gran inseguridad y baja autoestima. 
+Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones suele conllevar gran inseguridad y baja autoestima. 
 
 Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
 
@@ -143,6 +144,11 @@ Las cifras varían con los estudios. Por ejemplo, un reciente estudio llevado a 
 
 Otros 
  llegando al 3.5% en Asia. Por tanto en España hay alrededor de un millón de personas afectadas. 
+
+
+### Comorbilidad
+
+Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
 
 
 ### Autoestima e inseguridad
