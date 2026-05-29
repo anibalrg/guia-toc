@@ -1,7 +1,7 @@
 ---
 date: 2026-05-06
 draft: false
-title: Pregruntas frecuentes
+title: Preguntas frecuentes
 ---
 
 ## Cerebro
