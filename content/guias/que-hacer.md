@@ -4,16 +4,27 @@ title: ¿Qué debemos hacer?
 ---
 
 
-## Entender
+### Entender
 
-## No interrumpir compulsiones
 
-## Usar el sentido del humor
+### Tener paciencia y empatía
 
-## Reforzar cada pequeño avance
 
-## Tener paciencia, mucha paciencia
+### Ayudar desde el cariño
 
-## Ayudar llevar un estilo de vida ordenado
 
-## 
+### Establecer límites 
+
+### No interrumpir compulsiones
+
+
+### Usar el sentido del humor
+
+
+### Reforzar cada pequeño avance o logro
+
+
+### Ayudar llevar un estilo de vida ordenado
+
+
+### Intentar que sigan manteniendo las mismas responsabilidades

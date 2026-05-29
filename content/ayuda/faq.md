@@ -4,6 +4,12 @@ draft: false
 title: Preguntas frecuentes
 ---
 
+### ¿El TOC se cura o es crónico?
+En el siguiente vídeo la psicóloga clínica Noelia Hernández Yeste, Directora y Coordinadora del Equipo Técnico de la Asociación TOC Granada, aclara la gran duda.
+
+  {{< youtube id=qFYn9OgaaAc >}}
+
+
 ## Cerebro
 
 ### ¿De dónde proceden los pensamientos?
@@ -41,7 +47,6 @@ Los pacientes que sólo se medican pueden reducir sus síntomas entre el 40% y e
 ## Recuperación
 
 ## ¿Se llegan a recuperar completamente una  persona con TOC?
-
 
 
 

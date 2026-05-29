@@ -19,6 +19,15 @@ En España, en el caso de la sanidad pública, se debe acudir primero a la atenc
 
 ## Medicación
 
+En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-del-pino-alonso) explica todos los posibles tratamientos del TOC desde del punto de vista psiquiátrico. 
+  
+* Tratamientos farmacológicos del TOC:
+  {{< youtube id=PwRkQ_WxZtQ >}}
+  
+* Tratamientos para pacientes resistentes a los fármacos y a la terapia:
+  {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
+  
+
 
 ## Psicoeducación
 

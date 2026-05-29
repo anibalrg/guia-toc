@@ -20,9 +20,10 @@ Más de 300 vídeos con  multitud de vídeos con:
   * Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
     * Farmacológicos:
   {{< youtube id=PwRkQ_WxZtQ loading=lazy >}}
-    * Tratamientos para pacientes resistentes a los fármacos:
-  {{< Youtube id=Ra9Pv5vl7LA loadin=lazy >}}
   
+    * Tratamientos para pacientes resistentes a los fármacos:
+  {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
+
   * El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica Asi el TOC es un problema biológico o aprendido:
   {{<  youtube id=M5U1l-ElhX0 loading=lazy >}}
   
@@ -32,13 +33,13 @@ Más de 300 vídeos con  multitud de vídeos con:
 Son muy recomendables sus charlas de preguntas y respuestas para afectados y para familiares, así como las charlas con expertos y profesionales en psiquiatría y psicología. Destacamos estas:
 
 * Charla #9: El TOC en la infantojuvenil, por Tomás Miño Landon, psicólogo infantojuvenil especialista en TOC.
-{{<youtube 1F3QqlpFFboKjilr >}}
+{{<  youtube id=1F3QqlpFFboKjilr loading=lazy >}}
 
 * Cualquiera de las charlas de preguntas y respuestas impartidas por Antonella Orsucci, psicóloga sanitaria especializada en TOC, son muy recomendables.
-{{< youtube tjvVygz0qRY >}}
+{{< youtube id=tjvVygz0qRY loading=lazy >}}
 
 * Charla TOC #3 TOC en niños y adolescentes, impartida por la psiquiatra especializa en TOC María Luisa Lázaro García, jefa de psiquiatría infantojuvenil del Hospital Clinic de Barcelona.
-{{< youtube yVwbGju9Vuc >}}
+{{< youtube id=yVwbGju9Vuc loading=lazy >}}
 
 
 ### [Talk Toc Mx](https://www.youtube.com/channel/UC1x6TMgVahfTFjY8FApnG_g)

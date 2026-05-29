@@ -81,9 +81,9 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 
 #### Ejemplos
 
-* María oye un ruido cuando su oche pasa por un bache. Inmediatamente le aparece un pensamiento que le genera miedo y culpa: «*¿y si he atropellado a alguien?*». Para aliviar la duda, vuelve atŕas para comprobar si hay alguien herido. Al ver que no hay nadie, se calma. Sin embargo, la duda no desaparece del todo y siente la necesidad de volver a comprobarlo. Con el tiempo, aparecerán nuevas comprobaciones por estímulos parecidos y el trayecto de María se irá haciendo cada vez más largo.
+* María oye un ruido cuando su coche pasa por un bache. Inmediatamente le aparece un pensamiento que le genera miedo y culpa: «*¿y si he atropellado a alguien?*». Para aliviar la duda, vuelve atŕas para comprobar si hay alguien herido. Al ver que no hay nadie, se calma. Sin embargo, la duda no desaparece del todo y siente la necesidad de volver a comprobarlo. Con el tiempo, aparecerán nuevas comprobaciones por estímulos parecidos y el trayecto de María se irá haciendo cada vez más largo.
 
-* Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir.
+* Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir con más fuerza.  
 
 
 ### Diagnóstico
@@ -155,18 +155,6 @@ Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorb
 Dos de los rasgos de los afectados por TOC son una baja autoestima y mucha inseguridad.
 Esto se debe a que, sobre todo a partir de adolescencia, son absolutamente conscientes de lo absurdo de las obsesiones y compulsiones. Además saben que no son alucionaciones, como en otros trastornos mentales.
 
-
-### Tratamiento psiquiátrico
-En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-del-pino-alonso) explica todos los posibles tratamientos del TOC desde del punto de vista psiquiátrico,tanto farmacológicos como estimulación 
-  
-* Tratamientos farmacológicos del TOC:
-  {{< youtube PwRkQ_WxZtQ >}}
-  
-* Tratamientos para pacientes resistentes a los fármacos y a la terapia:
-  {{< Youtube Ra9Pv5vl7LA >}}
-  
-* [Carles Soriano-Mas](/personas/#carles-soriano-mas), neuropsicólogo clínico, explica Asi el TOC es un problema biológico o aprendido:
-  {{<  youtube M5U1l-ElhX0 >}}
 
 
 
