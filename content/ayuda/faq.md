@@ -5,12 +5,17 @@ title: Preguntas frecuentes
 ---
 
 ### ¿El TOC se cura o es crónico?
+
+Los tratamientos
+
 En el siguiente vídeo la psicóloga clínica Noelia Hernández Yeste, Directora y Coordinadora del Equipo Técnico de la Asociación TOC Granada, aclara la gran duda.
 
   {{< youtube id=qFYn9OgaaAc >}}
 
 
-### ¿Cuándo consultar ?
+### ¿Cuándo hay que pedir ayuda?
+
+Según la [Fundación TOC Granada](https://tocgranada.com/toc-infanto-juveni), los menores pueden ocultar sus síntomas por miedo o vergüenza, por lo que recomiendan estar atentos a: rituales, miedos intensos, evitaciones o comportamientos repetitivos que interfieren en su vida diaria.
 
 ## Cerebro
 

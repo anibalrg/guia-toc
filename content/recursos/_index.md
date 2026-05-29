@@ -37,3 +37,17 @@ type: docs
 
 * **[Practice Guideline for the Treatment of Patients With Obsessive-Compulsive Disorder](https://psychiatryonline.org/pb/assets/raw/sitewide/practice_guidelines/guidelines/ocd.pdf)** [EN]
 
+
+## Blogs de profesionales y asociaciones
+
+* Clínica psicológica [Más que TOC](https://masquetoc.com/category/trastorno-obsesivo-compulsivo/) (Sevilla).
+
+* Gabinete de psicología especializado en TOC [Nieves Álvarez](https://nievesalvarez.es/blog/) (Madrid).
+
+* [TOC Granada](https://tocgranada.com/noticias/) (Monachil, Granada).
+
+
+## Sitios web de referencia
+
+* Monográfico sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona): [Vivir con TOC: más allá de las manías](https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias).
+
