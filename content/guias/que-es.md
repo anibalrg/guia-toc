@@ -30,7 +30,7 @@ Estudios y revisiones indican que los pensamientos intrusivos son muy comunes en
 
 Al malestar causado por las obsesiones, muchas personas con TOC añaden la frustración, sensación de incompresión y vergüenza por ser conscientes de que sus miedos y dudas son irracionales, exagerados o poco razonable: «sé que esto no tiene sentido, pero ¿y si…?».
 
-Para que se diagnostique el TOC, debe cumplir algunas de estas condiciones:
+Para que el TOC se diagnostique debería cumplir algunas de estas condiciones:
 * consumir mucho tiempo diario,
 * causar mucho malestar,
 * deteriorar la vida en cualquier aspecto: familiar, social, educativo, laboral… 
