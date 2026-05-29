@@ -4,6 +4,7 @@ title: Testimonios
 weight: 3
 ---
 
+## Vídeos 
 
 * Testimonios de afectados y familiares de [TOC Granada](https://tocgranada.com/testimonios-de-afectados-de-toc-y-familiares/).
 
@@ -20,5 +21,14 @@ Un grupo de afectados y familiares de afectados por TOC responden a preguntas co
 * **Así es vivir con TOC: explicado en primera persona.** Entrevista a Jose Ángel Rico por [Judith Tiral](https://www.youtube.com/@judithtiral5713)
 {{< youtube id=mQox-dAoEaI loading=lazy >}}
 
-* **El Trastorno Obesivo-Compulsivo (TOC) explicado en primera persona | PoralCLÍNIC** [Hospital Clínic de Barcelona](https://www.youtube.com/@clinicbarcelona) (4:47)[CAT]
+* **El Trastorno Obesivo-Compulsivo (TOC) explicado en primera persona | PoralCLÍNIC** [Hospital Clínic de Barcelona](https://www.youtube.com/@clinicbarcelona) (4:47) [CAT]
 {{< youtube id=Jd5V6CBHP78 loading=lazy >}}
+
+
+## Blogs de personas con TOC
+
+* [Diario de un TOC](https://diariodeuntoc.blogspot.com/) de Damián Alcolea.
+
+* [Yo superé el TOC](https://yosupereltrastornobsesivocompulsivo.blogspot.com/) de Reyes Corbató.
+
+

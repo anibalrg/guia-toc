@@ -18,6 +18,19 @@ type: docs
 {{< book-cards >}}
 
 
+## Editoriales especializadas
+
+{{< cards cols="2" >}}
+    {{< card 
+        title="Editorial TOC Granada"
+        subtitle="La Fundación TOC Granada ha creado su propia editorial especializada en libros sobre el TOC."
+        link="https://tocgranada.com/editorial-toc-granada/"
+        image="https://tocgranada.com/wp-content/uploads/2026/04/favicon_fundacion.png"
+    >}}
+
+{{< /cards >}}
+
+
 ## {{< icon library >}} Artículos interesantes {#Articulos-interesantes}
 
 * **[Protocolo abreviado de terapia individual de la Fundación TOC Granada](https://tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)**

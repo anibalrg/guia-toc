@@ -22,7 +22,7 @@ Aunque está considerado por la {{< term OMS >}} como uno de los trastornos ment
 
 Las obsesiones son **pensamientos intrusivos** —dudas, ideas, imágenes, impulsos, sensaciones—, repetitivos, persistentes, no deseados, que generan malestar en forma de  miedo, asco, culpa, vergüenza, ansiedad…
 
-Estos pensamientos son contrarios a los valores de la persona que los sufre (**egodistónicos** ). **Las personas con TOC suelen obsesionarse precisamente con aquello que más les importa**. Por ejemplo, una persona con TOC, con un gran sentido de la responsabilidad y que tenga que manejar dinero, dedicará mucho tiempo a revisar y asegurarse de que no se equivoca en su manejo.
+Estos pensamientos son contrarios a los valores de la persona que los sufre (**egodistónicos** ). **Las personas con TOC suelen obsesionarse precisamente con aquello que más les importa**. Por ejemplo, una persona con TOC, con un gran sentido de la responsabilidad y que tenga que manejar dinero, podría obsesionarse con equivocarse y perjudicar a alguien, o pensar que se queda con dinero sin darse cuenta.
 
 A menudo, las obsesiones están relacionadas con la preocupación o el miedo a sufrir un daño, o a que los sufran seres queridos u otras personas.
 
@@ -86,22 +86,17 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 * Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir con más fuerza.  
 
 
-### Diagnóstico
+### Causas y factores de riesgo
 
-Para que se diagnostique el TOC, las obsesiones y compulsiones deben llevar mucho tiempo diario, generar gran malestar o deteriorar la vida de la persona en cualquier aspecto: personal, familiar, social, educativo, laboral…
-
-
-### Causas
-
-Las últimas investigaciones apuntan cada vez más a que el TOC es un trastorno neurobiológico que afecta a circuitos cerebrales específicos y que suele surgir por una combinación de predisposición genética y factores desencadenates diversos, por ejemplo:
+Las últimas investigaciones apuntan a que el TOC es un trastorno neurobiológico que afecta a circuitos cerebrales específicos y que suele surgir por una combinación de predisposición genética y factores desencadenates diversos, por ejemplo:
 
 * factores genéticos (antecedentes familiares)
-* ambientes familiares muy estrictos o demasiado sobreproctectores
+<!-- * ambientes familiares muy estrictos o demasiado sobreproctectores -->
 * otros trastornos mentales (comorbilidad)
 
 Los síntomas del TOC se van desarrollan gradualmente, pero a veces, puede haber un suceso que actúa como detonante y dispara los síntomas:
 * sucesos estresantes o traumáticos
-* cambios hormonales bruscos (por ejemplo en mujeres: menarquia, embarazo, postparto, menstruación)
+* cambios hormonales bruscos (por ejemplo en mujeres: menarquia, embarazo, postparto, menopausia)
 * aunque es controvertido porque no existen pruebas definitivas, se hipotetiza que en menores, tras ciertas infecciones virales por estreptococos que afectan al [núcleo caudado](https://es.wikipedia.org/wiki/N%C3%BAcleo_caudado) del cerebro (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*), se pueden dar síntomas de TOC.
 
 
