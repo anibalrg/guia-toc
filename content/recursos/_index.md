@@ -38,16 +38,42 @@ type: docs
 * **[Practice Guideline for the Treatment of Patients With Obsessive-Compulsive Disorder](https://psychiatryonline.org/pb/assets/raw/sitewide/practice_guidelines/guidelines/ocd.pdf)** [EN]
 
 
-## Blogs de profesionales y asociaciones
+## Sitios de referencia
 
-* Clínica psicológica [Más que TOC](https://masquetoc.com/category/trastorno-obsesivo-compulsivo/) (Sevilla).
+Información de profesionales.
 
-* Gabinete de psicología especializado en TOC [Nieves Álvarez](https://nievesalvarez.es/blog/) (Madrid).
+{{< cards cols="2" >}}
+    {{< card 
+        title="Vivir con TOC: Más allá de las manías"
+        subtitle="Completísimo monográfico sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
+        link="https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias/"
+    >}}
 
-* [TOC Granada](https://tocgranada.com/noticias/) (Monachil, Granada).
+    {{< card
+        title="Consulta de Psicología Más que TOC (Sevilla)"
+        subtitle="Proporcionan mucha información, testimonios, dudas en su sitio web"
+        link="https://masquetoc.com/category/trastorno-obsesivo-compulsivo"
+    >}}
+    
+    {{< card
+        title="Gabinete de Psicología Nieves Álvarez (Madrid)"
+        subtitle="Blog de esta gabinete especializado en TOC."
+        link="https://nievesalvarez.es/blog/"
+    >}}
+    
+    {{< card
+        title="TOC Granada (Monachil, Granada)"
+        subtitle="Artículos y noticias sobre el TOC de la Fundación TOC Granada."
+        link="https://tocgranada.com/noticias/"
+    >}}
+    
+    
+    {{< card
+        title="Instituto Clínico No + TOC (Chile)"
+        subtitle="Una enciclopedia sobre el TOC."
+        link="https://nomastoc.cl/enciclopedia"
+    >}}
 
+{{< /cards >}}
 
-## Sitios web de referencia
-
-* Monográfico sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona): [Vivir con TOC: más allá de las manías](https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias).
 

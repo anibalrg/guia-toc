@@ -85,17 +85,14 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 
 ### Causas y factores de riesgo
 
-Las últimas investigaciones apuntan a que el TOC es un trastorno neurobiológico que afecta a circuitos cerebrales específicos y que suele surgir por una combinación de predisposición genética y factores desencadenates diversos, por ejemplo:
-
-* factores genéticos (antecedentes familiares)
-<!-- * ambientes familiares muy estrictos o demasiado sobreproctectores -->
-* otros trastornos mentales (comorbilidad)
+Ni la neurobiología, ni el entorno, ni la personalidad explican por sí solas el TOC. Las investigaciones sugieren que se trata de un trastorno neurobiológico que afecta a un circuito cerebral determinado y que surge por una combinación de: factores genéticos (antecedentes familiares), ambientales y experiencias vitales.
 
 Los síntomas del TOC se van desarrollan gradualmente, pero a veces, puede haber un suceso que actúa como detonante y dispara los síntomas:
-* sucesos estresantes o traumáticos
-* situaciones vitales que comporten cambios importantes (positivos o negativos)
-* cambios hormonales bruscos (por ejemplo, en niñas la menarquia y en mujeres el embarazo o el postparto)
-* Consumo de drogas.
+* sucesos estresantes;
+* experiencias traumáticas;
+* cambios importantes en la vida (positivos o negativos);
+* cambios hormonales bruscos (por ejemplo, en niñas la menarquia y en mujeres el embarazo o el postparto);
+* consumo de drogas.
 
 Algunos investigadores creen que, en casos poco frecuentes, ciertas infecciones por estreptococos en menores pueden desencadenar TOC. Se cree que es debido a que el sistema inmnune ataca accidentalmente determinadas zonas del cerebro. Se conoce como PANDAS, (*Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*).
 
