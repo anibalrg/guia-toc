@@ -35,6 +35,7 @@ Para que el TOC se diagnostique debería cumplir algunas de estas condiciones:
 * causar mucho malestar,
 * deteriorar la vida en cualquier aspecto: familiar, social, educativo, laboral… 
 
+
 ### Neutralizaciones: compulsiones y evitaciones
 
 Los afectados de TOC se siente impulsados a realizar conductas, llamadas neutralizaciones, para intentar reducir el malestar que causan las obsesiones. Hay dos tipos: compulsiones y evitaciones. Ambas buscan aliviar el malestar de que causa la obsesión.
@@ -124,7 +125,6 @@ Las personas con TOC suelen compartir algunos rasgos de personalidad comunes, qu
 
 Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones suele conllevar gran inseguridad y baja autoestima. 
 
-Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
 
 ### Gravedad del TOC
 
@@ -142,11 +142,6 @@ Otros
 ### Comorbilidad
 
 Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
-
-
-### Autoestima e inseguridad
-Dos de los rasgos de los afectados por TOC son una baja autoestima y mucha inseguridad.
-Esto se debe a que, sobre todo a partir de adolescencia, son absolutamente conscientes de lo absurdo de las obsesiones y compulsiones. Además saben que no son alucionaciones, como en otros trastornos mentales.
 
 
 
