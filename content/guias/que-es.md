@@ -22,9 +22,9 @@ Aunque está considerado por la {{< term OMS >}} como uno de los trastornos ment
 
 Las obsesiones son **pensamientos intrusivos** —dudas, ideas, imágenes, impulsos, sensaciones—, repetitivos, persistentes, no deseados, que generan malestar en forma de  miedo, asco, culpa, vergüenza, ansiedad…
 
-Estos pensamientos son contrarios a los valores de la persona que los sufre (**egodistónicos** ). **Las personas con TOC suelen obsesionarse precisamente con aquello que más les importa**. Por ejemplo, una persona con TOC, con un gran sentido de la responsabilidad y que tenga que manejar dinero, dedicará mucho tiempo a revisar y asegurarse de que no se equivoca en su manejo.
+Estos pensamientos son contrarios a los valores de la persona que los sufre (**egodistónicos** ). **Las personas con TOC suelen obsesionarse precisamente con aquello que más les importa**. Por ejemplo, una persona con TOC, con un gran sentido de la responsabilidad y que tenga que manejar dinero, podría obsesionarse con equivocarse y perjudicar a alguien, o pensar que se queda con dinero sin darse cuenta.
 
-A menudo, las obsesiones están relacionadas con la preocupación o el miedo a sufrir un daño, o a que los sufran seres queridos u otras personas.
+A menudo, las obsesiones están relacionadas con la preocupación o el miedo a sufrir un daño, o a que los sufran seres queridos u otras personas, pero las temáticas son innumerables.
 
 Estudios y revisiones indican que los pensamientos intrusivos son muy comunes en la población general. El problema es que el TOC hace que se interpreten como muy peligrosos e importantes.
 
@@ -35,22 +35,19 @@ Para que el TOC se diagnostique debería cumplir algunas de estas condiciones:
 * causar mucho malestar,
 * deteriorar la vida en cualquier aspecto: familiar, social, educativo, laboral… 
 
+
 ### Neutralizaciones: compulsiones y evitaciones
 
 Los afectados de TOC se siente impulsados a realizar conductas, llamadas neutralizaciones, para intentar reducir el malestar que causan las obsesiones. Hay dos tipos: compulsiones y evitaciones. Ambas buscan aliviar el malestar de que causa la obsesión.
 
-Aclaración: En mucha información sobre el TOC los términos compulsiones y neutralizaciones son intercambiables.
+Aclaración: Los términos neutralización y compulsión son intercambiables en la mayoría de información sobre el TOC.
 
 
 #### Compulsiones
  
 Las compulsiones son conductas repetitivas, tanto físicas como mentales, que el afectado lleva a cabo para intentar rebajar su nivel de ansiedad provocado por una obsesión. Algunas compulsiones físicas son: lavarse las manos, ducharse, comprobar, repetir la misma acción un número determinado de veces, preguntar varias veces lo mismo, buscar información relacionada con la obsesión en foros, redes sociales… Compulsiones mentales son: repetir frases, rezar, contar, analizar recuerdos, sustituir las obsesiones por pensamientos positivos…
 
-Los **rituales** son los grupos de compulsiones que suelen realizarse en un orden y número concretos.
-
-Aunque muchos compulsiones buscan reducir el malestar o la ansiedad provocada por las obsesiones, no siempre están motivadas por el miedo.
-
-Algunas personas con TOC describen una sensación de incompletitud, de que "algo no está bien", "no encaja" o "no está terminado". En esos caso, la compulsión pueden repetirse hasta que aparezca una sensación de alivio.
+Los **rituales** son los grupos de compulsiones que suelen realizarse en un orden y número concretos, hasta que la persona tiene la sensación de que está todo «está bien o terminado» o repetirse hasta que aparezca la sensación de alivio.
 
 
 #### Evitaciones
@@ -86,23 +83,18 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 * Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir con más fuerza.  
 
 
-### Diagnóstico
+### Causas y factores de riesgo
 
-Para que se diagnostique el TOC, las obsesiones y compulsiones deben llevar mucho tiempo diario, generar gran malestar o deteriorar la vida de la persona en cualquier aspecto: personal, familiar, social, educativo, laboral…
-
-
-### Causas
-
-Las últimas investigaciones apuntan cada vez más a que el TOC es un trastorno neurobiológico que afecta a circuitos cerebrales específicos y que suele surgir por una combinación de predisposición genética y factores desencadenates diversos, por ejemplo:
-
-* factores genéticos (antecedentes familiares)
-* ambientes familiares muy estrictos o demasiado sobreproctectores
-* otros trastornos mentales (comorbilidad)
+Ni la neurobiología, ni el entorno, ni la personalidad explican por sí solas el TOC. Las investigaciones sugieren que se trata de un trastorno neurobiológico que afecta a un circuito cerebral determinado y que surge por una combinación de: factores genéticos (antecedentes familiares), ambientales y experiencias vitales.
 
 Los síntomas del TOC se van desarrollan gradualmente, pero a veces, puede haber un suceso que actúa como detonante y dispara los síntomas:
-* sucesos estresantes o traumáticos
-* cambios hormonales bruscos (por ejemplo en mujeres: menarquia, embarazo, postparto, menstruación)
-* aunque es controvertido porque no existen pruebas definitivas, se hipotetiza que en menores, tras ciertas infecciones virales por estreptococos que afectan al [núcleo caudado](https://es.wikipedia.org/wiki/N%C3%BAcleo_caudado) del cerebro (PANDAS, *Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*), se pueden dar síntomas de TOC.
+* sucesos estresantes;
+* experiencias traumáticas;
+* cambios importantes en la vida (positivos o negativos);
+* cambios hormonales bruscos (por ejemplo, en niñas la menarquia y en mujeres el embarazo o el postparto);
+* consumo de drogas.
+
+Algunos investigadores creen que, en casos poco frecuentes, ciertas infecciones por estreptococos en menores pueden desencadenar TOC. Se cree que es debido a que el sistema inmnune ataca accidentalmente determinadas zonas del cerebro. Se conoce como PANDAS, (*Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections*).
 
 
 {{< figure
@@ -110,7 +102,6 @@ Los síntomas del TOC se van desarrollan gradualmente, pero a veces, puede haber
       alt="Comparativa de un cerebro de un paciente con TOC con uno sin TOC"
       caption="Diferencias de activación entre el cerebro de una persona sin TOC (control) y el de una persona con TOC (OCD). Las zonas amarillas y rojas son las más activadas. 2014, C. Pittenger."
 >}}
-
 
 
 ### Rasgos de personalidad
@@ -131,7 +122,6 @@ Las personas con TOC suelen compartir algunos rasgos de personalidad comunes, qu
 
 Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones suele conllevar gran inseguridad y baja autoestima. 
 
-Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
 
 ### Gravedad del TOC
 
@@ -149,11 +139,6 @@ Otros
 ### Comorbilidad
 
 Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
-
-
-### Autoestima e inseguridad
-Dos de los rasgos de los afectados por TOC son una baja autoestima y mucha inseguridad.
-Esto se debe a que, sobre todo a partir de adolescencia, son absolutamente conscientes de lo absurdo de las obsesiones y compulsiones. Además saben que no son alucionaciones, como en otros trastornos mentales.
 
 
 

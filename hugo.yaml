@@ -28,23 +28,32 @@ outputs:
 
 menu:
   main:
-    - name: Buscar
+    - name: Ayuda
       weight: 1
-      params:
-        type: search
+      pageRef: /ayuda/asociaciones
+
+    - name: Dudas
+      weight: 2
+      pageRef: /ayuda/faq
+
+    - name: Recursos
+      weight: 2
+      pageRef: /recursos
+
     - name: Diccionario
       pageRef: /glosario
       weight: 2
+
     - name: Noticias
       url: /noticias
-      weight: 10
+      weight: 3
       params:
         icons: newspaper
-    - name: GitHub
+
+    - name: Buscar
       weight: 20
-      url: https://github.com/anibalrg/guia-toc/
       params:
-        icons: github
+        type: search
 
 params:
   description: Información útil para familiares de personas con TOC

@@ -10,10 +10,10 @@ weight: 1
 
 {{< cards cols="2">}}
     {{< card 
-        title="Asociación/Fundación TOC Granada"
-        subtitle="Monachil (Granada)"
+        title="Fundación TOC Granada (Monachil, Granada)"
+        subtitle="El **increíble** proyecto iniciado por **Aurelio López** es un centro pionero y referente dentro y fuera de España."
         link="https://tocgranada.com/"
-        image="https://tocgranada.com/wp-content/uploads/2020/10/logoTOC.jpg"
+        image="https://tocgranada.com/wp-content/uploads/2026/04/favicon_fundacion.png"
     >}}
 
     {{< cards cols="1">}}
@@ -34,7 +34,8 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
     >}}
  
     {{< /cards >}}
-
+    
+    
     {{< card
         title="Asociación TOC 2.0"
         alt="Asociación TOC 2.0"

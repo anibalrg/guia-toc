@@ -49,20 +49,21 @@ Algunos personas necesitan medicación como complemento a la terapia. Los tratam
 {{< /hextra/hero-subtitle >}}
 
 
-{{< hextra/hero-section heading="h3">}}¿Y nosotros qué hacemos?{{< /hextra/hero-section >}}
+{{< hextra/hero-section heading="h3">}}¿Y nosotros qué podemos hacer?{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Muchas personas con TOC coinciden en que una de las ayudas más importantes es, simplemente, sentirse acompañadas y no estar solas en esto.
+**Acompañar**. Muchas personas con TOC coinciden en que una de las ayudas más importantes es, simplemente, sentirse acompañadas y no estar solas en esto.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h3">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Buscar apoyo cuando lo necesitemos, especialmente en los grupos de ayuda o apoyo mutuo (GAM) organizados por las asociaciones, donde compartir experiencias y aprender de profesionales, personas con TOC y familiares en una situación parecida a la nuestra.
+**Buscar apoyo** cuando lo necesitemos, especialmente en los grupos de ayuda o apoyo mutuo (GAM) organizados por las asociaciones, donde compartir experiencias y aprender de profesionales, personas con TOC y familiares en una situación parecida a la nuestra. Para poder cuidar debemos **cuidarnos**, en todos los sentidos.
 {{< /hextra/hero-subtitle >}}
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Aprender todo lo posible sobre cómo funciona el TOC para ayudar a nuestros familiares y amigos sin reforzarlo.
+**Aprender** todo lo posible sobre cómo funciona el TOC para ayudar y entender a nuestros familiares y amigos sin empeorar el problema.
 {{< /hextra/hero-subtitle >}}
+
 
 {{< hextra/hero-section heading="h5">}}{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}

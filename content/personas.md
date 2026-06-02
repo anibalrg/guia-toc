@@ -9,12 +9,12 @@ toc: true
 ### [Jonathan Abramowitz](https://jonabram.web.unc.edu/)
 
 
-### Damián Alcolea
+### [Damián Alcolea](https://damianalcolea.es/)
 
 * Autor de la obra teatral *Palabras para una revolución*.
 * Autor del libro [Tocados]({{% relref "/recursos/#book-tocados" %}}).
 * Actor en series como *Águila roja* y *El internado*.
-* Divulgador sobre salud mental y TOC. Destacan su charla *Rompiendo el estigma del TOC* en TEDxMadrid y su intervención en la Sala Constitucional del Congreso de los Diputados de España por el Día Mundial de la Salud Mental en 2018.
+* Divulgador y ponente sobre salud mental y TOC. Destacan sus charlas: *Rompiendo el estigma del TOC* en TEDxMadrid y su intervención en la Sala Constitucional del Congreso de los Diputados de España por el Día Mundial de la Salud Mental en 2018.
 
 
 ### Dra. María del Pino Alonso
@@ -117,7 +117,9 @@ Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital
 * Investigadora asociada al Instituto de Investigaciones Biomédicas August Pi y Sunyer (IDIBAPS).
 
 
-### [Aurelio López García](https://tocgranda.com)
+### [Aurelio López Reina](https://tocgranda.com)
+
+Fundador y presidente de la Fundación TOC Granada, el principal centro de tratamiento del TOC en España. 
 
 
 
