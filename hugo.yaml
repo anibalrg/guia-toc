@@ -46,7 +46,6 @@ menu:
       params:
         icons: github
 
-
 params:
   description: Información útil para familiares de personas con TOC
   navbar:
@@ -102,9 +101,13 @@ params:
   comments:
     enable: true
 
-markup:
-  goldmark:
-    parser:
-      attribute:
-        block: true
-        title: true
+  markup:
+    goldmark:
+      parser:
+        attribute:
+          block: true
+          title: true
+
+  privacy:
+    youTube:
+      privacyEnhanced: true
