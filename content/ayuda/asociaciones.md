@@ -135,12 +135,6 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
 Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [Confederación de salud mental España](https://consaludmental.org/) puede serte de ayuda para encontrar asociaciones. Agrupa a 360 entidades que se pueden buscar [geográficamente](https://consaludmental.org/directorio-asociaciones/) o mediante un [buscador](https://consaludmental.org/directorio-asociaciones/:conoce-todas-las-entidades-y-servicios/).
 
 
-
-## Foros
-
-* [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
-* [My OCD Community](https://healthunlocked.com/my-ocd) [EN].
-
 ## Grupos de apoyo mutuo/ayuda mutua (GAM) y programa de pacientes expertos
 Casi todas las asociaciones especializadas en TOC gestionan GAM para afectados y familiares, tanto presenciales como por videoconferencia.
 
