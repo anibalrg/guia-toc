@@ -34,9 +34,10 @@ Es una de las principales psiquiatras e investigadoras especializadas en TOC. Es
 
 Psicóloga especializada en TOC y directora de una clínica especializada en este trastorno.
 
-* [Gabiente de Psicología Nieves Álvarez](https://nievesalvarez.es/) (Madrid).
-* Promotora de la [Asociacíón TOC Madrid](https://asociaciontocmadrid.es) (Madrid).
+* Directora del [gabiente de psicología Nieves Álvarez](https://nievesalvarez.es/) (Madrid).
+* Promotora y colaboradora de la [Asociacíón TOC Madrid](https://asociaciontocmadrid.es) (Madrid).
 * Directora del *podcast* [Nieves y el TOC]({{% relref "/recursos/podcasts/#nieves-y-el-toc" %}}).
+* [Tratamiento TOC](https://tratamientotoc.es/).
 
 
 ### Encarni Cabrera Molina
@@ -58,20 +59,19 @@ Psicóloga especializada en TOC.
 * Autora del libro [Aplastar el TOC]({{% relref "/recursos/#book-aplastar-el-toc" %}}).
 
 
-
 ### [Jean-Étienne Dominique Esquirol](https://es.wikipedia.org/wiki/Jean_%C3%89tienne_Dominique_Esquirol)
 
 
 
 ### Mademoiselle F.
 
-Mademoiselle F. fue la primera persona de la historia que sufrío lo que entonces se denominaba monomanía y ahora conocemos por TOC. J.E.D. Esquirol documentó su caso cuando ella acudió a él para ser tratada, en el año 1834. En ese momento, llevaba unos dieciséis años sufriendo este problema. Recordaba que comenzó a comportarse de forma extraña cuando tenía dieciocho años e iba a visitar, como era constumbre, a su tía. Un día decidió acudir sin el delantal porque durante el regreso a su casa, después de la última visita, había comenzado a pensar si no le habría robado algo a su tía utilizando el delantal para ocultarlo. La solución lógica, por tanto, fue no volver a usar el delantal.
+Mademoiselle F. fue la primera persona de la historia que sufrío lo que entonces se denominaba monomanía y ahora conocemos por TOC. J.E.D. Esquirol documentó su caso cuando ella acudió a él para ser tratada, en el año 1834. En ese momento, llevaba unos dieciséis años sufriendo este problema. Su primer recuerdo era de cuando tenía dieciocho años e iba a visitar, como era constumbre, a su tía. Un día decidió acudir sin el delantal porque durante el regreso a su casa, después de la anterior visita, había comenzado a pensar si no le habría robado algo a su tía utilizando el delantal para ocultarlo. La solución lógica, por tanto, fue no volver a usar el delantal.
 
 Era una contable muy honrada y trabajaba mucho, pero empezó a tener miedo de equivocarse y perjudicar a sus clientes, así que cada vez le llevaba más y más tiempo preparar las cuentas y las facturas. También empezó a evitar manejar dinero, por miedo a quedarse con parte o, que por tocarlo, le hiciera perder valor. Sabía que era absurdo y que jamás pasaría nada de eso, pero no podía dejar de pensarlo y cerró su oficina. En ese punto, su entorno ya sabía de sus pensamientos y le hacían ver lo absurdos y ridiculos que eran, pero eso no evitaba que los tuviera. 
 
-Sin trabajo sus obsesiones se hicieron aún mayores. Empezó a cortar el dobladillo de sus vestidos y apretarse tanto los cordones de sus zapatos que sus pies se hinchaban por encima, todo para evitar tener sitios en los que esconder cosas. Se sostenía la ropa mientras caminaba no rozara muebles ni puertas. Tenía que examinar detenidamente llaves, pomos y manillas de puertas, ventanas y armarios para evitar llevarse algo de valor sin darse cuenta.
+Sin trabajo sus obsesiones se hicieron aún mayores. Empezó a cortar el dobladillo de sus vestidos y apretarse tanto los cordones de sus zapatos que sus pies se hinchaban por encima. Todo para evitar tener sitios en los que esconder cosas. Se sujetaba la ropa mientras caminaba, para que no rozara ni muebles ni puertas. Tenía que examinar detenidamente llaves, pomos y manillas de puertas, ventanas y armarios para evitar llevarse algo de valor sin darse cuenta.
 
-Sus miedos y los comportamientos con los que los aliviaba, a veces, se iban, pero siempre volvían.
+Desgraciadamente, no se conoco cómo siguió la vida de Mademoiselle F., sólo que estuvo dos años en tratamiento. Su caso y otros parecidos tuvieron bastante influencia en los psiquiatras de la época y como consecuencai se replantearon que personas como ellas no debían ser ingresados en los psiquiátricos.
 
 
 ### Wayne K. Goodman.
