@@ -74,6 +74,13 @@ Información de profesionales.
         link="https://nomastoc.cl/enciclopedia"
     >}}
 
+    {{< card
+        title="A Short History of OCD"
+        subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad [EN]"
+        link="https://www.ocdhistory.net/index.html"
+    >}}
+
+
 {{< /cards >}}
 
 
