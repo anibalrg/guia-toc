@@ -63,7 +63,7 @@ Mientras que las compulsiones aparecen después del malestar, las evitaciones bu
 {{< figure
       src="/guia-toc/images/ciclo-oc.svg"
       alt="Ciclo de retroalimentación del TOC"
-      caption="El cerebro sobreestima el peligro de la obsesión y aumenta el malestar. La neutralización consigue aliviarla momentáneamente, pero en realidad está reforzando la obsesión, porque el cerebro aprende que la amenaza era importante y hay que responder a ella."
+      caption="El cerebro sobreestima el peligro de la obsesión y aumentan el malestar y la ansiedad. La neutralización consigue aliviarlas momentáneamente, pero en realidad está reforzando la obsesión, porque el cerebro aprende que la amenaza era importante y hay que responder a ella."
 >}}
 
 
@@ -78,9 +78,12 @@ Las compulsiones y las evitaciones alivian el malestar momentáneamente, pero ta
 
 #### Ejemplos
 
-* María oye un ruido cuando su coche pasa por un bache. Inmediatamente le aparece un pensamiento que le genera miedo y culpa: «*¿y si he atropellado a alguien?*». Para aliviar la duda, vuelve atŕas para comprobar si hay alguien herido. Al ver que no hay nadie, se calma. Sin embargo, la duda no desaparece del todo y siente la necesidad de volver a comprobarlo. Con el tiempo, aparecerán nuevas comprobaciones por estímulos parecidos y el trayecto de María se irá haciendo cada vez más largo.
+* María oye un ruido cuando su coche pasa por un bache. Inmediatamente le aparece una duda: «¿habré atropellado a alguien?». Empieza a encontrarse mal. Para aliviar el miedo y la culpa, necesita deshace parte del camino para asegurarse de que no hay nadie atropellado. Una vez comprobado, se calma. Sin embargo, la duda no desaparece del todo. Sabe que su miedo es absurdo, pero siente la necesidad de volver a comprobarlo. Con el tiempo estímulos parecidos al bache provocarán nuevas obsesiones y necesitará hacer más y más comprobaciones. El trayecto se irá haciendo cada vez más largo.
 
-* Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir con más fuerza.  
+Las obsesiones de María consisten en dañar a alguien. Le hacen sentir mucho miedo y culpa. Su compulsiones son son las comprobaciones que necesita hacer. Si María decidiera dejar de pasar por ese lugar, o dejar de conducir, estaría evitando exponerse a sus obsesiones. En cualquiera de los dos casos, el TOC de María saldría reforzado.
+
+
+* Pedro cierra la puerta de su casa. Mientras pulsa el botón del ascensor, le asalta la duda: «¿he cerrado bien la puerta?». Vuelve a meter la llave en la cerradura y comprueba que la puerta está bien cerrada. Baja en el ascensor y cuando va a salir por el portal, la duda vuelve: «¿y si no he cerrado la puerta?». Sube de nuevo y vuelve a comprobar que efectivamente la puerta está cerrada. Lo repite dos veces, para asegurarse. Todo parece estar bien, pero cuando llega a la calle la duda vuelve a surgir con más fuerza.
 
 
 ### Causas y factores de riesgo
