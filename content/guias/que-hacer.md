@@ -1,10 +1,27 @@
 ---
-date: 2026-04-30T16:34:37+02:00
+date: 2026-04-30
 title: ¿Qué debemos hacer?
+weight: 2
 ---
 
+### Buscar ayuda
 
-### Entender
+
+### Entender el trastorno
+
+Comprender que el trastorno va a ser de toda la familia, no sólo de la persona afectada. Lo mismo con la terapia, 
+
+
+### Aprender a reconocer los síntomas
+
+
+### Tener expectativas realistas con el tratamiento
+
+
+### Ante la duda, mejor no hacer nada
+
+
+### Reforzar cada pequeño avance o logro
 
 
 ### Tener paciencia y empatía
@@ -13,7 +30,8 @@ title: ¿Qué debemos hacer?
 ### Ayudar desde el cariño
 
 
-### Establecer límites 
+### Establecer límites
+
 
 ### No interrumpir compulsiones
 
@@ -21,48 +39,16 @@ title: ¿Qué debemos hacer?
 ### Usar el sentido del humor
 
 
-### Reforzar cada pequeño avance o logro
+### Ayudar a llevar un estilo de vida ordenado
 
 
-### Ayudar llevar un estilo de vida ordenado
+### Intentar que sigan manteniendo las mismas responsabilidades 
 
 
-### Intentar que sigan manteniendo las mismas responsabilidades
+### Cuidarse para cuidar
 
 
----
-date: 2026-04-30T16:34:37+02:00
-title: ¿Qué debemos hacer?
----
+###
 
 
-### Entender
-
-
-### Tener paciencia y empatía
-
-
-### Ayudar desde el cariño
-
-
-### Establecer límites 
-
-### No interrumpir compulsiones
-
-
-### Usar el sentido del humor
-
-
-### Reforzar cada pequeño avance o logro
-
-
-### Ayudar llevar un estilo de vida ordenado
-
-
-### Intentar que sigan manteniendo las mismas responsabilidades
-
-
-### Los familiares como cooterapeutas
-* **«Contexto Familiar en el TOC». Noelia Hernández Yeste, Directora y Coordinadora del Equipo Técnico de TOC Granada**
-{{< youtube id=K1wbqca_EWY loading=lazy >}}
 
