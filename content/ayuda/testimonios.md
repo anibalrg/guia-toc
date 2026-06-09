@@ -5,27 +5,49 @@ weight: 3
 ---
  
 
-## Programas
+## Programas y documentales dedicados al TOC
 * **Eso no se pregunta: TOC** [Telemadrid](https://www.youtube.com/@telemadrid)
-Un grupo de afectados y familiares de afectados por TOC responden a preguntas como: ¿Qué es el TOC? ¿Te asustan tus pensamientos? ¿Cuándo te diste cuenta de que algo no iba bien? ¿Cómo te afecta el TOC en tu día a día? ¿Te gustan las sorpresas? ¿El TOC se cura?
 
+Un grupo de afectados y familiares de afectados por TOC responden a preguntas como: ¿Qué es el TOC? ¿Te asustan tus pensamientos? ¿Cuándo te diste cuenta de que algo no iba bien? ¿Cómo te afecta el TOC en tu día a día? ¿Te gustan las sorpresas? ¿El TOC se cura?
 {{< youtube id=gvpcx7H1xCc loading=eager start=18 >}}
 
+* **Objetivo Sur | Programa 9 Tengo TOC** [canalsur](https://www.youtube.com/@canalsur)
+
+Un grupo de personas afectadas por TOC nos muestran su problema y como intentan superarlo haciendo terapia en TOC Granada. Podemos ver a Aurelio López, Noelia Hernánez, Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Ascensión Pérez ([TOC Murcia](https://tocmurcia.es)).
+{{< youtube id=by6s8r9sC0U loading=lazy >}}
+
+* **4000 manías. Convertir el TOC en beats.** [PlayGround](https://www.youtube.com/@PlayGroundVideo)
+
+Mini documental sobre Jaume Aymar (Mind Sylenth) y su vida con TOC.
+{{< youtube id=CMr5SMwB8VU loading=lazy >}}
 
 * **TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
-En este programa podemos ver, entre otros, a Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
-{{< youtube id=5IUUk5_1Exg loading=lazy >}}
 
+Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
+{{< youtube id=5IUUk5_1Exg loading=lazy >}}
 
 ## Personas con TOC
 
 ### Testimonios de afectados de TOC y familiares [TOC Granada](https://tocgranada.com/testimonios-de-afectados-toc/)
 
 
+### aluandii
+
+* **Tengo TOC (Trastorno Obsesivo Compulsivo). | qué es? mi experiencia**
+{{< youtube id=E2eFOWZKoTg loading=lazy >}}
+
+* [**Lista de vídeos de aluandii sobre el TOC.**](https://youtube.com/playlist?list=PLKBtGVrENqUsq7z5ot-AZHn_IYF2-XbF1&si=bzV6e4bI067wvuN6)
+
 ### Alaitz
 
 * **El potente testimonio de Alaizt por su TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 {{< youtube id=QD_zX9iHUeg loading=lazy >}}
+
+
+### Alice in youtubeland
+
+* **VIVIR CON TOC (trastorno obsesivo compulsivo)** 
+{{< youtube id=s8KnUurW6Ss loading=lazy >}}
 
 
 ### Damián Alcolea
@@ -42,12 +64,14 @@ En este programa podemos ver, entre otros, a Yann Lana ([TOC Zaragoza](https://t
 Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo niño.
 
 * **El peor y más famoso caso de TOC de la historia.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
-
 {{< youtube id=2WwYNJaNA2M loading=lazy >}}
 
 * **4000 manías. Me duchaba 43 veces al día. Convivir con TOC** [Uri Sabat](https://www.youtube.com/@UriSabatTV).
 {{< youtube id=0da3Lud8aqo loading=lazy >}}
 
+### Sol Carlos
+* **Tengo T.O.C.** [Sol Carlos](https://www.youtube.com/@solcarlosofficial)
+{{< youtube id=KcBwnWlxSRw loading=lazy >}}
 
 ### José Costas
 * **Gran testimonio TOC recuperado. TOC Granada Asociación.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
@@ -67,11 +91,29 @@ Después de ganar la Eurocopa sub-16 y lograr el tercer puesto en el Mundial sub
 * **En El Intermedio de laSexta.** [laSexta](https://www.youtube.com/@laSexta)
 {{< youtube id=a5KevTwSnuQ loading=lazy >}}
 
+### Joan
+
+* **Puramente obsesivo: una historia sobre el TOC** [Puramente Obsesivo](https://www.youtube.com/@PuramenteObsesivo) [ES/CAT]
+
+Mini documental donde Joan cuenta su historia con TOC puro.
+{{< youtube id=iinC8BNelvE loading=lazy >}}
+
+
 ### José Juan
 * **Motivate con el testimonio de José Juan. Afectado de TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 José Juan cuenta su caso de TOC religioso.
 {{<youtube id=2UVeZsIsJgA loading=lazy >}}
+
+### Luli Liff
+
+* **TENGO T.O.C (Trastorno Obsesivo Compulsivo)** [Luli Liff](https://www.youtube.com/@lulilifschitz)
+{{< youtube id=R9C1fPNiA6Q loading=lazy >}}
+
+
+* **TENGO T.O.C. (UN AÑO DESPUÉS DE ENTERARME)** [Luli Liff](https://www.youtube.com/@lulilifschitz)
+{{< youtube id=Nmh7M8A-dGU loading=lazy >}}
+
 
 ### Kiko Martín
 
@@ -89,6 +131,17 @@ José Juan cuenta su caso de TOC religioso.
 
 * **Así es vivir con TOC: explicado en primera persona.** [Judith Tiral](https://www.youtube.com/@judithtiral5713)
 {{< youtube id=mQox-dAoEaI loading=lazy >}}
+
+
+### Carlos Sarria
+
+Locutor de radio colombiano y autor del *podcast* [Diga Bueno]({{% relref "/recursos/podcasts/#diga-bueno" %}}) y del [libro del mismo título]({{% relref "/recursos/#book-diga-bueno-mi-vida-con-toc" %}}).
+* **Así le ha dado la pelea Carlos Sarria al Trastorno Obsesivo Compulsivo por décadas.** [Los Informantes](https://www.youtube.com/@losinformantesoficial)
+{{< youtube id=-IR83WcggXU loading=lazy >}}
+
+* **Me golpeaba la cabeza para que esos pensamientos salieran": Carlos Sarria revela su lucha con TOC.** [Realidades](https://www.youtube.com/@Realidadescanal)
+{{< youtube id=jb-hGnX9mxc loading=lazy >}}
+
 
 ### Cristina y Marisa Zapata
 
@@ -127,8 +180,13 @@ Ascensión, madre de una hija con TOC, cuenta su caso y cómo creó la Asociaci�
 
 Eleonora cuenta su viaje desde Argentina hasta TOC Granada para tratar a su hijo adolescente.
 {{< youtube id=Hcx_pGrIqTY loading=lazy >}}
-i
 
+
+### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
+
+El canal del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
+
+* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
 
 ## Blogs personales
