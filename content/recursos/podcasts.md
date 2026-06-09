@@ -6,7 +6,7 @@ toc: false
 type: docs
 ---
 
-### {{< icon microphone >}} **Nieves y el TOC** {#nieves-y-el-toc}
+### **Nieves y el TOC**
 
 «Iniciativa en formato podcast para dar a conocer el trastorno obsesivo compulsivo, de la mano de [Nieves Álvarez](https://nievesalvarez.es/), psicóloga especializada, y de los diferentes invitados, afectados de toc.
 
@@ -20,7 +20,7 @@ De forma breve y muy personal iremos dando visibilidad a este fenómeno, con el 
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}} {{< icon film >}} **TOC & beats** {#toc-and-beats}
+### **TOC & beats**
 
 «[TOC & beats](https://tocandbeats.blogspot.com/) es un programa de radio y podcast dedicado a la salud mental y más concretamente al Trastorno Obsesivo Compulsivo. El programa está amenizado con música electrónica. Empezó a emitirse en mayo de 2022 y cuenta con la colaboración de la [Asociación TOC Zaragoza](https://toczaragoza.com). Los fundadores del programa son: David de Alfonso, subdirector y comentarista; Alfonso Ansó, pinchadiscos del programa; y [Yann Lana](https://asistentetoc.com/), director y guionista. Contamos además con Luis Dionis como contertulio habitual y con dos colaboradoras: Alicia Rodríguez (Sisu Jouska) y Alicia Gallego (Aluandii).
 
@@ -36,7 +36,19 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}}  **PUTO TOC PODCAST**
+### **Diga bueno**
+
+«¿Qué es el TOC? El Transtorno Obsesivo Compulsivo es una condición mental silenciosa que no todos conocen. Poco a poco invade a una persona con pensamientos no deseados, algo de ansiedad, repetición de acciones y un toque de depresión. Todo lo anterior hace que muchas personas tengan comportamientos poco convencionales. Conozca mi caso y Diga Bueno!»
+
+{{< cards cols="4" >}}
+  {{< card link="https://podcasts.apple.com/us/podcast/diga-bueno/id1516336885" title="Apple Podcasts" icon="microphone" >}}
+  {{< card link="https://open.spotify.com/show/0uiDOY8tFOoKPB9mFa0Gez" title="Spotify" icon="microphone" >}}
+  {{< card link="https://www.spreaker.com/podcast/diga-bueno--4423626" title="Spreaker" icon="microphone" >}}
+{{< /cards >}}
+
+-------------------------------------------------------------------------------
+
+### **PUTO TOC PODCAST**
 
 «Nos sumergiremos en el mundo del TOC, sin tabúes ni rodeos. Queremos mostrarte cómo es verdaderamente vivir con trastorno obsesivo-compulsivo, desde el interior. Este espacio no es un manual ni una guía de autoayuda, sino un lugar de divulgación y reivindicación social. Si sufres de TOC o eres un ser querido, aquí te sentirás comprendido. Es hora de dar visibilidad a quienes viven con TOC y darles el reconocimiento que merecen. ¡Comencemos!»
 
@@ -46,7 +58,7 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}} **Talk TOC Podcast**
+### **Talk TOC Podcast**
 
 «Noticias, curiosidades, testimonios y mucho más sobre trastorno obsesivo compulsivo y salud mental en general. Hablamos de lo que nadie se atreve a hablar. ¡Cuenta tu TOC y Rompe Estigmas!»
 
@@ -57,7 +69,7 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}}  **TOC Religioso - Pensamientos**
+### **TOC Religioso - Pensamientos**
 
 «*O T.O.C (Transtorno Obsessivo Compulsivo), pode se manifestar de várias formas. Neste livro, relato minha experiência com os pensamentos obsessivos intrusivos relacionados à religião, assim como medos e tabus com o sagrado que geralmente atinge pessoas que como eu, foram criadas em lares cristãos. Também exponho uma nova visão e esclarecimentos sobre supostos pecados e a cura para o TOC religioso*».
 
@@ -69,7 +81,7 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 
 -------------------------------------------------------------------------------
 
-### {{< icon microphone >}} **Obsesiones y TOC**
+### **Obsesiones y TOC**
 
 «¿Qué son las obsesiones y cómo se tratan? ¿Qué las diferencia de las compulsiones? ¿Qué es el TOC? Todo lo relacionado con las obsesiones y compulsiones y su tratamiento según la Terapia Breve Estratégica modelo Nardone».
 
@@ -79,13 +91,3 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 {{< /cards >}}
 
 ----------------------------------------------------------------------------------
-
-### {{< icon microphone >}} **Diga bueno**
-
-«¿Qué es el TOC? El Transtorno Obsesivo Compulsivo es una condición mental silenciosa que no todos conocen. Poco a poco invade a una persona con pensamientos no deseados, algo de ansiedad, repetición de acciones y un toque de depresión. Todo lo anterior hace que muchas personas tengan comportamientos poco convencionales. Conozca mi caso y Diga Bueno!»
-
-{{< cards cols="4" >}}
-  {{< card link="https://www.spreaker.com/podcast/diga-bueno--4423626" title="Spreaker" icon="microphone" >}}
-{{< /cards >}}
-
--------------------------------------------------------------------------------
