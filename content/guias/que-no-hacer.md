@@ -101,23 +101,28 @@ Una manera de consolarnos puede ser pensar que el sufrimiento es real, pero la s
 
 ## Convertir al TOC en el centro de nuestras vidas
 
-El TOC puede acabar influyendo muchos aspectos de nuestras vidas: conversaciones, decisiones, planes… Nuestro familiar o amigo puede acabar siendo visto a través del trastorno y sus consecuencias. Aunque el TOC tiene un gran impacto, es importante seguir dedicando tiempo a otros aspectos de la vida familiar, social y personal.
+El TOC puede llegar a tener mucho impacto en nuestras vidas e influir en muchos aspectos: conversaciones, decisiones, planes… A veces, corremos el riesgo de que sea el único tema de conversación con nuestro familiar afectado o con el resto de la familia. Incluso puede hacer que veamos a nuestro ser querido sólo a través del trastorno y sus síntomas. Por todo ello, es importante seguir dedicando tiempo a otros aspectos de la vida familiar, social y personal.
 
 
-## Culpar o avergonzar o ridiculizar
+## Criticar, juzgar, enfadarnos
 
-Las personas con TOC no tienen la culpa de sufrirlo. Culparles o hacerles sentir culpa o vergüenza o ridiculizarlos, obviamente, no va a solucionar nada.
+Debemos evitar juzgar, criticar y hacer sentir culpa o vergüenza a nuestros seres queridos por sus comportamientos relacionados con el trastorno, ya que de ninguna manera son responsables de padecer TOC. Así que cuando no nos encontramos en disposición de ayudar por frustración o cualquier otra razón, lo mejor es apartarnos. De lo contrario, la persona podría ocultar sus obsesiones y compulsiones y estaríamos empeorando la situación. Conviene que recordemos, que además del sufrimiento que padecen, su autoestima sueles estar bastante baja y este tipo de situación va a empeorar el problema. Además nos arriegamos a que no quiera estar con nosotros.
+
 
 ## Culparnos
 
-Sus familiares o amigos tampoco somos responsables de que lo tengan, por lo que sentir culpa tampoco va a solucionar nada. 
+Sus familiares o amigos tampoco somos responsables de que lo tengan, por lo que sentir culpa tampoco va a solucionar nada: nadie ha hecho nada mal para que el TOC actúe. Para poder ayudar debemos estar en las mejores condiciones físicas y mentales posibles. No es recomendable, para ninguna de las dos partes, que estemos todo el rato pendientes de nuestro familiar. Nosotros también vamos a necesitar tiempo para nosotros, y a veces, cuidados, terapia, etc.
 
 
-## Esperar a una mejoría espontánea
+## Esperar a una mejoría espontánea o comparar mejorías
 
-Es muy raro que el TOC remita de manera espontánea, además corremos el riesgo de que empeore, por lo que conviene darle la importancia adecuada.
+Es muy muy raro que el TOC remita de manera espontánea. Además corremos el riesgo de que empeore, por lo que conviene darle la importancia adecuada y buscar ayuda experta de manera urgente.
+
+Cada persona parte de un estado diferente, se enfrenta a obsesiones diferentes y va a mejorar a su propio ritmo. Comparar con otros casos no tiene sentido y puede llevar a frustración y desánimo innecesarios.
 
 
-## Desanimarse cuando los síntomas empeoren
+## Desanimarse con las recaídas
 
-La mejoría de los síntomas no suele ser lineal. Puede haber recaídas, pero no hay que desanimarse, no es una vuelta al principio, ni mucho menos. Tan sólo un paso atrás.
+La mejoría de los síntomas no suele ser lineal. Puede haber recaídas, pero en ningún caso es una vuelta al punto de partida, sólo un paso atrás. En el siguiente vídeo, Noelia Hernández Yeste, psicóloga de [TOC Granada](https://tocgranada.com) lo explica con más detalle. 
+
+{{< youtube id=s-IoSOB7Whk >}}
