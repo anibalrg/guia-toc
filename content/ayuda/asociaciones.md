@@ -11,7 +11,7 @@ weight: 1
 {{< cards cols="2">}}
     {{< card 
         title="Fundación TOC Granada (Monachil, Granada)"
-        subtitle="El **increíble** proyecto iniciado por **Aurelio López** es un centro pionero y referente dentro y fuera de España."
+        subtitle="El **increíble** proyecto iniciado por **Aurelio López** es un centro pionero y referente dentro y fuera de nuestro país."
         link="https://tocgranada.com/"
         image="https://tocgranada.com/wp-content/uploads/2026/04/favicon_fundacion.png"
     >}}
@@ -22,7 +22,8 @@ weight: 1
             alt="Asociación Planeta TOC"
             subtitle="Arroyomolinos (Madrid)"
             link="https://www.planetatoc.com"
-image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3rep/multi/opt/Logo+Planeta+TOC+fondo+transparente-218w.png?Expires=1780455954&Signature=m9H-2Pb3WFqpXG6lwFUY663uSZrLyKYWd0YdQinx0PF9umKQZIqEtSCio4p1P02oA4pCvg4cK4ocZnH7J5qrNWsTeeoN5joUPtt3yrb~aySQIHwcO9uo14mWPAVygSOEoM9yJYc~xj7yrttfsSU7e94o7TiKNmsKzbHXNyCLxNyfMrB8qY4EsaMabzBAAK0shu-fKKsM65CANhiDYg24y1XysDSYKoZzUKhgOECHvJeEaGLogx8UiNYn7B2GYPq4D4o2OStI8AfkUjGBFRrFqyWLOlzuA9lQzCbTh1gWEy1G-4-2s2~TGQc~65ZYlBRx5BRTbyY2IMvQrQr8ubeYBA__&Key-Pair-Id=K2NXBXLF010TJW"
+image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3rep/multi/opt/Logo+Planeta+TOC+fondo+transparente-1920w.png?Expires=1783015489&Signature=OR8t7VEOGHqRkwcEFL2shwctaqWKqrkt4r1Cl6bKwRu4JK4bMQ5O6FNxfs6pyQBCsj6zsYV5x3mWtcW~15MC5WW2CHE~ISSsUwClqedGFUfgAG4dhj02mgBEg8-yB7XefT8TL0mOG5PIJWlOztuMboaz9w2porwKZrgsboWB9zdWHeIq-qq5gSrxQsvNmBu9z6t4mWdMnH1dJRJcbZU30nytNarXjOul7-CzCuh-Sw5E6DnWqtrvzwfhWfNH0XWbnLnZSye9JTM5c-mSLfddKdkeQcj413jTRZcVPhtToGDR8A2ijIFG3gbngUXAjnrwy7u298y8WQDTlue11SPN8w__&Key-Pair-Id=K2NXBXLF010TJW"
+
         >}}
 
         {{< card
@@ -131,8 +132,8 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
 * [Asoc. Latinoamericana del TOC](https://altoc.org).
 * [Fundación Internacional TOC (International OCD Foundation)](https://iocdf.org/es/inicio/) (Boston, Massachusetts, EE.UU.).
 
-### Federaciones de salud mental
-Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [Confederación de salud mental España](https://consaludmental.org/) puede serte de ayuda para encontrar asociaciones. Agrupa a 360 entidades que se pueden buscar [geográficamente](https://consaludmental.org/directorio-asociaciones/) o mediante un [buscador](https://consaludmental.org/directorio-asociaciones/:conoce-todas-las-entidades-y-servicios/).
+## Federaciones de salud mental
+Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [Confederación de salud mental España](https://consaludmental.org/) puede serte de ayuda para encontrar asociaciones cerca de ti. Este es el directorio de [todas las entidades](https://consaludmental.org/directorio-asociaciones/:conoce-todas-las-entidades-y-servicios/). También se pueden buscar [geográficamente](https://consaludmental.org/directorio-asociaciones/).
 
 
 ## Grupos de apoyo mutuo/ayuda mutua (GAM) y programa de pacientes expertos
