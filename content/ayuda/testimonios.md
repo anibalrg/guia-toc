@@ -64,6 +64,22 @@ Intervención de Damián Alcolea en la Sala Constitucional del Congreso de los D
 {{< youtube id=4G5-e4S1BNo loading=lazy >}}
 
 
+### José Miguel Arbulú 
+
+Actor, licenciado en filosofía y empresario peruano cuenta su historia en su canal [Historias del TOC](https://www.youtube.com/@historiasdeltoc2748).
+
+* **Mi historia | TOC**.
+
+{{< youtube id=KpUJ2yYgRo8 loading=lazy >}}
+
+
+* **El poder del ahora. Abrazando tus miedos**.
+
+Charla en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
+{{< youtube id=FlDFpvXo0R8 loading=lazy >}}
+
+
+
 ### Jaume Aymar
 
 Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo niño.
