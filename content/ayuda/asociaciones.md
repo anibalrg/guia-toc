@@ -131,6 +131,8 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
 ### América
 * [Asoc. Latinoamericana del TOC](https://altoc.org).
 * [Fundación Internacional TOC (International OCD Foundation)](https://iocdf.org/es/inicio/) (Boston, Massachusetts, EE.UU.).
+* [Made of Millions](https://www.madeofmillions.com/) (Nueva York, EE.UU.; Toronto, Canadá).
+
 
 ## Federaciones de salud mental
 Si en tu zona no hay ninguna asociación o fundación especializada en TOC, la [Confederación de salud mental España](https://consaludmental.org/) puede serte de ayuda para encontrar asociaciones cerca de ti. Este es el directorio de [todas las entidades](https://consaludmental.org/directorio-asociaciones/:conoce-todas-las-entidades-y-servicios/). También se pueden buscar [geográficamente](https://consaludmental.org/directorio-asociaciones/).
