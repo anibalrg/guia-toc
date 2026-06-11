@@ -31,11 +31,11 @@ type: docs
 {{< /cards >}}
 
 
-## {{< icon library >}} Artículos interesantes {#Articulos-interesantes}
+<!-- ## {{< icon library >}} Artículos interesantes {#Articulos-interesantes} -->
 
-* **[Protocolo abreviado de terapia individual de la Fundación TOC Granada](https://tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)**
+<!-- * **[Protocolo abreviado de terapia individual de la Fundación TOC Granada](https://tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)** -->
 
-* **[Practice Guideline for the Treatment of Patients With Obsessive-Compulsive Disorder](https://psychiatryonline.org/pb/assets/raw/sitewide/practice_guidelines/guidelines/ocd.pdf)** [EN]
+<!-- * **[Practice Guideline for the Treatment of Patients With Obsessive-Compulsive Disorder](https://psychiatryonline.org/pb/assets/raw/sitewide/practice_guidelines/guidelines/ocd.pdf)** [EN] -->
 
 
 ## Sitios de referencia
@@ -45,7 +45,7 @@ Información de profesionales.
 {{< cards cols="2" >}}
     {{< card 
         title="Vivir con TOC: Más allá de las manías"
-        subtitle="Completísimo monográfico sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
+        subtitle="Una completa visión sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
         link="https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias/"
     >}}
 
@@ -82,5 +82,24 @@ Información de profesionales.
 
 
 {{< /cards >}}
+
+
+## Foros
+
+{{< callout type="warning" >}}
+Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por TOC acuden a estos foros en busca de reconfirmación (*reassurance*), que es una forma de compulsión.
+{{< /callout >}}
+
+* [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
+
+Aunque es un foro de afectados, puede ser útil echarle un vistazo.
+
+* [My OCD Community](https://healthunlocked.com/my-ocd). [EN]
+
+El foro oficial de la [IOCDF](https://iocdf.org) 
+
+* [reddit/OCD](https://www.reddit.com/r/OCD/). [EN/ES]
+
+El mayor foro sobre TOC.
 
 

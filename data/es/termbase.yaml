@@ -23,7 +23,8 @@
   definition: Exposición con Prevención de Respuesta. Técnica usada en la Terapia cognitivo-conductual (TCC) para tratar el TOC, basada en la exposición gradual a las situaciones que generan malestar, evitando realizar las conductas de alivio aprendidas (compulsiones) para reducir la ansiedad, aprendiendo a convivir con ella y dejando que se reduzca de forma natural.
 
 - term: evitación
-  definition: Alejarse de situaciones, personas, pensamientos, lugares u objetos que pueden activar las obsesiones. Es una respuesta lógica y natural que produce alivio a corto plazo, pero contribuye a perpetuar el TOC pues es lo contrario de la exposición.
+  definition: |
+      Alejarse de situaciones, personas, pensamientos, lugares u objetos que pueden activar las obsesiones. Es una respuesta lógica y natural que produce alivio a corto plazo, pero contribuye a perpetuar el TOC pues es lo contrario de la exposición. Las evitaciones pueden realizarlas los afectados o sus familiares. En este caso, es un tipo de acomodación.
 
 - term: extinción
   definition: Proceso mediante el que el cerebro aprende que el miedo, peligro o amenaza temida no ocurre y la ansiedad disminuye sin necesidad de compulsiones.
@@ -55,17 +56,19 @@
 - term: pensamiento intrusivo
   definition: Pensamiento, imagen, impulso o sensación no deseada que aparece de forma automática en casi todas las personas, pero que en los afectados de TOC adquiren demasiada importancia conviertiéndose en una obsesión.
 
-- term: reaseguración
-  definition: Tipo de compulsión que consiste en la búsqueda repetida de certeza, seguridad, tranquilidad para aliviar dudas y ansiedad.
+- term: reconfirmación
+  definition: Tipo de compulsión que consiste en la búsqueda repetida de certeza, seguridad y tranquilidad de que las obsesiones que se sienten no son reales o las compulsiones que se están realizando no son necesarias.
 
 - term: ritual
-  definition: Acciones o pensamientos repetitivos que la persona siente que *debe hacer* para reducir la ansiedad o prevenir un suceso temido. Suele ser un conjunto de compulsiones, aunque se suelen utilizar como sinónimos.
+  definition: Acciones o pensamientos repetitivos que la persona siente que debe hacer para reducir la ansiedad o prevenir un suceso temido. Suele ser un conjunto de compulsiones, aunque se suelen utilizar como sinónimos.
 
 - term: rumiación
   definition: Darle vueltas una y otra vez a dudas, recuerdos, miedos, posibilidades intentando encontrar la certeza absoluta.
 
 - term: TCC
-  definition: Terapia cognitivo-conductual. Terapia psicológica estándar para tratar el TOC. La parte cognitiva consiste en ayudar a reconocer y modificar los pensamientos y hábitos que mantienen o empeoran al TOC, mientras que la parte conductual son las exposiciones graduales a los disparadores de las obsesiones.
+  definition: |
+    Terapia cognitivo-conductual. Es el tratamiento estándar para tratar el TOC. La parte cognitiva consiste en ayudar a reconocer y cuestionar las interpretaciones
+    erróneas que se hacen de las obsesiones, mientras que la parte conductual consiste en exponerse gradualmente a tolerar la incertidumbre y el malestar sin recurrir a compulsiones o evitaciones.
 
 - term: tolerancia a la incertidumbre
   definition: Capacidad de aceptar que no es posible tener certeza absoluta sobre todo. Suele ser uno de los objetivos de la terapia.
