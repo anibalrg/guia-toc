@@ -110,15 +110,19 @@ Las personas con TOC suelen compartir algunos rasgos de personalidad comunes, qu
 
 * inteligencia por encima de la media
 * intolerancia a la incertidumbre
-* gran sensibilidad
+* hipersensibilidad
 * gran sentido de la responsabilidad
 * baja tolerancia a la frustación
 * perfeccionismo
 * rigidez de ideas
-* sobreestimación de las amenazas
+* sobrestimación de las amenazas
 * introversión
 * tendencia a interiorizar
 * necesidad de control
+* resistencia al cambio
+* pensamiento dicotómico (todo blanco o todo negro)
+ 
+
 
 Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones suele conllevar gran inseguridad y baja autoestima. 
 
