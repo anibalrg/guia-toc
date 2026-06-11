@@ -6,7 +6,7 @@ toc: false
 type: docs
 ---
 
-### {{< icon film >}} Vídeos
+### Vídeos
 
 ### [Fundación TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
@@ -17,15 +17,15 @@ Más de 300 vídeos sobre multitud de temas relacionados con el TOC de uno de lo
   * cortos realizados por personas con TOC…
   
   Hemos destacado algunas, pero hay muchas muy interesantes:
-  * Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
-    * Farmacológicos:
+* Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
+* Farmacológicos:
   {{< youtube id=PwRkQ_WxZtQ >}}
   
-    * Tratamientos para pacientes resistentes a los fármacos:
+* Tratamientos para pacientes resistentes a los fármacos:
   {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
 
-  * El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica Asi el TOC es un problema biológico o aprendido:
-  {{<  youtube id=M5U1l-ElhX0 loading=lazy >}}
+* El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica el desde el punto de vista neurológico y biológico:
+  {{< youtube id=M5U1l-ElhX0 loading=lazy >}}
   
 
 ### [Asociación TOC Zaragoza](https://www.youtube.com/@toczaragoza)

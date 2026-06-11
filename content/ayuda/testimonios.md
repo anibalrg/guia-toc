@@ -13,18 +13,21 @@ Un grupo de afectados y familiares de afectados por TOC responden a preguntas co
 
 * **Objetivo Sur | Programa 9 Tengo TOC** [canalsur](https://www.youtube.com/@canalsur)
 
-Un grupo de personas afectadas por TOC nos muestran su problema y como intentan superarlo haciendo terapia en TOC Granada. Podemos ver a Aurelio López, Noelia Hernánez, Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Ascensión Pérez ([TOC Murcia](https://tocmurcia.es)).
-{{< youtube id=by6s8r9sC0U loading=lazy >}}
+Un grupo de personas afectadas por TOC hablan de su problema y cómo intentan superarlo haciendo terapia en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion). Podemos ver a: Aurelio López ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Noelia Hernánez ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Ascensión Pérez ([TOC Murcia](https://tocmurcia.es)).
+
+{{< yt-thumb by6s8r9sC0U >}}
 
 * **4000 manías. Convertir el TOC en beats.** [PlayGround](https://www.youtube.com/@PlayGroundVideo)
 
 Mini documental sobre Jaume Aymar (Mind Sylenth) y su vida con TOC.
-{{< youtube id=CMr5SMwB8VU loading=lazy >}}
+
+{{< yt-thumb CMr5SMwB8VU >}}
 
 * **TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
 
 Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
-{{< youtube id=5IUUk5_1Exg loading=lazy >}}
+
+{{< yt-thumb 5IUUk5_1Exg >}}
 
 ## Personas con TOC
 
@@ -55,7 +58,9 @@ Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen 
 * **Rompiendo el estigma del TOC en TEDxMadrid.** [TEDx Talks](https://www.youtube.com/@TEDx)
 {{< youtube id=eFBxQxAqBqI loading=lazy >}}
 
-* **Intervención en la Sala Constitucional del Congreso de los Diputados de España durante el Día Mundial de la Salud.** [Salud Mental España](https://www.youtube.com/@SALUDMENTALESPA%C3%91A)
+* **Intervención de Damián Alcolea en el Día Mundial de la Salud.** [Salud Mental España](https://www.youtube.com/@SALUDMENTALESPA%C3%91A)
+
+Intervención de Damián Alcolea en la Sala Constitucional del Congreso de los Diputados de España durante el Día Mundial de la Salud Mental 2018.
 {{< youtube id=4G5-e4S1BNo loading=lazy >}}
 
 
@@ -145,10 +150,17 @@ Locutor de radio colombiano y autor del *podcast* [Diga Bueno]({{% relref "/recu
 
 ### Cristina y Marisa Zapata
 
-* **Las «gemelas de First Dates» cuentan su caso.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
+* **Las gemelas de First Dates y su TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 Se trata de dos hermanas gemelas univitelinas, demostrando la parte genética del TOC en algunos casos. 
 {{< youtube id=uK4nxe7OUu4 loading=lazy >}}
+
+
+### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
+
+El canal del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
+
+* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
 
 ## Familiares de personas con TOC
@@ -181,12 +193,6 @@ Ascensión, madre de una hija con TOC, cuenta su caso y cómo creó la Asociaci�
 Eleonora cuenta su viaje desde Argentina hasta TOC Granada para tratar a su hijo adolescente.
 {{< youtube id=Hcx_pGrIqTY loading=lazy >}}
 
-
-### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
-
-El canal del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
-
-* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
 
 ## Blogs personales
