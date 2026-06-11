@@ -40,7 +40,7 @@ type: docs
 
 ## Sitios de referencia
 
-### Información de profesionales.
+### Información de profesionales y asociaciones.
 
 {{< cards cols="2" >}}
     {{< card 
@@ -48,6 +48,28 @@ type: docs
         subtitle="Una completa visión sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
         link="https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias/"
     >}}
+
+    {{< card
+        title="TOC Granada (Monachil, Granada)"
+        subtitle="Artículos y noticias sobre el TOC de la Fundación TOC Granada."
+        link="https://tocgranada.com/noticias/"
+    >}}
+    
+    {{< cards cols="2" >}}
+    
+        {{< card
+            title="TOC Zaragoza - Blog"
+            subtitle="Noticias sobre el TOC de la Asociación TOC Zaragoza."
+            link="https://toczaragoza.com/blog/"
+        >}}
+            
+        {{< card
+            title="TOC Zaragoza - Artículos"
+            subtitle="Noticias sobre el TOC de la Asociación TOC Zaragoza."
+            link="https://toczaragoza.com/category/articulos-toc/"
+        >}}
+
+    {{< /cards >}}
 
     {{< card
         title="Consulta de Psicología Más que TOC (Sevilla)"
@@ -60,13 +82,6 @@ type: docs
         subtitle="Blog de esta gabinete especializado en TOC."
         link="https://nievesalvarez.es/blog/"
     >}}
-    
-    {{< card
-        title="TOC Granada (Monachil, Granada)"
-        subtitle="Artículos y noticias sobre el TOC de la Fundación TOC Granada."
-        link="https://tocgranada.com/noticias/"
-    >}}
-    
     
     {{< card
         title="Instituto Clínico No + TOC (Chile)"

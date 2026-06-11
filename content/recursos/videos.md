@@ -46,15 +46,18 @@ Son muy recomendables sus charlas de preguntas y respuestas para afectados y par
 
 «Talk TOC es una comunidad de apoyo e información para pacientes con Trastorno Obsesivo Compulsivo y personas interesadas en el tema. Nos interesa fomentar la salud mental y romper estigmas en relación a los trastornos mentales. ¡Todos son bienvenidos!». 
 
+
 ### [Conversaciones Compulsivas](https://www.youtube.com/@ConversacionesCompulsivas)
 
 «Conversaciones Compulsivas, el podcast donde abordamos la salud mental desde una perspectiva profesional, honesta y humana. En cada episodio, especialistas comparten experiencias, rompen estigmas y ofrecen herramientas para cuidar tu bienestar emocional. Porque la terapia no es para locos, es para humanos».
+
 
 ### [MadeOfMillions](https://www.youtube.com/@madeofmillions) [EN]
 
 «The Made of Millions foundation is a global advocacy nonprofit on a mission to change how the world perceives mental health. Our team uses modern tools like technology, design and videography to create resources and experiences that we believe are missing from the mental health space. Things like educational websites, awareness campaigns, informative chatbots and in-person workshops. 
 
 Since our founding in 2016, our platforms and experiences have reached millions of sufferers around the world. To learn more about our work, head to www.madeofmillions.com or visit the links below». 
+
 
 ### [Natasha Daniels](https://www.youtube.com/@childocdtherapist) [EN]
 
