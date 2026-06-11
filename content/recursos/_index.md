@@ -70,6 +70,13 @@ type: docs
         >}}
 
     {{< /cards >}}
+    
+    {{< card
+        title="Made of Millions"
+        subtitle="La fundación Made of Millions es una organización sin ánimo de lucro cuya misión es cambiar la percepción del mundo sobre la salud mental. [EN/ES]"
+        link="https://www.madeofmillions.com/es/"
+    >}}
+    
 
     {{< card
         title="Consulta de Psicología Más que TOC (Sevilla)"
@@ -96,6 +103,7 @@ type: docs
     >}}
 
 
+
 {{< /cards >}}
 
 
@@ -108,11 +116,6 @@ type: docs
         link="https://www.ocdhistory.net/index.html"
     >}}
 
-    {{< card
-        title="Made of Millions"
-        subtitle="La fundación Made of Millions es una organización sin ánimo de lucro cuya misión es cambiar la percepción del mundo sobre la salud mental. [EN/ES]"
-        link="https://www.madeofmillions.com/es/"
-    >}}
 
 {{< /cards>}}
 
@@ -122,16 +125,22 @@ type: docs
 Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por TOC acuden a estos foros buscando confirmación (*reassurance*), una de las forma de compulsión.
 {{< /callout >}}
 
-* [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
+{{< cards cols="2" >}}
+    {{< card
+        title="Foro TOC"
+        subtitle="Foro para afectados de TOC de Leonardo Vitali"
+        link="https://www.forotoc.com/foros"
+    >}}
+    {{< card
+        title="My OCD Community"
+        subtitle="Foro oficial de la IOCDF (*International OCD Foundation*) [EN]"
+        link="https://iocdf.org"
+    >}}
+    {{< card
+        title="reddit/OCD"
+        subtitle="El mayor foro sobre TOC [EN/ES]"
+        link="https://www.reddit.com/r/OCD/"
+    >}}
 
-Aunque es un foro de afectados, puede ser útil echarle un vistazo.
 
-* [My OCD Community](https://healthunlocked.com/my-ocd). [EN]
-
-El foro oficial de la [IOCDF](https://iocdf.org) 
-
-* [reddit/OCD](https://www.reddit.com/r/OCD/). [EN/ES]
-
-El mayor foro sobre TOC.
-
-
+{{< /cards>}}

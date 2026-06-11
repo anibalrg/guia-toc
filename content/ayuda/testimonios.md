@@ -197,8 +197,22 @@ Eleonora cuenta su viaje desde Argentina hasta TOC Granada para tratar a su hijo
 
 ## Blogs personales
 
-* [Diario de un TOC](https://diariodeuntoc.blogspot.com/) de Damián Alcolea.
+{{< cards cols="2" >}}
+    {{< card
+        title="Diario de un TOC"
+        subtitle="Damián Alcolea"
+        link="https://diariodeuntoc.blogspot.com/"
+    >}}
+    {{< card
+        title="Yo superé el TOC"
+        subtitle="Reyes Corbató"
+        link="https://yosupereltrastornobsesivocompulsivo.blogspot.com/"
+    >}}
+    {{< card
+        title="Foro TOC"
+        subtitle="Blog de Leo Vitali"
+        link="https://www.forotoc.com/blog/"
+    >}}
 
-* [Yo superé el TOC](https://yosupereltrastornobsesivocompulsivo.blogspot.com/) de Reyes Corbató.
-
+{{< /cards>}}
 
