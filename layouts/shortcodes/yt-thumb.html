@@ -1,0 +1,53 @@
+{{- /*
+Renders a YouTube video thumbnail linking to YouTube.
+
+@param {string} [id] The video id. Optional if the id is the first and only positional argument.
+@param {string} [title] Alt text and aria-label. Defaults to "YouTube video".
+@param {string} [loading=lazy] The loading attribute of the img element.
+@param {int} [start] Start time in seconds, passed as &t= in the watch URL.
+
+@example {{< yt-thumb 5IUUk5_1Exg >}}
+@example {{< yt-thumb id=5IUUk5_1Exg title="TOC: Tocados" start=30 >}}
+*/}}
+{{- $id      := or (.Get "id") (.Get 0) }}
+{{- $title   := or (.Get "title") "YouTube video" }}
+{{- $loading := or (.Get "loading") "lazy" }}
+{{- $start   := .Get "start" }}
+{{- if not $id }}
+  {{- errorf "The %q shortcode requires an id argument. See %s" .Name .Position }}
+{{- end }}
+{{- $watchURL := printf "https://www.youtube.com/watch?v=%s" $id }}
+{{- if $start }}
+  {{- $watchURL = printf "%s&t=%s" $watchURL ($start | string) }}
+{{- end }}
+{{- $thumb         := printf "https://img.youtube.com/vi/%s/mqdefault.jpg" $id }}
+{{- $thumbFallback := printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $id -}}
+<figure style="margin: 1rem 0;">
+  <a href="{{ $watchURL }}" target="_blank" rel="noopener noreferrer"
+     aria-label="{{ $title }}"
+     style="position: relative; display: inline-block; width: 100%; background: #000;">
+    <img
+      src="{{ $thumb }}"
+      onerror="this.src='{{ $thumbFallback }}'"
+      alt="{{ $title }}"
+      loading="{{ $loading }}"
+      style="width: 100%; height: auto; display: block; opacity: 0.85;" />
+    <span style="
+      position: absolute; top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      width: 68px; height: 48px;
+      background: #ff0000; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;">
+      <svg viewBox="0 0 68 48" width="68" height="48" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="26,16 50,24 26,32" fill="#fff"/>
+      </svg>
+    </span>
+    <span style="
+      position: absolute; bottom: 10px; right: 12px;
+      background: rgba(0,0,0,0.6); color: #fff;
+      font-size: 11px; font-family: sans-serif;
+      padding: 2px 7px; border-radius: 4px;">
+      Ver en YouTube
+    </span>
+  </a>
+</figure>
