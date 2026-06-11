@@ -7,8 +7,8 @@ type: docs
 ---
 
 {{< hextra/feature-grid cols="2">}}
-    {{< hextra/feature-card link="videos" icon="film" title="Vídeos" subtitle="Selección de charlas de expertos, testimonios de afectados y familiares, etc. de los mejores canales dedicados al TOC." >}}
-    {{< hextra/feature-card link="podcasts" title="Podcasts" icon="speakerphone" subtitle="" >}}
+    {{< hextra/feature-card link="videos" icon="film" title="Vídeos" subtitle="Canales dedicados al TOC, tanto de asociaciones como de afectados, cortometrajes, documentales…" >}}
+    {{< hextra/feature-card link="podcasts" title="Podcasts" icon="speakerphone" subtitle="Podcasts realizados por personas afectadas por TOC y profesionales dedicados a divulgar sobre este trastorno." >}}
 {{< /hextra/feature-grid >}}
 
 
@@ -40,7 +40,7 @@ type: docs
 
 ## Sitios de referencia
 
-Información de profesionales.
+### Información de profesionales.
 
 {{< cards cols="2" >}}
     {{< card 
@@ -75,19 +75,36 @@ Información de profesionales.
     >}}
 
     {{< card
-        title="A Short History of OCD"
-        subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad [EN]"
-        link="https://www.ocdhistory.net/index.html"
+        title="Psinco Alejandro Ibarra (Sevilla)"
+        subtitle="Blog de este psicólogo especialista en TOC."
+        link="https://alejandroibarra.es/blog/"
     >}}
 
 
 {{< /cards >}}
 
 
+### Enlaces de interés
+
+{{< cards cols="2" >}}
+    {{< card
+        title="A Short History of OCD"
+        subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad [EN]"
+        link="https://www.ocdhistory.net/index.html"
+    >}}
+
+    {{< card
+        title="Made of Millions"
+        subtitle="La fundación Made of Millions es una organización sin ánimo de lucro cuya misión es cambiar la percepción del mundo sobre la salud mental. [EN/ES]"
+        link="https://www.madeofmillions.com/es/"
+    >}}
+
+{{< /cards>}}
+
 ## Foros
 
 {{< callout type="warning" >}}
-Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por TOC acuden a estos foros en busca de reconfirmación (*reassurance*), que es una forma de compulsión.
+Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por TOC acuden a estos foros buscando confirmación (*reassurance*), una de las forma de compulsión.
 {{< /callout >}}
 
 * [Foro TOC](https://www.forotoc.com/foros/), foro para afectados de TOC y blog de Leonardo Vitali.
