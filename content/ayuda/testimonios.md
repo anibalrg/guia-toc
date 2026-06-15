@@ -41,6 +41,7 @@ Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen 
 
 * [**Lista de vídeos de aluandii sobre el TOC.**](https://youtube.com/playlist?list=PLKBtGVrENqUsq7z5ot-AZHn_IYF2-XbF1&si=bzV6e4bI067wvuN6)
 
+
 ### Alaitz
 
 * **El potente testimonio de Alaizt por su TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
@@ -79,7 +80,6 @@ Charla en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 {{< youtube id=FlDFpvXo0R8 loading=lazy >}}
 
 
-
 ### Jaume Aymar
 
 Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo niño.
@@ -90,9 +90,11 @@ Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo
 * **4000 manías. Me duchaba 43 veces al día. Convivir con TOC** [Uri Sabat](https://www.youtube.com/@UriSabatTV).
 {{< youtube id=0da3Lud8aqo loading=lazy >}}
 
+
 ### Sol Carlos
 * **Tengo T.O.C.** [Sol Carlos](https://www.youtube.com/@solcarlosofficial)
 {{< youtube id=KcBwnWlxSRw loading=lazy >}}
+
 
 ### José Costas
 * **Gran testimonio TOC recuperado. TOC Granada Asociación.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
@@ -112,6 +114,7 @@ Después de ganar la Eurocopa sub-16 y lograr el tercer puesto en el Mundial sub
 * **En El Intermedio de laSexta.** [laSexta](https://www.youtube.com/@laSexta)
 {{< youtube id=a5KevTwSnuQ loading=lazy >}}
 
+
 ### Joan
 
 * **Puramente obsesivo: una historia sobre el TOC** [Puramente Obsesivo](https://www.youtube.com/@PuramenteObsesivo) [ES/CAT]
@@ -125,6 +128,7 @@ Mini documental donde Joan cuenta su historia con TOC puro.
 
 José Juan cuenta su caso de TOC religioso.
 {{<youtube id=2UVeZsIsJgA loading=lazy >}}
+
 
 ### Luli Liff
 
@@ -163,6 +167,19 @@ Locutor de radio colombiano y autor del *podcast* [Diga Bueno]({{% relref "/recu
 * **Me golpeaba la cabeza para que esos pensamientos salieran": Carlos Sarria revela su lucha con TOC.** [Realidades](https://www.youtube.com/@Realidadescanal)
 {{< youtube id=jb-hGnX9mxc loading=lazy >}}
 
+
+### Romina Vitale 
+
+Cantante, compositora, psicóloga y oradora argentina. Autora del libro [TOCada](https://www.goodreads.com/book/show/30625167-tocada-trastorno-obsesivo-compulsivo) donde cuenta su vida con un TOC severo, desde el diagnóstico hasta la recuperación. Más información en su canal de YouTube: [Rovitale](https://www.youtube.com/c/RoVitale).
+
+* **TOC - Ro Vitale | LA CRUDA #1 con MIGUE GRANADOS** [OLGA](https://www.youtube.com/@olgaenvivo_)
+
+{{< youtube id=jS2LoXykaRw loading=lazy >}}
+
+* **¿Cuáles son las consecuencias de tener TOC? La historia de Ro Vitale | #DelOtroLado** 
+[Infobae](https://www.youtube.com/@Infobae)
+
+{{< youtube id=PI7HvPEuVtU loading=lazy >}}
 
 ### Cristina y Marisa Zapata
 
