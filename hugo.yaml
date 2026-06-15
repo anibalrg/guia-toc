@@ -112,6 +112,8 @@ params:
 
   markup:
     goldmark:
+      renderer:
+        unsafe: true
       parser:
         attribute:
           block: true
