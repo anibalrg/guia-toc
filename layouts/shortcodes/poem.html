@@ -1,0 +1,47 @@
+{{- /*
+Renders a two-column poem with original and translation.
+
+@param {string} [title1]   Title of the original poem (left column).
+@param {string} [title2]   Title of the translated poem (right column).
+@param {string} [author]   Author of the poem, shown below both columns.
+
+@example
+{{< poem title1="The Rose" title2="La Rosa" author="John Doe" >}}
+Roses are red,;;Las rosas son rojas,
+Violets are blue,;;Las violetas son azules,
+Hugo is great,;;Hugo es genial,
+And so are you.;;Y tú también.
+{{< /poem >}}
+*/}}
+{{- $title1 := .Get "title1" }}
+{{- $title2 := .Get "title2" }}
+{{- $author := .Get "author" }}
+{{- $inner  := .Inner | strings.TrimSpace }}
+{{- $lines  := slice }}
+{{- range $line := split $inner "\n" }}
+  {{- $trimmed := strings.TrimSpace $line }}
+  {{- if $trimmed }}
+    {{- $lines = $lines | append $trimmed }}
+  {{- end }}
+{{- end -}}
+<div class="poem-columns" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1rem 0;">
+  <div>
+    {{- if $title1 }}
+    <div style="font-weight: bold; margin-bottom: 0.5rem;">{{ $title1 }}</div>
+    {{- end }}
+    <p style="white-space: pre-line; margin: 0;">{{ range $lines }}{{ index (split . ";;") 0 }}
+{{ end }}</p>
+  </div>
+  <div>
+    {{- if $title2 }}
+    <div style="font-weight: bold; margin-bottom: 0.5rem;">{{ $title2 }}</div>
+    {{- end }}
+    <p style="white-space: pre-line; margin: 0;">{{ range $lines }}{{ $parts := split . ";;" }}{{ if gt (len $parts) 1 }}{{ index $parts 1 }}{{ end }}
+{{ end }}</p>
+  </div>
+  {{- if $author }}
+  <div style="grid-column: 1 / -1; text-align: right; font-style: italic; color: gray; margin-top: 0.25rem;">
+    — {{ $author }}
+  </div>
+  {{- end }}
+</div>

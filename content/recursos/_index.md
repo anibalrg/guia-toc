@@ -107,18 +107,6 @@ type: docs
 {{< /cards >}}
 
 
-### Enlaces de interés
-
-{{< cards cols="2" >}}
-    {{< card
-        title="A Short History of OCD"
-        subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad [EN]"
-        link="https://www.ocdhistory.net/index.html"
-    >}}
-
-
-{{< /cards>}}
-
 ## Foros
 
 {{< callout type="warning" >}}
@@ -144,3 +132,78 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
 
 
 {{< /cards>}}
+
+
+### Enlaces de interés
+
+{{< cards cols="2" >}}
+    {{< card
+        title="A Short History of OCD, 2009"
+        subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad. [EN]"
+        link="https://www.ocdhistory.net/index.html"
+    >}}
+    
+    {{< card
+        title="The Secret Illness"
+        subtitle="Explorando las realidades del TOC a traves de las artes creativas[EN]"
+        link="https://thesecretillness.com/"
+    >}}
+
+    {{< card
+        title="Intrusive Thoughts"
+        subtitle="Información sobre distintos aspectos de la vida con TOC."
+        link="https://www.intrusivethoughts.org/es/"
+    >}}
+
+{{< /cards>}}
+
+
+### Arte y TOC
+
+* **Este Viejo Fantasma.** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD)
+
+Basado en el poema «*The Old Ghost*» de James Lloyd, escritor y periodísta científico del Reino Unido que sufre TOC desde la infancia. La animación está realizada por [Liz Smith](https://liz-smith.com/). La adaptación al español del poema es de Romina (Ro) Vitale, cantante argentina y escritora afectada de TOC. 
+
+
+{{< youtube id=OJTYMa9wS78 loading=lazy >}}
+
+
+{{< poem title1="This Old Ghost" title2="Este viejo fantasma" author="James Lloyd" >}}
+There’s something wrong with me,;;Hay algo en mí que no está bien.
+but it’s not something you can see.;;Pero tú no lo puedes ver.
+I’ve got no scar or suspect rash,;;No tengo cicatriz o sospechosas manchas,
+no lump or bump or missing limb,;;ni bultos, protuberancias, ni pierna que falta,
+no sudden slump or system crash.;;ni súbita caída o sistema en falla.
+;;
+It’s this old ghost I’ve got, you see.;;Lo que tú ves es un viejo fantasma
+It only shows its face to me.;;que sólo a mí me revela su cara.
+It plants these questions in my head;;Planta preguntas en mi mente
+and sends them spinning round my chest.;;que hasta girando en mi pecho se sienten.
+It never settles down to sleep,;;Nunca se duerme, a mi pesar
+it never lets me get some rest.;;y no me deja descansar.
+;;
+And when I try to wriggle free,;;Y cuando lucho para ser libre,
+this wicked ghost, it clings to me.;;este maldito fantasma me ciñe.
+It whispers stories of my doom,;;Susurra cuentos de mi destino condenado,
+this effervescent thing, it looms;;esta cosa efervescente, camina siempre a mi lado.
+and fleshes out my brittle bones;;Le da cuerpo a mis frágiles huesos
+while I’m out swimming in the sea.;;mientra yo nado en el mar sin reflejo.
+;;
+But just as I’m about to flee,;;Y cuando estoy a punto de escapar,
+far out into the gloom I see;;lejos, en la penumbra, puedo observar
+a thousand faces blinking back,;;mil caras guiñando sus ojos atentos,
+all floating on the open sea.;;flotando todos en el mar abierto.
+;;
+They’re smiling as I watch them glow,;;Están sonriendo mientras los veo brillar
+a dreamy moonlit lantern show,;;en un show soñado, iluminado por una linterna lunar,
+all drifting through the same deep black –;;van vagando por la misma profunda oscuridad —
+I wave at them and they wave back –;;los saludo con la mano y me vuelven a saludar —
+one thousand hands against the sky,;;mil manos contra el cielo,
+one thousand souls who’ve gone awry,;;mil almas que se torcieron,
+all swimming through the same cold sea,;;todas nadando en el mismo mar frío,
+and they’ve all got old ghosts like me.;;y todas tienen fantasmas viejos, como el mío.
+{{< /poem >}}
+
+
+[Versión original](https://youtu.be/63peSIK2ZHs?si=pqc3p7a2SG8Cff1k)
+
