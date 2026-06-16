@@ -119,6 +119,16 @@ params:
           block: true
           title: true
 
-  privacy:
-    youTube:
-      privacyEnhanced: true
+privacy:
+  youTube:
+    privacyEnhanced: true
+
+security:
+  http:
+    methods:
+      - GET
+    urls:
+      - ^https://cdn\.jsdelivr\.net
+      - ^https://www\.youtube\.com/oembed
+      - ^https://www\.youtube-nocookie\.com/oembed
+      - ^https://img\.youtube\.com/vi/
