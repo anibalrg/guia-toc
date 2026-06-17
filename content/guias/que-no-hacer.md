@@ -1,7 +1,7 @@
 ---
 date: 2026-04-30
 title: ¿Qué NO debemos hacer?
-weight: 3
+weight: 2
 ---
 
 El TOC tiene peculiaridades con las que hay que tratar de manera contraintuitiva y desobedeciendo a nuestro corazón.
