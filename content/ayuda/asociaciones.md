@@ -130,8 +130,8 @@ image="https://le-cdn.website-editor.net/s/14663817c72749f4a3280f38aebae76e/dms3
 
 ### América
 * [Asoc. Latinoamericana del TOC](https://altoc.org).
-* [Fundación Internacional TOC (International OCD Foundation)](https://iocdf.org/es/inicio/) (Boston, Massachusetts, EE.UU.).
-* [Made of Millions](https://www.madeofmillions.com/) (Nueva York, EE.UU.; Toronto, Canadá).
+* [Fundación Internacional TOC (International OCD Foundation)](https://iocdf.org/es/inicio/) (Boston, Massachusetts, EE.UU.). [EN/ES]
+* [Made of Millions](https://www.madeofmillions.com/es) (Nueva York, EE.UU.; Toronto, Canadá). [EN/ES]
 
 
 ## Federaciones de salud mental
