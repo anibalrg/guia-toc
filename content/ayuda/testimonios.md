@@ -158,6 +158,15 @@ José Juan cuenta su caso de TOC religioso.
 {{< youtube id=mQox-dAoEaI loading=lazy >}}
 
 
+### Ayme Román
+
+* **Trastorno obsesivo-compulsivo, depresión y redes sociales | Mi historia.** [Ayme Román](https://www.youtube.com/@AymeRoman)
+
+Ayme Román es una filósofa, activista y divulgadora sobre filosofía contemporánea y feminismo. Ha publicado en revistas como Catarsis y El Salto.
+
+{{< youtube id=nyKoMrU9mys loading=lazy >}}
+
+
 ### Carlos Sarria
 
 Locutor de radio colombiano y autor del *podcast* [Diga Bueno]({{% relref "/recursos/podcasts/#diga-bueno" %}}) y del [libro del mismo título]({{% relref "/recursos/#book-diga-bueno-mi-vida-con-toc" %}}).
