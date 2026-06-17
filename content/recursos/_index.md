@@ -154,16 +154,28 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
         subtitle="Información sobre distintos aspectos de la vida con TOC."
         link="https://www.intrusivethoughts.org/es/"
     >}}
+    
+    {{< card
+        title="OCD-UK"
+        subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
+        link="https://www.ocduk.org/"
+    >}}
 
 {{< /cards>}}
 
 
 ### Arte y TOC
 
-* **Este Viejo Fantasma.** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD)
+* **«Reparto Obsesivo».** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
-Basado en el poema «*The Old Ghost*» de James Lloyd, escritor y periodísta científico del Reino Unido que sufre TOC desde la infancia. La animación está realizada por [Liz Smith](https://liz-smith.com/). La adaptación al español del poema es de Romina (Ro) Vitale, cantante argentina y escritora afectada de TOC. 
+Muestra los problemas que le causa un TOC de comprobación a una persona. Está basada en un caso real, con el guión de [Aurelio López]({{% relref "/personas/#aurelio-lópez-reina" %}}), presidente de [TOC Granada](https://tocgranada.com), y protagonizada, en su mayor parte, por afectados de esta asociación.
 
+{{< youtube id=gUR01CHUNDE loading=lazy >}}
+
+
+* **«Este Viejo Fantasma».** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD)
+
+Este corto de animación está basado en el poema «*The Old Ghost*» de James Lloyd, escritor y periodísta científico británico afectado por TOC. La animación está realizada por la cineasta británica [Liz Smith](https://liz-smith.com/). La adaptación al español del poema es de [Romina (Ro) Vitale]({{% relref "/ayuda/testimonios/#romina-vitale" %}}), cantante argentina y escritora afectada de TOC. 
 
 {{< youtube id=OJTYMa9wS78 loading=lazy >}}
 
@@ -204,6 +216,122 @@ all swimming through the same cold sea,;;todas nadando en el mismo mar frío,
 and they’ve all got old ghosts like me.;;y todas tienen fantasmas viejos, como el mío.
 {{< /poem >}}
 
+Este es el vídeo original «*This Old Ghost*» narrado por el autor del poema, James LLoyd: 
+{{< youtube id=pqc3p7a2SG8Cff1k loading=lazy >}}
 
-[Versión original](https://youtu.be/63peSIK2ZHs?si=pqc3p7a2SG8Cff1k)
+* **«*OCD Poem*», de Neil Hilborn.** [Button Poetry](https://www.youtube.com/@ButtonPoetry).
 
+El poeta estadounidense, Neil Hilborn, describe en este poema una relación amorosa desde su punto de vista, como afectado de TOC (*OCD, Obsesive Compulsive Disorder*). Pertenece a su libro «*Our Numbered Days*». El vídeo en versión original está recitado por él mismo.
+
+Otros libros de poemas de [Neil Hilborn](https://buttonpoetry.com/product-tag/neil-hilborn/?orderby=popularity).
+
+Versión original narrada por Neil Hilborn: 
+
+{{< youtube id=hBXtEg1ql1JMn1-J loading=lazy >}}
+
+Cortometraje «*TOC*», dirigido por David Ian Lima Martínez. Adaptación en español del poema de Neil en colaboración con [calavera films](https://www.youtube.com/@calaverafilms9304).
+{{< youtube id=OV9rKt0JU_dASHsl loading=lazy >}}
+
+{{< poem title1="OCD" title2="TOC" author="Neil Hilborn" >}}
+The first time I saw her,;;La primera vez que la vi,
+everything in my head went quite.;;todo en mi cabeza se silenció.
+All the tics,;;Todos los tics,
+all the constantly refreshing images;;todas las imágenes que se repetían una y otra vez
+just disappeared.;;simplemente desaparecieron.
+;;
+When you have Obsessive Compulsive Disorder,;;Cuando tienes trastorno obsesivo-compulsivo,
+you don't really get quiet moments.;;no tienes un momento de calma.
+Even in bed, I'm thinking:;;Incluso en la cama, estoy pensando: 
+did I lock the doors? Yes.;;¿cerré las puertas? Sí.
+Did I wash my hands?;;¿Me lavé las manos? Sí.
+Did I lock the doors? Yes.;;¿Cerré las puertas? Sí.
+Did I wash my hands? Yes.;;¿Me lavé las manos? Sí.
+But when I saw her, the only thing I could think about;;Pero cuando la vi, lo único en lo que podía pensar 
+was the hairpin curve of her lips;;era en la curva de sus labios
+or the eyelash on her cheek;;o en la pestaña en su mejilla
+the eyelash on her cheek;;la pestaña en su mejilla
+the eyelash on her cheek;;la pestaña en su mejilla
+I knew I had to talk to her.;;Supe que tenía que hablar con ella.
+;;
+I asked her out six times in thirty seconds.;;Le pedí salir seis veces en treinta segundos.
+She said yes after the third one,;;Ella dijo que sí después de la tercera,
+but none of them felt right,;;pero ninguna me pareció la correcta,
+so I had to keep going.;;así que no pude parar.
+On our first date;;En nuestra primera cita
+I spent more time organizing my meal by color;;pasé más tiempo ordenando mi comida por colores
+than I did eating it,;;que comiéndomela
+or fucking talking to her...;;o, joder, hablando con ella...
+But she loved it.;;Pero a ella le encantó.
+She loved that I had to kiss her goodbye;;Le encantaba que tuviera que despedirme
+sixteen times,;;con dieciséis besos,
+or twenty-four times if it was Wednesday.;;o veinticuatro si era miércoles.
+She loved that it took me forever to walk home;;Le encantaba que tardara tanto en volver a casa
+because there are lots of cracks on our sidewalk.;;porque nuestra acera está llena de grietas.
+;;
+When we moved in together,;;Cuando nos fuimos a vivir juntos,
+she said she felt safe,;;dijo que se sentía segura
+like no one would ever rob us;;como si nadie fuera a robarnos jamás
+because I definitely;;porque yo, sin duda
+locked the door eighteen times.;;cerraría la puerta dieciocho veces.
+I'd always watch her mouth;;Siempre me fijaba en su boca
+when she talked;;cuando hablaba
+when she talked;;cuando hablaba
+when she talked;;cuando hablaba
+when she talked.;;cuando hablaba.
+When she said she loved me,;;Cuando me decía que me quería,
+her mouth would curl up at the edges.;;las comisuras se curvaban hacia arriba.
+At night, she'd lay in bed;;Por la noche se tumbaba en la cama
+and watch me turn all the lights off;;y me veía apagar las luces
+and on, and off,;;y encenderlas, y apagarlas,
+and on, and off,;;y encenderlas, y apagarlas,
+and on, and off,;;y encenderlas, y apagarlas,
+and on, and off.;;y encenderlas, y apagarlas.
+She'd close her eyes and imagine;;Cerraba sus ojos e imaginaba
+that the days and nights were passing in front of her.;;que los días y las noches desfilaban ante ella.
+;;
+Some mornings I'd start kissing her goodbye;;Algunas mañanas empezaba a darle sus besos
+but she'd just leave;;pero se marchaba sin más
+cause I was making her late for work.;;porque la hacía llegar tarde al trabajo.
+When I stopped in front of a crack in the sidewalk,;;Cuando me paraba ante una grieta de la acera,
+she just kept walking.;;ella seguía caminando.
+When she said she loved me,;;Cuando me decía que me quería,
+her mouth was a straight line.;;su boca era una línea recta.
+She told me I was taking up too much of her time.;;Me dijo que le quitaba demasiado tiempo.
+;;
+Last week she started sleeping at her mother's place.;;La pasada semana empezó a dormir en casa de su madre.
+She told me that she shouldn't have let me get;;Me dijo que que no debería haber dejado
+so attached to her,;;que me encariñara tanto con ella,
+that this whole thing was a mistake,;;que todo había sido un error,
+but how can it be a mistake;;pero ¿cómo puede haber sido un error
+that I don't have to wash my hands;;que no tenga que lavarme las manos
+after I touched her?;;después de tocarla?
+Love is not a mistake,;;El amor no es un error,
+and it's killing me;;y me está matando
+that she can run away from this;;que ella pueda huir de esto
+and I just can't go out and find someone new ;;y yo no pueda salir y encontrar a alguien nuevo 
+because I always think of her.;;porque siempre estoy pensando en ella.
+;;
+Usually, when I obsess over things,;;Normalmente, cuando me obsesiono con cosas,
+I see germs sneaking into my skin.;;veo gérmenes colándose en mi piel.
+I see myself crushed.;;Me veo a mi mismo aplastado
+by an endless succession of cars.;;por una sucesión interminable de coches.
+She was the first beautiful thing.;;Ella fue la primera cosa hermosa
+I ever got stuck on.;;con la que me obsesioné.
+I want to wake up every morning thinking;;Quiero despertarme cada mañana pensando
+about the way she holds her steering wheel.;;en cómo sujeta el volante.
+How she turns shower knobs;;En cómo gira los mandos de la ducha
+like she's opening a safe.;;como si estuviera abriendo una caja fuerte.
+How she blows out candles;;En cómo apaga las velas
+blows out candles blows out;;apaga las velas apaga las velas
+blows out candles blows out;;apaga las velas apaga las velas
+blows out candles blows out;;apaga las velas apaga las velas
+blows out candles blows out;;apaga las velas apaga las velas
+blows out candles blows out;;apaga las velas apaga las velas
+Now, I just think about who else is kissing her.;;Ahora, sólo pienso en quién más la está besando.
+I can't breathe because he only kisses her once.;;No puedo respirar porque él solo la besa una vez.
+He doesn't care if it's perfect!;;¡A él no le importa si es perfecto!
+I want her back so bad,;;La echo tanto de menos,
+I leave the door unlocked.;;que dejo la puerta sin cerrar.
+I leave the lights on.;;Dejo las luces encendidas.
+{{< /poem >}}
+    
