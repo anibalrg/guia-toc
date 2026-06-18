@@ -6,7 +6,6 @@ toc: false
 type: docs
 ---
 
-### Vídeos
 
 ### [Fundación TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
@@ -49,7 +48,7 @@ Son muy recomendables sus charlas de preguntas y respuestas para afectados y par
 
 ### [Conversaciones Compulsivas](https://www.youtube.com/@ConversacionesCompulsivas)
 
-«Conversaciones Compulsivas, el podcast donde abordamos la salud mental desde una perspectiva profesional, honesta y humana. En cada episodio, especialistas comparten experiencias, rompen estigmas y ofrecen herramientas para cuidar tu bienestar emocional. Porque la terapia no es para locos, es para humanos».
+«Conversaciones Compulsivas, el *podcast* donde abordamos la salud mental desde una perspectiva profesional, honesta y humana. En cada episodio, especialistas comparten experiencias, rompen estigmas y ofrecen herramientas para cuidar tu bienestar emocional. Porque la terapia no es para locos, es para humanos».
 
 
 ### [MadeOfMillions](https://www.youtube.com/@madeofmillions) [EN]
@@ -75,5 +74,12 @@ You’ll find:
 	•	Curated videos made specifically for kids and teens to watch
 
 Whether you’re parenting a child with OCD, social anxiety, phobias, generalized anxiety, or body-focused repetitive behaviors (BFRBs) this channel is your go-to resource!»
+
+
+### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
+
+El canal oficial del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
+
+* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
 

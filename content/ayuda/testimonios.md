@@ -208,12 +208,6 @@ Se trata de dos hermanas gemelas univitelinas, demostrando la parte genética de
 {{< youtube id=uK4nxe7OUu4 loading=lazy >}}
 
 
-### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
-
-El canal del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
-
-* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
-
 
 ## Familiares de personas con TOC
 
