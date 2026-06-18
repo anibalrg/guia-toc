@@ -6,6 +6,31 @@ toc: false
 type: docs
 ---
 
+## Programas y documentales dedicados al TOC
+* **Eso no se pregunta: TOC** [Telemadrid](https://www.youtube.com/@telemadrid)
+
+Un grupo de afectados y familiares de afectados por TOC responden a preguntas como: ¿Qué es el TOC? ¿Te asustan tus pensamientos? ¿Cuándo te diste cuenta de que algo no iba bien? ¿Cómo te afecta el TOC en tu día a día? ¿Te gustan las sorpresas? ¿El TOC se cura?
+{{< youtube id=gvpcx7H1xCc loading=eager start=18 >}}
+
+* **Objetivo Sur | Programa 9 Tengo TOC** [canalsur](https://www.youtube.com/@canalsur)
+
+Un grupo de personas afectadas por TOC hablan de su problema y cómo intentan superarlo haciendo terapia en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion). Podemos ver a: Aurelio López ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Noelia Hernánez ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Ascensión Pérez ([TOC Murcia](https://tocmurcia.es)).
+
+{{< yt-thumb by6s8r9sC0U >}}
+
+* **4000 manías. Convertir el TOC en beats.** [PlayGround](https://www.youtube.com/@PlayGroundVideo)
+
+Mini documental sobre Jaume Aymar (Mind Sylenth) y su vida con TOC.
+
+{{< yt-thumb CMr5SMwB8VU >}}
+
+* **TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
+
+Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
+
+{{< yt-thumb 5IUUk5_1Exg >}}
+
+## Canales 
 
 ### [Fundación TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
