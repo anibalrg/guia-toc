@@ -91,7 +91,17 @@ Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo
 {{< youtube id=0da3Lud8aqo loading=lazy >}}
 
 
+### Franko Bonilla
+
+* **FRANKO BONILLA - Trastorno Obsesivo-Compulsivo TOC.** [La Risa Cura](https://www.youtube.com/@risacurashow)
+
+Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cura*. Un programa de humor en el que afectados por distintos trastornos hablan cualquier tema, por delicado que sea, porque «es mejor reír que victimizarse».
+
+{{< youtube id=Toyviw12cbo loading=lazy >}}
+
+
 ### Sol Carlos
+
 * **Tengo T.O.C.** [Sol Carlos](https://www.youtube.com/@solcarlosofficial)
 {{< youtube id=KcBwnWlxSRw loading=lazy >}}
 
