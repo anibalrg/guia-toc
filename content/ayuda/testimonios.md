@@ -7,12 +7,15 @@ weight: 3
 
 ## Personas con TOC
 
-### Testimonios de afectados de TOC y familiares [TOC Granada](https://tocgranada.com/testimonios-de-afectados-toc/)
+### Testimonios de afectados y familiares de TOC Granada
 
+En el canal de [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) hay una sección dedicada a los testimonios de [afectados y familiares](https://tocgranada.com/testimonios-de-afectados-toc/).
+ 
 
 ### aluandii
 
 * **Tengo TOC (Trastorno Obsesivo Compulsivo). | qué es? mi experiencia**
+
 {{< youtube id=E2eFOWZKoTg loading=lazy >}}
 
 * [**Lista de vídeos de aluandii sobre el TOC.**](https://youtube.com/playlist?list=PLKBtGVrENqUsq7z5ot-AZHn_IYF2-XbF1&si=bzV6e4bI067wvuN6)
@@ -21,18 +24,21 @@ weight: 3
 ### Alaitz
 
 * **El potente testimonio de Alaizt por su TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
+
 {{< youtube id=QD_zX9iHUeg loading=lazy >}}
 
 
 ### Alice in youtubeland
 
 * **VIVIR CON TOC (trastorno obsesivo compulsivo)** 
+
 {{< youtube id=s8KnUurW6Ss loading=lazy >}}
 
 
 ### Damián Alcolea
 
 * **Rompiendo el estigma del TOC en TEDxMadrid.** [TEDx Talks](https://www.youtube.com/@TEDx)
+
 {{< youtube id=eFBxQxAqBqI loading=lazy >}}
 
 * **Intervención de Damián Alcolea en el Día Mundial de la Salud.** [Salud Mental España](https://www.youtube.com/@SALUDMENTALESPA%C3%91A)
@@ -53,6 +59,7 @@ Actor, licenciado en filosofía y empresario peruano cuenta su historia en su ca
 * **El poder del ahora. Abrazando tus miedos**.
 
 Charla en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
+
 {{< youtube id=FlDFpvXo0R8 loading=lazy >}}
 
 
@@ -61,9 +68,11 @@ Charla en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo niño.
 
 * **El peor y más famoso caso de TOC de la historia.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
+
 {{< youtube id=2WwYNJaNA2M loading=lazy >}}
 
 * **4000 manías. Me duchaba 43 veces al día. Convivir con TOC** [Uri Sabat](https://www.youtube.com/@UriSabatTV).
+
 {{< youtube id=0da3Lud8aqo loading=lazy >}}
 
 
@@ -79,11 +88,14 @@ Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cu
 ### Sol Carlos
 
 * **Tengo T.O.C.** [Sol Carlos](https://www.youtube.com/@solcarlosofficial)
+
 {{< youtube id=KcBwnWlxSRw loading=lazy >}}
 
 
 ### José Costas
+
 * **Gran testimonio TOC recuperado. TOC Granada Asociación.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
+
 {{< youtube id=xjo4XIScjE0 loading=lazy >}}
 
 
@@ -119,28 +131,33 @@ José Juan cuenta su caso de TOC religioso.
 ### Luli Liff
 
 * **TENGO T.O.C (Trastorno Obsesivo Compulsivo)** [Luli Liff](https://www.youtube.com/@lulilifschitz)
+
 {{< youtube id=R9C1fPNiA6Q loading=lazy >}}
 
 
 * **TENGO T.O.C. (UN AÑO DESPUÉS DE ENTERARME)** [Luli Liff](https://www.youtube.com/@lulilifschitz)
+
 {{< youtube id=Nmh7M8A-dGU loading=lazy >}}
 
 
 ### Kiko Martín
 
 * **Kiko Martín ([UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA)) cuenta su caso** en una Reunión Nacional de [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) 
+
 {{< youtube id=eibbg41sCkE loading=lazy >}}
 
 
 ### Naia y Mariela
 
 * **Naia, testimonio afectada TOC CONTAMINACIÓN y su madre Mariela.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) 
+
 {{< youtube id= yNWdY9qElto loading=lazy >}}
 
 
 ### José Ángel Rico
 
 * **Así es vivir con TOC: explicado en primera persona.** [Judith Tiral](https://www.youtube.com/@judithtiral5713)
+
 {{< youtube id=mQox-dAoEaI loading=lazy >}}
 
 
@@ -157,9 +174,11 @@ Ayme Román es una filósofa, activista y divulgadora sobre filosofía contempor
 
 Locutor de radio colombiano y autor del *podcast* [Diga Bueno]({{% relref "/recursos/podcasts/#diga-bueno" %}}) y del [libro del mismo título]({{% relref "/recursos/#book-diga-bueno-mi-vida-con-toc" %}}).
 * **Así le ha dado la pelea Carlos Sarria al Trastorno Obsesivo Compulsivo por décadas.** [Los Informantes](https://www.youtube.com/@losinformantesoficial)
+
 {{< youtube id=-IR83WcggXU loading=lazy >}}
 
 * **Me golpeaba la cabeza para que esos pensamientos salieran": Carlos Sarria revela su lucha con TOC.** [Realidades](https://www.youtube.com/@Realidadescanal)
+
 {{< youtube id=jb-hGnX9mxc loading=lazy >}}
 
 
@@ -190,6 +209,7 @@ Se trata de dos hermanas gemelas univitelinas, demostrando la parte genética de
 * **Aurelio López Reina. La muerte de un hijo, TOC y felicidad.**  [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
 
 El fundador de la Fundación [TOC Granada](https://tocgranada.com) cuenta su historia desde el TOC de su hijo, hasta construir un centro de referencia a nivel mundial para el tratamiento del TOC.
+
 {{< youtube id=kaa7sCrCsM8 loading=lazy >}}
 
 ### Carmen Jiménez
@@ -197,6 +217,7 @@ El fundador de la Fundación [TOC Granada](https://tocgranada.com) cuenta su his
 * **Cuando el TOC entra en la familia.** [TOC Catalunya](https://www.youtube.com/@AssociacioTOCCATALUNYA)
 
 Carmen es experta en *mindfulness*, gestión emocional, psicología positiva y madre de un adolescente con TOC. Cuenta cómo afectó a su familia el trastorno y los problemas a los que tuvieron que enfrentarse.
+
 {{< youtube id=kv7yMsDh9ZY loading=lazy >}}
 
 
@@ -205,6 +226,7 @@ Carmen es experta en *mindfulness*, gestión emocional, psicología positiva y m
 * **Ascensión Pérez García, presidenta de [TOC Murcia](https://tocmurcia.es/)** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 Ascensión, madre de una hija con TOC, cuenta su caso y cómo creó la Asociación TOC Murcia.
+
 {{< youtube id=9z-W6pyZS6Y loading=lazy >}}
 
 
@@ -213,6 +235,7 @@ Ascensión, madre de una hija con TOC, cuenta su caso y cómo creó la Asociaci�
 * **Eleonora Puentes, nutricionista de TOC Granada y madre de un hijo con TOC** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 Eleonora cuenta su viaje desde Argentina hasta TOC Granada para tratar a su hijo adolescente.
+
 {{< youtube id=Hcx_pGrIqTY loading=lazy >}}
 
 

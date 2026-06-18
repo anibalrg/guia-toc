@@ -2,21 +2,30 @@
 date: 2026-06-17
 title: Arte
 weight: 2
-toc: false
+toc: true
 type: docs
 ---
 
 
-### Película «Reparto obsesivo»
+### Reparto obsesivo
 
 **«*Reparto Obsesivo*»** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 Muestra los problemas que le causa un TOC de comprobación a una persona. Está basada en un caso real, con el guión de [Aurelio López]({{% relref "/personas/#aurelio-lópez-reina" %}}), presidente de [TOC Granada](https://tocgranada.com), y protagonizada, en su mayor parte, por afectados de esta asociación.
 
-{{< youtube id=gUR01CHUNDE loading=lazy >}}
+{{< youtube id=gUR01CHUNDE >}}
 
 
-### Poema y corto «This Old Ghost» («*Este viejo fantasma*»)
+### T.O.C.
+
+**«*T.O.C.*»** [Héctor Prieto Valencia](https://www.youtube.com/@desesperadoorson)
+
+Dirigido y escrito por Héctor Prieto y protagonizado por Mehn-wai Trinh. Ana sufre de TOC. Junto a otros síntomas, Ana se siente obligada a verificar si la estufa de su comedor ha quedado apagada o no, lo que la lleva a entrar en un infinito bucle de comprobación el cual le impide salir de casa a pesar de querer marchar cuanto antes: su padre está siendo operado de gravedad en un hospital.
+
+{{< youtube id=U_1kBbIbxsY loading=lazy >}}
+
+
+### This Old Ghost («*Este viejo fantasma*»)
 
 **«*Este Viejo Fantasma*».** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD)
 
@@ -65,7 +74,7 @@ Este es el vídeo original «*This Old Ghost*» narrado por el autor del poema, 
 {{< youtube id=pqc3p7a2SG8Cff1k loading=lazy >}}
 
 
-### Poema «OCD» («*TOC*»)
+### OCD (TOC)
 
 **«*OCD*», de Neil Hilborn.** [Button Poetry](https://www.youtube.com/@ButtonPoetry).
 
@@ -184,7 +193,7 @@ I leave the lights on.;;Dejo las luces encendidas.
 {{< /poem >}}
 
 
-### Corto «*Do You Know How To Turn Off The Lights?*» («*¿Sabes cómo apagar las luces?*») [EN]
+### Do You Know How To Turn Off The Lights? (¿Sabes cómo apagar las luces?)
 
 **«*Do You Know How To Turn Off The Lights?*.** [PLEASE EXCUSE MY OCD](https://www.youtube.com/channel/UC-ceAiI7WoT_K1YgsMJhcmw)
 
@@ -193,7 +202,7 @@ I leave the lights on.;;Dejo las luces encendidas.
 {{< youtube id=NeEFs-_Exj0 loading=lazy >}}
 
 
-### «I Have OCD, and This Is How It Works» («*Tengo TOC, y así es cómo funciona*»)
+### I Have OCD, and This Is How It Works (Tengo TOC, y así es cómo funciona)
 
 Dirigido también por Mitch Francis, en este corto su amigo Tyler Falcoa explica su TOC.
 
@@ -204,17 +213,26 @@ Dirigido también por Mitch Francis, en este corto su amigo Tyler Falcoa explica
 {{< youtube id=FlBSy2QdHWA loading=lazy >}}
 
 
-### «Eight» («Ocho»)
+### Eight (Ocho)
 
 Dirigido por Peter Blackburn y protagonizado por Libby Munro. Sarah una mujer con TOC se enfrenta a su rutina diaria para intentar llegar a tiempo al trabajo. Largometraje ganador al Premio del Jurado del festival de cine independiente Snowdance 2015, Essen (Alemania).
 
 {{< youtube id=4zgOu6M1K0I loading=lazy >}}
 
 
-### «*What If?*» («¿Y si?»)
+### What If? (¿Y si?)
 
 **«*What If?*»** [Waview](https://www.youtube.com/@Waview) [FR]
 
 Dirigido por Loïc Viatte. Este corto muestra qué ocurre cuando Eloïse prepara su primera exposición en una galería y el TOC se interpone en sus sueños. 
 
 {{< youtube id=E2nqhfrHP18 loading=lazy >}}
+
+
+### For All I Know (Por lo que sé)
+
+* **«*For All I Know*»** [Healthline](https://www.youtube.com/@HealthlineMedia)
+
+Este corto dirigido y escrito por Sam Sabawi y protagonizado por Rachel Alig nos muestra a una mujer con TOC que se tiene que enfrentar de nuevo a su peor miedo.
+
+{{< youtube id=vwk4UPHKp0 loading=lazy >}}

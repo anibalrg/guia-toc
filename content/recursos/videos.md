@@ -2,33 +2,65 @@
 date: 2026-04-30T16:37:55+02:00
 title: Vídeos
 weight: 2
-toc: false
+toc: true
 type: docs
 ---
 
 ## Programas y documentales dedicados al TOC
-* **Eso no se pregunta: TOC** [Telemadrid](https://www.youtube.com/@telemadrid)
+
+### Eso no se pregunta: TOC
+
+**Eso no se pregunta: TOC** [Telemadrid](https://www.youtube.com/@telemadrid)
 
 Un grupo de afectados y familiares de afectados por TOC responden a preguntas como: ¿Qué es el TOC? ¿Te asustan tus pensamientos? ¿Cuándo te diste cuenta de que algo no iba bien? ¿Cómo te afecta el TOC en tu día a día? ¿Te gustan las sorpresas? ¿El TOC se cura?
 {{< youtube id=gvpcx7H1xCc loading=eager start=18 >}}
 
-* **Objetivo Sur | Programa 9 Tengo TOC** [canalsur](https://www.youtube.com/@canalsur)
+
+### Objetivo Sur: Tengo TOC
+
+**Objetivo Sur | Tengo TOC** [canalsur](https://www.youtube.com/@canalsur)
 
 Un grupo de personas afectadas por TOC hablan de su problema y cómo intentan superarlo haciendo terapia en [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion). Podemos ver a: Aurelio López ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Noelia Hernánez ([TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)), Yann Lana ([TOC Zaragoza](https://toczaragoza.com/)) y Ascensión Pérez ([TOC Murcia](https://tocmurcia.es)).
 
 {{< yt-thumb by6s8r9sC0U >}}
 
-* **4000 manías. Convertir el TOC en beats.** [PlayGround](https://www.youtube.com/@PlayGroundVideo)
+
+### 4000 manías. Convertir el TOC en *beats*.
+
+**4000 manías. Convertir el TOC en beats.** [PlayGround](https://www.youtube.com/@PlayGroundVideo)
 
 Mini documental sobre Jaume Aymar (Mind Sylenth) y su vida con TOC.
 
 {{< yt-thumb CMr5SMwB8VU >}}
 
-* **TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
+
+### TOC: Tocados
+
+**TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
 
 Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
 
 {{< yt-thumb 5IUUk5_1Exg >}}
+
+
+### *Touch Wood*
+
+**«*Touch Wood*» («*Obsesivos Compulsivos*»).**** [La Cueva Boreal](https://www.youtube.com/@lacuevaboreal) [EN VOS]
+
+Documental del canal Odisea sobre el TOC. Cosmo, un afectado de TOC desde niño, entrevista a otros afectados para ver cómo el TOC influye en sus vidas.
+
+{{< youtube id=UqpzQ1NQsm4 loading=lazy >}}
+
+
+### Reportajes 24: TOC, presos por la obsesión y la duda
+
+**Reportajes 24: TOC, presos por la obsesión y la duda** [24 Horas -TVN Chile](https://www.youtube.com/@24Horas_TVNChile)
+
+Program de una cadena de televisión chilena sobre personas que sufren de TOC. 
+
+{{< youtube id=PWPb7KXEjXs loading=lazy >}}
+
+
 
 ## Canales 
 
