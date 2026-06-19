@@ -133,10 +133,15 @@ You’ll find:
 Whether you’re parenting a child with OCD, social anxiety, phobias, generalized anxiety, or body-focused repetitive behaviors (BFRBs) this channel is your go-to resource!»
 
 
-### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
+### Rafael Santandreu
 
-El canal oficial del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratadas en sus clínicas.
+El canal oficial del psicólogo [Rafael Santandreu](https://www.rafaelsantandreu.es/) tiene cientos de testimonios de personas con TOC, casi todas tratadas en sus clínicas.
 
-* [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
+[**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
 
+### Abriendo la Mente
+
+Podcast dedicado a la psicología. Ideado por un paciente.
+
+[**Abriendo la Mente: TOC**](https://www.youtube.com/@abriendolamente/search?query=toc)
