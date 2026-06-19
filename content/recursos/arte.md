@@ -9,25 +9,25 @@ type: docs
 
 ### Reparto obsesivo
 
-**«*Reparto Obsesivo*»** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
+**«*Reparto Obsesivo*»** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) (2018)
 
-Muestra los problemas que le causa un TOC de comprobación a una persona. Está basada en un caso real, con el guión de [Aurelio López]({{% relref "/personas/#aurelio-lópez-reina" %}}), presidente de [TOC Granada](https://tocgranada.com), y protagonizada, en su mayor parte, por afectados de esta asociación.
+Muestra los problemas que le causa un TOC de comprobación a una persona. Dirigida por Rodrigo Martín Montoya, y protagonizada por Andrés Parra García. Está basada en un caso real, con el guión de [Aurelio López]({{% relref "/personas/#aurelio-lópez-reina" %}}), presidente de [TOC Granada](https://tocgranada.com), y protagonizada, salvo el protagonista, por afectados de esta asociación.
 
 {{< youtube id=gUR01CHUNDE >}}
 
 
 ### T.O.C.
 
-**«*T.O.C.*»** [Héctor Prieto Valencia](https://www.youtube.com/@desesperadoorson)
+**«*T.O.C.*»** [Héctor Prieto Valencia](https://www.youtube.com/@desesperadoorson) (2014)
 
-Dirigido y escrito por Héctor Prieto y protagonizado por Mehn-wai Trinh. Ana sufre de TOC. Junto a otros síntomas, Ana se siente obligada a verificar si la estufa de su comedor ha quedado apagada o no, lo que la lleva a entrar en un infinito bucle de comprobación el cual le impide salir de casa a pesar de querer marchar cuanto antes: su padre está siendo operado de gravedad en un hospital.
+Dirigido y escrito por [Héctor Prieto](https://www.imdb.com/name/nm7915164/) y protagonizado por [Mehn-wai Trinh](https://www.imdb.com/name/nm1270418/). Ana sufre de TOC. Junto a otros síntomas, Ana se siente obligada a verificar si la estufa de su comedor ha quedado apagada o no, lo que la lleva a entrar en un infinito bucle de comprobación el cual le impide salir de casa a pesar de querer marchar cuanto antes: su padre está siendo operado de gravedad en un hospital.
 
 {{< youtube id=U_1kBbIbxsY loading=lazy >}}
 
 
 ### This Old Ghost («*Este viejo fantasma*»)
 
-**«*Este Viejo Fantasma*».** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD)
+**«*Este Viejo Fantasma*».** [The Secret Illness](https://www.youtube.com/@TheSecretIllnessOCD) (2016)
 
 Este corto de animación está basado en el poema «*The Old Ghost*» de James Lloyd, escritor y periodísta científico británico afectado por TOC. La animación está realizada por la cineasta británica [Liz Smith](https://liz-smith.com/). La adaptación al español del poema es de [Romina (Ro) Vitale]({{% relref "/ayuda/testimonios/#romina-vitale" %}}), cantante argentina y escritora afectada de TOC. 
 
@@ -70,8 +70,8 @@ all swimming through the same cold sea,;;todas nadando en el mismo mar frío,
 and they’ve all got old ghosts like me.;;y todas tienen fantasmas viejos, como el mío.
 {{< /poem >}}
 
-Este es el vídeo original «*This Old Ghost*» narrado por el autor del poema, James LLoyd: 
-{{< youtube id=pqc3p7a2SG8Cff1k loading=lazy >}}
+Este es el vídeo original «*This Old Ghost*» narrado por el autor, James LLoyd: 
+{{< youtube id=pqc3p7a2SG8Cff1k loading=lazy >}} 
 
 
 ### OCD (TOC)
@@ -204,10 +204,9 @@ I leave the lights on.;;Dejo las luces encendidas.
 
 ### I Have OCD, and This Is How It Works (Tengo TOC, y así es cómo funciona)
 
-Dirigido también por Mitch Francis, en este corto su amigo Tyler Falcoa explica su TOC.
-
 **«*I Have OCD, and This Is How It Works*»** [Mitch Francis](https://www.youtube.com/@MitchFrancis) [EN]
-«*This is a film about my friend Tyler Falcoa, who has O.C.D. I made this for me to learn and  understand O.C.D. and want to share with others the truth about O.C.D.*» 
+
+Dirigido por Mitch Francis y protagonizado por Tyler Falcoa. «*This is a film about my friend Tyler Falcoa, who has O.C.D. I made this for me to learn and  understand O.C.D. and want to share with others the truth about O.C.D.*» 
 «Esta película es sobre mi amigo Tyler Falcoa, que tiene TOC. La hice para aprender y entender sobre el TOC y quiero compartir con otros la verdad sobre el TOC.»
 
 {{< youtube id=FlBSy2QdHWA loading=lazy >}}
@@ -215,24 +214,39 @@ Dirigido también por Mitch Francis, en este corto su amigo Tyler Falcoa explica
 
 ### Eight (Ocho)
 
-Dirigido por Peter Blackburn y protagonizado por Libby Munro. Sarah una mujer con TOC se enfrenta a su rutina diaria para intentar llegar a tiempo al trabajo. Largometraje ganador al Premio del Jurado del festival de cine independiente Snowdance 2015, Essen (Alemania).
+**«Eight»** [Bigtime Free Movies](https://www.youtube.com/@BigtimeFreeMovies) (2016) [EN]
+
+Dirigida y escrita por [Peter Blackburn](https://www.imdb.com/name/nm1794573/) y protagonizada por [Libby Munro](https://www.imdb.com/name/nm3728151/).
+Sarah una mujer con TOC se enfrenta a su rutina diaria para intentar llegar a tiempo al trabajo. Ganadora al Premio del Jurado del festival de cine independiente Snowdance 2015, Essen (Alemania).
 
 {{< youtube id=4zgOu6M1K0I loading=lazy >}}
 
 
 ### What If? (¿Y si?)
 
-**«*What If?*»** [Waview](https://www.youtube.com/@Waview) [FR]
+**[«*What If?*»](https://www.imdb.com/title/tt17003162/)** [Waview](https://www.youtube.com/@Waview) (2022) [FR]
 
-Dirigido por Loïc Viatte. Este corto muestra qué ocurre cuando Eloïse prepara su primera exposición en una galería y el TOC se interpone en sus sueños. 
+Corto dirigido por [Loïc Viatte](https://www.imdb.com/name/nm10658026/) y protagonizado por [Donatienne Amann](https://www.imdb.com/name/nm10053252/).
+Muestra qué ocurre cuando Eloïse prepara su primera exposición en una galería y el TOC se interpone en sus sueños.
 
 {{< youtube id=E2nqhfrHP18 loading=lazy >}}
 
 
 ### For All I Know (Por lo que sé)
 
-* **«*For All I Know*»** [Healthline](https://www.youtube.com/@HealthlineMedia)
+**«*For All I Know*»** [Healthline](https://www.youtube.com/@HealthlineMedia) y [NOCD](https://www.treatmyocd.com/) (2025)
 
-Este corto dirigido y escrito por Sam Sabawi y protagonizado por Rachel Alig nos muestra a una mujer con TOC que se tiene que enfrentar de nuevo a su peor miedo.
+Este corto dirigido y escrito por [Sam Sabawi](https://www.imdb.com/name/nm2243032/) y protagonizado por [Rachel Alig](https://www.imdb.com/name/nm4131336/) nos muestra a una mujer con TOC que se tiene que enfrentar de nuevo a su peor miedo.
 
 {{< youtube id=vwk4UPHKp0 loading=lazy >}}
+
+
+### Waving
+
+**«Waving»** [Tank Top Films](https://www.youtube.com/@TankTopFilms) (2022) [EN]
+
+Corto escrito y dirigido por [Rolphyn Nihus](https://www.imdb.com/name/nm10727930/) y [Stephen Brumwell](https://www.imdb.com/name/nm9380041/). Protagonizado por [Ralph Ineson](https://www.imdb.com/name/nm0408591/), [Krissi Bohn](https://www.imdb.com/name/nm4119128/) y [Sophie Bould](https://www.imdb.com/name/nm1885631/). 
+
+Para mucha gente, ser el centro de su propio mundo y tener una familia que le quiere es una maravilla. Para Charlie, es literalmente una pesadilla.
+
+{{< youtube id=XZeQoE0dT1E loading=lazy >}}
