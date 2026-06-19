@@ -99,6 +99,13 @@ Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cu
 {{< youtube id=xjo4XIScjE0 loading=lazy >}}
 
 
+### Antonio Fermoso
+
+* **ENFERMEDADES Y PACIENTES | Así es vivir con TOC, la enfermedad de la duda.** [EL PAÍS](https://www.youtube.com/@elpais)
+
+{{< youtube id=Vlx2USJLJZk loading=lazy >}}
+
+
 ### Zuhaitz Gurrutxaga
 Después de ganar la Eurocopa sub-16 y lograr el tercer puesto en el Mundial sub-17 —junta a Iker Casillas y Xavi Hernández— Zuhaitz cumplió su sueño de niño: jugar en la Real Sociedad de San Sebastián en Primera División. Pronto empezó a sentir un miedo atroz a fallar ante decenas de miles de aficionados. Actualmente ejerce como presentador de televisión en ETB y también como humorista. En su monólogo *FutbolisTOC* cuenta su historia en clave de humor. También es coautor del libro [*Subcampeón*](https://www.goodreads.com/book/show/201013525-subcampe-n
 ) junto a Ander Izaguirre.
