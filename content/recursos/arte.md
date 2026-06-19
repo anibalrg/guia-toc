@@ -70,8 +70,8 @@ all swimming through the same cold sea,;;todas nadando en el mismo mar frío,
 and they’ve all got old ghosts like me.;;y todas tienen fantasmas viejos, como el mío.
 {{< /poem >}}
 
-Este es el vídeo original «*This Old Ghost*» narrado por el autor, James LLoyd: 
-{{< youtube id=pqc3p7a2SG8Cff1k loading=lazy >}} 
+Este es el vídeo original «*This Old Ghost*» narrado por el autor, James Lloyd: 
+{{< youtube id=63peSIK2ZHs loading=lazy >}} 
 
 
 ### OCD (TOC)
@@ -84,10 +84,10 @@ Otros libros de poemas de [Neil Hilborn](https://buttonpoetry.com/product-tag/ne
 
 Versión original narrada por Neil Hilborn: 
 
-{{< youtube id=hBXtEg1ql1JMn1-J loading=lazy >}}
+{{< youtube id=vnKZ4pdSU-s loading=lazy >}}
 
-Cortometraje «*TOC*», dirigido por David Ian Lima Martínez. Adaptación en español del poema de Neil en colaboración con [calavera films](https://www.youtube.com/@calaverafilms9304).
-{{< youtube id=OV9rKt0JU_dASHsl loading=lazy >}}
+Cortometraje «*TOC*», dirigido por David Ian Lima Martínez. Adaptación al español del poema de Neil en colaboración con [calavera films](https://www.youtube.com/@calaverafilms9304).
+{{< youtube id=DFsH_1qc41E loading=lazy >}}
 
 {{< poem title1="OCD" title2="TOC" author="Neil Hilborn" >}}
 The first time I saw her,;;La primera vez que la vi,
@@ -238,7 +238,7 @@ Muestra qué ocurre cuando Eloïse prepara su primera exposición en una galerí
 
 Este corto dirigido y escrito por [Sam Sabawi](https://www.imdb.com/name/nm2243032/) y protagonizado por [Rachel Alig](https://www.imdb.com/name/nm4131336/) nos muestra a una mujer con TOC que se tiene que enfrentar de nuevo a su peor miedo.
 
-{{< youtube id=vwk4UPHKp0 loading=lazy >}}
+{{< youtube id=-vwk4UPHKp0 >}}
 
 
 ### Waving
@@ -249,4 +249,4 @@ Corto escrito y dirigido por [Rolphyn Nihus](https://www.imdb.com/name/nm1072793
 
 Para mucha gente, ser el centro de su propio mundo y tener una familia que le quiere es una maravilla. Para Charlie, es literalmente una pesadilla.
 
-{{< youtube id=XZeQoE0dT1E loading=lazy >}}
+{{< yt-thumb id=XZeQoE0dT1E >}}
