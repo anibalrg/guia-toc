@@ -135,7 +135,7 @@ Whether you’re parenting a child with OCD, social anxiety, phobias, generalize
 
 ### [Rafael Santandreu](https://www.rafaelsantandreu.es/)
 
-El canal oficial del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratados en sus clínicas.
+El canal oficial del psicólogo Rafael Santandreu tiene cientos de testimonios de personas con TOC, casi todas tratadas en sus clínicas.
 
 * [**Rafael Santandreu Oficial: TOC**](https://www.youtube.com/@SantandreuRafael/search?query=toc)
 
