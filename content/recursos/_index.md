@@ -105,6 +105,11 @@ type: docs
         link="https://alejandroibarra.es/blog/"
     >}}
 
+    {{< card
+        title="OCD-UK (TOC-Reino Unido)"
+        subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
+        link="https://www.ocduk.org/"
+    >}}
 
 
 {{< /cards >}}
@@ -163,6 +168,13 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
         subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
         link="https://www.ocduk.org/"
     >}}
+    
+    {{< card
+        title="Taming Olivia (Domando a Olivia)"
+        subtitle="Olivia es el nombre del TOC de uno de los autores de este sitio dedicado a ayudar a las personas con TOC y a los que convivimos con ellos. [EN]"
+    >}}
+
+
 
 {{< /cards>}}
 
