@@ -91,3 +91,11 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 {{< /cards >}}
 
 ----------------------------------------------------------------------------------
+
+### **Abriendo la Mente**
+
+«*Podcast* dedicado a la psicología. Ideado por un paciente.»
+
+{{< cards cols="4" >}}
+  {{< card link="https://www.ivoox.com/en/podcast-abriendo-mente_sq_f11693849_1.html" title="iVoox" icon="microphone" >}}
+{{< /cards >}}
