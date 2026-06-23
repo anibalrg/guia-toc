@@ -17,7 +17,7 @@ toc: true
 * Divulgador y ponente sobre salud mental y TOC. Destacan sus charlas: *Rompiendo el estigma del TOC* en TEDxMadrid y su intervención en la Sala Constitucional del Congreso de los Diputados de España por el Día Mundial de la Salud Mental en 2018.
 
 
-### Dra. María del Pino Alonso
+### María del Pino Alonso
 Es una de las principales psiquiatras e investigadoras especializadas en TOC. Especialista en el estudio de los factores neurobiológicos (mediante el uso de neuroimagen) y genéticos que permiten el pronóstico a largo plazo, y los tratamientos de las formas especialmente graves de este trastorno.
 
 * Jefa del Servicio de Psiquiatría y responsable de la Unidad de TOC del [Hospital de Bellvitge](https://bellvitgehospital.cat/es), uno de los hospitales de referencia en España en el tratamiento del TOC.
@@ -92,10 +92,10 @@ Durante los años 80, Goodman fue uno de los investigadores principales del prim
 
 Creador de la terapia de aceptación y compromiso, que ha influido en el actual tratamiendo del TOC.
 
-### John Hershfield
+<!-- ### John Hershfield -->
 
 
-### Mardi Horowitz
+<!-- ### Mardi Horowitz -->
 
 
 ### Rosa Iglesias Rosique
@@ -113,7 +113,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 * Director y guionista del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
 
 
-### Dra. María Luisa Lázaro García
+### María Luisa Lázaro García
 
 Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital Clínic de Barcelona](https://www.clinicbarcelona.org/). Catedrática de Psiquiatría de la Universidad de Barcelona. Su investigación se ha centrado en el estudio de las causas, los biomarcadoeres y los factores que permiten pronosticar el TOC, así como de la eficacia, eficiencia y seguridad de los fármacos y las terapias psicológicas en niños y adolescentes.
 
@@ -156,14 +156,14 @@ Investigador y profesor asociado especializado en neuroimagen, neuropsicoloǵía
 * Investigador asociada del Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM) del Ministerio de Economía y Competividad.
 
 
-### David Veale
+<!-- ### David Veale -->
 
 
 ### [Claire Weekes](https://en.wikipedia.org/wiki/Claire_Weekes) [EN]
 
 Una de las grandes pioneras del estudio de los trastornos de ansiedad —ella misma los sufría—. Su forma de tratar la ansiedad se basaba en tres pasos: aceptarla, evitar resistirse y reducir el miedo a los síntomas. Se anticipó a manera en que se trata el TOC con la terapia cognitivo-conductual y la exposición con prevención de respuesta.
 
-### Sally Winston
+<!-- ### Sally Winston -->
 
 
 
