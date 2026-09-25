@@ -250,7 +250,7 @@ Ascensión, madre de una hija con TOC, cuenta su caso y cómo creó la Asociaci�
 {{< youtube id=9z-W6pyZS6Y loading=lazy >}}
 
 
-### Eleonara Puentes
+### Eleonora Puentes
 
 **Eleonora Puentes, nutricionista de TOC Granada y madre de un hijo con TOC** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 

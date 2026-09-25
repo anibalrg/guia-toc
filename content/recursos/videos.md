@@ -38,7 +38,7 @@ Mini documental sobre Jaume Aymar (Mind Sylenth) y su vida con TOC.
 
 **TOC: Tocados (Objetivo).** [Objetivo Aragon TV](https://www.youtube.com/@objetivoaragontv)
 
-Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
+Programa sobre ([TOC Zaragoza](https://toczaragoza.com/)) en el que intervienen, entre otros, Yann Lana y Nieves Álvarez ([TOC Madrid](https://asociaciontocmadrid.es/)).
 
 {{< yt-thumb 5IUUk5_1Exg >}}
 
