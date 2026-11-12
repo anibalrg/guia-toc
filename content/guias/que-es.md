@@ -109,43 +109,29 @@ Algunos investigadores creen que, en casos poco frecuentes, ciertas infecciones 
 
 ### Rasgos de personalidad
 
-Las personas con TOC suelen compartir algunos rasgos de personalidad comunes, que puden facilitar el desarrolo del TOC y que el propio trastorno puede reforzar. Además, algunas de ellas están bastante interrelacionadas. Por ejemplo:
+Algunas personas con TOC tienden a compartir rasgos de personalidad. Ninguno de ellos son exclusivos del TOC, ni sirven para diagnosticar el trastorno, pero pueden ser vistos como factores de vulnerabilidad:
 
-* inteligencia por encima de la media
-* intolerancia a la incertidumbre
-* hipersensibilidad
-* gran sentido de la responsabilidad
-* baja tolerancia a la frustación
-* perfeccionismo
-* rigidez de ideas
-* sobrestimación de las amenazas
-* introversión
-* tendencia a interiorizar
-* necesidad de control
-* resistencia al cambio
-* pensamiento dicotómico (todo blanco o todo negro)
- 
+* **intolerancia a la incertidumbre**;
+* **mayor sensibilidad** emocional, a la culpa, al error, a las amenazas;
+* **hiperresponsabilidad** o responsabilidad inflada[^inflada], tratando de prevenir cualquier daño;
+* **perfeccionismo**;
+* **sobrestimación de las amenazas**, tanto la probabilidad de un daño, como la gravedad de sus consecuencias;
+* **necesidad de control** de sus pensamientos, emociones o la incertidumbre;
+* **pensamiento dicotómico[^dicotomía]**, blanco o negro, todo o nada, siempre o nunca…;
+* **fusión pensamiento-acción**, tendencia a creer que algunos pensamientos pueden hacerse realidad;
+* tendencia a interiorizar;
+* baja tolerancia a la frustación;
+* rigidez de ideas;
+* resistencia al cambio.
 
+[^inflada]: La responsabilidad inflada consiste en pensar que se tiene mucho más control del mundo del que realmente se tiene.
+[^dicotomía]: Forma de pensar en la que solo se contemplan dos posibilidades opuestas y excluyentes entre sí.
 
-Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones suele conllevar gran inseguridad y baja autoestima. 
+Una vez que el TOC se ha desarrollado, el malestar causado por las obsesiones y las compulsiones suele conllevar:
 
-
-### Gravedad del TOC
-
-Los psicólogos y psiquiatras valoran la severidad o gravedad del TOC antes de comenzar la terapia y el tratamiento. Para ello se tienen en cuenta: la cantidad de obsesiones, la intensidad del malestar, el nivel de ansiedad, las horas diarias que la persona dedica a las distintas compulsiones, etc. Se utilizan herramientas en forma de encuesta como la conocida por la escala Y-BOCS (*Yale-Brown Obssesive-Compulsive Scale*) y su versión para menores CY-BOCS. Ambas evalúan las compulsiones y las obsesiones y las puntúan, valorando la severidad en muy leve, leve, moderado o severo.
-
-
-### Prevalencia
-
-Las cifras varían con los estudios. Por ejemplo, un reciente estudio llevado a cabo en 10 países sobre una población de más de 50.000 personas arrojó las siguientes cifras: la prevalencia de por vida se estimó en el 4,1%, es decir, 4 de cada 100 personas encuestadas habían sufrido TOC en algún momento de su vida y 3 de cada 100 lo habían tenido durante el último año.
-
-Otros 
- llegando al 3.5% en Asia. Por tanto en España hay alrededor de un millón de personas afectadas. 
-
-
-### Comorbilidad
-
-Aunque el TOC no es un trastorno de la personalidad, suele tener una alta comorbilidad con el trastorno de personalidad obsesivo-compulsivo (TPOC), que también se caracteriza por rigidez de ideas, perfeccionismo extremo, etc. 
+* gran inseguridad,
+* baja autoestima,
+* 
 
 
 
