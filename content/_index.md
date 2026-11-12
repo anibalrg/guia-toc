@@ -75,7 +75,7 @@ Como familiares de una persona con TOC, reunimos aquí la información que nos h
 {{< hextra/feature-grid cols="2" >}}
     {{< hextra/feature-card link="guias/que-es" title="¿Qué es el TOC?" icon="question-mark-circle" subtitle="Profundizar más en el conocimiento del TOC.">}}
 
-    {{< hextra/feature-card link="guias/que-hacer" title="¿Qué debemos hacer?" icon="question-mark-circle" >}}
+    {{< hextra/feature-card link="guias/que-hacer" title="¿Qué podemos hacer?" icon="question-mark-circle" >}}
     
     {{< hextra/feature-card link="guias/que-no-hacer" title="¿Qué no debemos hacer?" icon="warning" >}}
 
