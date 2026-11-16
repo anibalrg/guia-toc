@@ -5,6 +5,8 @@ weight:
 toc: true
 ---
 
+Lista de persona a las que nos hemos referido en algún momento por ser relevantes para el tratamiento, investigación o divulgación sobre el TOC. 
+
 
 ### [Jonathan Abramowitz](https://jonabram.web.unc.edu/)
 
