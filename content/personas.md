@@ -78,6 +78,12 @@ Desgraciadamente, no se conoce cómo siguió la vida de Mademoiselle F., pero su
 Como podemos observar, en el caso de Mademoiselle F. se dan muchos de los elementos característicos del TOC: miedo y duda que producen malestar, necesidad de certeza, evitaciones, compulsiones…
 
 
+### Noelia Hernández Yeste
+
+* Psicóloga clínica especialista en TOC. Directora y coordinadora del equípo técnico de la Asociación TOC Granada. 
+* Autora del libro [Detección del TOC en niños]({{% relref "/recursos/#book-detección-del-toc-en-niños" %}}) y coatura de [Qué debo hacer ante los pensamientos obsesivos por mi TOC](https://www.tocgranada.com/producto/que-debo-hacer-ante-los-pensamientos-obsesivos-por-mi-toc/).
+
+
 ### Wayne K. Goodman.
 
 Psiquiatra estadounidense reconocido internacionalmente por ser uno de los pioneros en la investigación del TOC. También fue uno de los creadores de la escala *Yale-Brown Obsessive Compulsive Scale (Y-BOCS)* —una de las herramientas para evaluar la severidad del trastorno— y  ha liderado el desarrollo de terapias farmacológicas y el uso de neuromodulación para el TOC resistente.
