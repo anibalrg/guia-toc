@@ -144,5 +144,12 @@ El TOC es conocido desde antiguo como **la enfermedad de la duda**. La persona c
 
 Todas las personas con TOC sufren mucho con sus obsesiones —tanto como si los pensamientos fueran absolutamente reales— pero en algunos casos, además, estos pensamientos incluyen el dañar a otro. En estos casos puede que la persona identifique la temática de sus obsesiones con su propia identidad, viendose así mismo, por ejemplo, como un asesino en potencia. Imaginemos el sufrimiento que esto puede causar sabiendo, además, que esos pensamientos en absoluto reflejan sus deseos osus intenciones. De hecho su sufrimiento será proporcional a lo importante que sea para esa persona el cuidado y el respeto hacia los demás.
 
+### El TOC desde el punto de vista neurológico y biológico
+
+* El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica el TOC desde el punto de vista neurológico y biológico en esta charla de la Fundación TOC Granada:
+
+  {{< youtube id=M5U1l-ElhX0 loading=lazy >}}
+  
+
 
 
