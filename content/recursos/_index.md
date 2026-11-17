@@ -89,7 +89,7 @@ type: docs
     
     {{< card
         title="Gabinete de Psicología Nieves Álvarez (Madrid)"
-        subtitle="Blog de esta gabinete especializado en TOC."
+        subtitle="Blog de este gabinete especializado en TOC."
         link="https://nievesalvarez.es/blog/"
     >}}
     
@@ -179,6 +179,7 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
     {{< card
         title="Taming Olivia (Domando a Olivia)"
         subtitle="Olivia es el nombre del TOC de uno de los autores de este sitio dedicado a ayudar a las personas con TOC y a los que convivimos con ellos. [EN]"
+        link="https://www.tamingolivia.com/"
     >}}
 
 

@@ -13,7 +13,7 @@ weight: 1
     
     {{< hextra/feature-card link="que-no-hacer" title="¿Qué no debemos hacer?" icon="warning" >}}
     
-    {{< hextra/feature-card link="faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
+    {{< hextra/feature-card link="ayuda/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
     
 {{< /hextra/feature-grid >}}
 
