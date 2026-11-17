@@ -106,7 +106,7 @@ El TOC puede llegar a tener mucho impacto en nuestras vidas e influir en muchos 
 
 ## Criticar, juzgar, enfadarnos
 
-Debemos evitar juzgar, criticar y hacer sentir culpa o vergüenza a nuestros seres queridos por sus comportamientos relacionados con el trastorno, ya que de ninguna manera son responsables de padecer TOC. Así que cuando no nos encontramos en disposición de ayudar por frustración o cualquier otra razón, lo mejor es apartarnos. De lo contrario, la persona podría ocultar sus obsesiones y compulsiones y estaríamos empeorando la situación. Conviene que recordemos, que además del sufrimiento que padecen, su autoestima sueles estar bastante baja y este tipo de situación va a empeorar el problema. Además nos arriegamos a que no quiera estar con nosotros.
+Debemos evitar juzgar, criticar y hacer sentir culpa o vergüenza a nuestros seres queridos por sus comportamientos relacionados con el trastorno, ya que de ninguna manera son responsables de padecer TOC. Así que cuando no nos encontramos en disposición de ayudar por frustración o cualquier otra razón, lo mejor es apartarnos. De lo contrario, la persona podría ocultar sus obsesiones y compulsiones y estaríamos empeorando la situación. Conviene que recordemos, que además del sufrimiento que padecen, su autoestima suele estar bastante baja y este tipo de situación va a empeorar el problema. Además nos arriegamos a que no quiera estar con nosotros.
 
 
 ## Culparnos
