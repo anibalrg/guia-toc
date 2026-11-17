@@ -8,7 +8,7 @@ toc: true
 Lista de persona a las que nos hemos referido en algún momento por ser relevantes para el tratamiento, investigación o divulgación sobre el TOC. 
 
 
-### [Jonathan Abramowitz](https://jonabram.web.unc.edu/)
+<!-- ### [Jonathan Abramowitz](https://jonabram.web.unc.edu/) -->
 
 
 ### [Damián Alcolea](https://damianalcolea.es/)
@@ -131,7 +131,7 @@ Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital
 
 ### [Aurelio López Reina](https://tocgranda.com)
 
-Fundador y presidente de la Fundación TOC Granada, el principal centro de tratamiento del TOC en España. 
+Fundador y presidente de la Fundación TOC Granada, el principal centro de tratamiento del TOC en España.
 
 
 
