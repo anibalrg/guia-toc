@@ -5,6 +5,8 @@ weight:
 toc: true
 ---
 
+Lista de persona a las que nos hemos referido en algún momento por ser relevantes para el tratamiento, investigación o divulgación sobre el TOC. 
+
 
 ### [Jonathan Abramowitz](https://jonabram.web.unc.edu/)
 
@@ -17,7 +19,7 @@ toc: true
 * Divulgador y ponente sobre salud mental y TOC. Destacan sus charlas: *Rompiendo el estigma del TOC* en TEDxMadrid y su intervención en la Sala Constitucional del Congreso de los Diputados de España por el Día Mundial de la Salud Mental en 2018.
 
 
-### Dra. María del Pino Alonso
+### María del Pino Alonso
 Es una de las principales psiquiatras e investigadoras especializadas en TOC. Especialista en el estudio de los factores neurobiológicos (mediante el uso de neuroimagen) y genéticos que permiten el pronóstico a largo plazo, y los tratamientos de las formas especialmente graves de este trastorno.
 
 * Jefa del Servicio de Psiquiatría y responsable de la Unidad de TOC del [Hospital de Bellvitge](https://bellvitgehospital.cat/es), uno de los hospitales de referencia en España en el tratamiento del TOC.
@@ -65,13 +67,23 @@ Psicóloga especializada en TOC.
 
 ### Mademoiselle F.
 
-Mademoiselle F. fue la primera persona de la historia que sufrío lo que entonces se denominaba monomanía y ahora conocemos por TOC. J.E.D. Esquirol documentó su caso cuando ella acudió a él para ser tratada, en el año 1834. En ese momento, llevaba unos dieciséis años sufriendo este problema. Su primer recuerdo era de cuando tenía dieciocho años e iba a visitar, como era constumbre, a su tía. Un día decidió acudir sin el delantal porque durante el regreso a su casa, después de la anterior visita, había comenzado a pensar si no le habría robado algo a su tía utilizando el delantal para ocultarlo. La solución lógica, por tanto, fue no volver a usar el delantal.
+Mademoiselle F. fue el primer caso documentado de lo que hoy se llamaría TOC —en ese momento se conocía por monomanía—. El psiquiatra francés J.E.D. Esquirol fue quien lo documentó en su libro «*Des maladies mentales*» (1838). David Adam, en su libro «*The Man Who Couldn't Stop*», la define como la **paciente cero del TOC***.
 
-Era una contable muy honrada y trabajaba mucho, pero empezó a tener miedo de equivocarse y perjudicar a sus clientes, así que cada vez le llevaba más y más tiempo preparar las cuentas y las facturas. También empezó a evitar manejar dinero, por miedo a quedarse con parte o, que por tocarlo, le hiciera perder valor. Sabía que era absurdo y que jamás pasaría nada de eso, pero no podía dejar de pensarlo y cerró su oficina. En ese punto, su entorno ya sabía de sus pensamientos y le hacían ver lo absurdos y ridiculos que eran, pero eso no evitaba que los tuviera. 
+Mademoiselle F se convirtió en su paciente cuatro años antes, cuando llevaba ya dieciséis años sufriendo este problema. Su primer recuerdo era de cuando tenía dieciocho años. Un día, de regreso a su casa tras visitar a su tía, comenzó a dudar si algún objeto de su tía no habría quedado oculto en el delantal de su vestido. Por más que buscaba no encontraba nada, pero la duda persistía. La solución que encontró fue no volver a usar esa prenda. Sin embargo, las dudas siguieron atormentándola. Más adelante, Mademoiselle F. evitaba tocar con su ropa muebles, puertas, armarios, etc.,  cortaba el dobladillo de sus vestidos y se apretaba tanto los cordones de sus zapatos que se le hinchaban las piernas y los pies. Todo para que, por descuido, los objetos de valor no se quedaran entre su ropa ni en el hueco entre sus tobillos y sus zapatos.
 
-Sin trabajo sus obsesiones se hicieron aún mayores. Empezó a cortar el dobladillo de sus vestidos y apretarse tanto los cordones de sus zapatos que sus pies se hinchaban por encima. Todo para evitar tener sitios en los que esconder cosas. Se sujetaba la ropa mientras caminaba, para que no rozara ni muebles ni puertas. Tenía que examinar detenidamente llaves, pomos y manillas de puertas, ventanas y armarios para evitar llevarse algo de valor sin darse cuenta.
+Tenía un pequeño negocio, pero empezó a tener tanto miedo de equivocarse y perjudicar a sus clientes, que cada vez le llevaba más y más tiempo repasar las cuentas y preparar facturas. Evitaba manejar dinero, por miedo a que algún billete o moneda se pudiera quedar entre sus dedos o bajo sus uñas sin darse cuenta. Finalmente, cerró su negocio.
 
-Desgraciadamente, no se conoco cómo siguió la vida de Mademoiselle F., sólo que estuvo dos años en tratamiento. Su caso y otros parecidos tuvieron bastante influencia en los psiquiatras de la época y como consecuencai se replantearon que personas como ellas no debían ser ingresados en los psiquiátricos.
+Lo que más impresionaba a Esquirol era que Mademoiselle F. era consciente de lo absurdo de sus miedos y de que sería incapaz de quedarse con algo que no era suyo, pero, a pesar de ello, no podía dejar de pensarlo y esto le producía mucha angustia y malestar. Esquirol documentó muchos de sus rituales y la evolución a lo largo de los dos años en los que estuvo a su cargo de forma intermitente, ya que la permitía entrar y salir cuando quería. 
+
+Desgraciadamente, no se conoce cómo siguió la vida de Mademoiselle F., pero su caso y otros parecidos influyeron en la forma en que los psiquiatras de la época al comprobar que personas que sufrían obsesiones que les impedían llevar una vida normal, conservaban sus capacidades intelectuales y su juicio intactos. Esto contribuyó a que empezaron a replantearse que personas como ella fuesen ingresadas en psiquiátricos.
+
+Como podemos observar, en el caso de Mademoiselle F. se dan muchos de los elementos característicos del TOC: miedo y duda que producen malestar, necesidad de certeza, evitaciones, compulsiones…
+
+
+### Noelia Hernández Yeste
+
+* Psicóloga clínica especialista en TOC. Directora y coordinadora del equípo técnico de la Asociación TOC Granada. 
+* Autora del libro [Detección del TOC en niños]({{% relref "/recursos/#book-detección-del-toc-en-niños" %}}) y coatura de [Qué debo hacer ante los pensamientos obsesivos por mi TOC](https://www.tocgranada.com/producto/que-debo-hacer-ante-los-pensamientos-obsesivos-por-mi-toc/).
 
 
 ### Wayne K. Goodman.
@@ -88,10 +100,10 @@ Durante los años 80, Goodman fue uno de los investigadores principales del prim
 
 Creador de la terapia de aceptación y compromiso, que ha influido en el actual tratamiendo del TOC.
 
-### John Hershfield
+<!-- ### John Hershfield -->
 
 
-### Mardi Horowitz
+<!-- ### Mardi Horowitz -->
 
 
 ### Rosa Iglesias Rosique
@@ -109,7 +121,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 * Director y guionista del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
 
 
-### Dra. María Luisa Lázaro García
+### María Luisa Lázaro García
 
 Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital Clínic de Barcelona](https://www.clinicbarcelona.org/). Catedrática de Psiquiatría de la Universidad de Barcelona. Su investigación se ha centrado en el estudio de las causas, los biomarcadoeres y los factores que permiten pronosticar el TOC, así como de la eficacia, eficiencia y seguridad de los fármacos y las terapias psicológicas en niños y adolescentes.
 
@@ -152,14 +164,14 @@ Investigador y profesor asociado especializado en neuroimagen, neuropsicoloǵía
 * Investigador asociada del Centro de Investigación Biomédica en Red en Salud Mental (CIBERSAM) del Ministerio de Economía y Competividad.
 
 
-### David Veale
+<!-- ### David Veale -->
 
 
 ### [Claire Weekes](https://en.wikipedia.org/wiki/Claire_Weekes) [EN]
 
 Una de las grandes pioneras del estudio de los trastornos de ansiedad —ella misma los sufría—. Su forma de tratar la ansiedad se basaba en tres pasos: aceptarla, evitar resistirse y reducir el miedo a los síntomas. Se anticipó a manera en que se trata el TOC con la terapia cognitivo-conductual y la exposición con prevención de respuesta.
 
-### Sally Winston
+<!-- ### Sally Winston -->
 
 
 

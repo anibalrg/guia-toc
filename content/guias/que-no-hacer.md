@@ -38,7 +38,7 @@ Algunos ejemplos de acomodaciones son:
 * abrimos y cerramos grifos, puertas, armarios;
 * permitimos duchas, jabón, champú, gel, etc. sin límite alguno;
 * les sustituimos en tareas que pueden realizar perfectamente: ponemos y quitamos zapatos, atamos cordones, limpiamos dientes, les damos de comer o beber…;
-* evitar personas, situaciones o lugares que generan malestar. Por ejemplo, en menores, dejar de ir al colegio o al instituto
+* evitar personas, situaciones o lugares que generan malestar. Por ejemplo, en menores, dejar de ir al colegio o al instituto.
 
 Repitiendo lo anterior, **deberíamos dejar de participar en las compulsiones** de forma gradual y **dejar de facilitarlas**, además de estar muy atentos para no añadir nuevas acomadaciones.
 

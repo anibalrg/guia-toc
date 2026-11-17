@@ -145,6 +145,13 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
 ### Enlaces de interés
 
 {{< cards cols="2" >}}
+
+    {{< card
+        title="Child Mind Institute/Instituto de la Mente Infantil"
+        subtitle="TOC y trastornos relacionados."
+        link="https://childmind.org/es/temas/toc-y-trastornos-relacionados/"
+    >}}
+
     {{< card
         title="A Short History of OCD, 2009"
         subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad. [EN]"

@@ -80,7 +80,7 @@ Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo
 
 **FRANKO BONILLA - Trastorno Obsesivo-Compulsivo TOC.** [La Risa Cura](https://www.youtube.com/@risacurashow)
 
-Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cura*. Un programa de humor en el que afectados por distintos trastornos hablan cualquier tema, por delicado que sea, porque «es mejor reír que victimizarse».
+Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cura*. Un programa de humor en el que afectados por distintos trastornos hablan sobre cualquier tema, por delicado que sea, porque «es mejor reír que victimizarse».
 
 {{< youtube id=Toyviw12cbo loading=lazy >}}
 
@@ -154,7 +154,7 @@ Howie Mandel es un actor, humorista y presentador de TV estadounidense.
 
 **Howie Mandel Talks About Living With OCD.** [ABC News](https://www.youtube.com/@ABCNews)
 
-{{< youtube id=dSZNnz9SM4g loading=lazy >}}
+{{< yt-thumb id=dSZNnz9SM4g >}}
 
 
 ### Kiko Martín
@@ -261,8 +261,7 @@ Eleonora cuenta su viaje desde Argentina hasta TOC Granada para tratar a su hijo
 
 ### Un afectado de TOC y su madre hablan sobre la evolución del trastorno
 
-**¿Cómo es tener un hijo con un trastorno mental (TOC)? Mi madre os cuenta su experiencia
-** [Abriendo la Mente](https://www.youtube.com/@abriendolamente)
+**¿Cómo es tener un hijo con un trastorno mental (TOC)? Mi madre os cuenta su experiencia** [Abriendo la Mente](https://www.youtube.com/@abriendolamente)
 
 {{< youtube id=NZ9BZuarL7E loading=lazy >}}
 

@@ -83,13 +83,13 @@ Como familiares de una persona con TOC, reunimos aquí la información que nos h
 
     {{< hextra/feature-card link="ayuda/faq" title="Preguntas frecuentes" icon="question-mark-circle" >}}
     
-    {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de personas con TOC y familiares" icon="heart" subtitle="La mejor forma de entender es escucharles." >}}
+    {{< hextra/feature-card link="ayuda/testimonios" title="Testimonios de personas con TOC y familiares" icon="heart" subtitle="La mejor forma de entender el trastorno es escuchar a quienes lo sufren." >}}
 
-    {{< hextra/feature-card link="recursos" title="Recursos" icon="heart" subtitle="Afortunadamente, tenemos acceso a una enorme cantidad de recursos útiles para comprender el TOC: vídeos, podcasts, libros, documentos, etc." >}}
+    {{< hextra/feature-card link="recursos" title="Recursos" icon="heart" subtitle="Afortunadamente, tenemos acceso a una enorme cantidad de recursos útiles para comprender el TOC: vídeos, podcasts, libros, artículos, etc." >}}
 
-    {{< hextra/feature-card link="noticias" title="Noticias" icon="newspaper" subtitle="Noticias sobre el TOC.">}}
+    {{< hextra/feature-card link="noticias" title="Noticias" icon="newspaper" subtitle="Noticias relacionadas con el TOC.">}}
     
-    {{< hextra/feature-card link="glosario" title="Diccionario" icon="book-open" subtitle="Diccionario de términos y expresiones comunes al escuchar y leer sobre el TOC.">}}
+    {{< hextra/feature-card link="glosario" title="Diccionario" icon="book-open" subtitle="Términos y expresiones comunes al escuchar y leer sobre el TOC.">}}
     
 
 {{< /hextra/feature-grid >}}
