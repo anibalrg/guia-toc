@@ -67,23 +67,14 @@ Program de una cadena de televisión chilena sobre personas que sufren de TOC.
 ### [Fundación TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
 Más de 300 vídeos sobre multitud de temas relacionados con el TOC de uno de los sitios de referencia en el tratamiento contra el TOC:
-  * testimonios de personas con TOC y familiares;
-  * charlas de expertos: psicólogos, psiquiatras y neurólogos;
-  * charlas especializadas en TOC infanto-adolescente;
-  * cortos realizados por personas con TOC…
+  * testimonios de personas con TOC;
+  * testimonios de familiares;
+  * charlas de expertos: psicólogos, psiquiatras, neurólogos, nutricionistas…;
+  * charlas especializadas en TOC infanto-juvenil;
+  * ejemplos de terapias con exposiciones;
+  * cortos…
   
-  Hemos destacado algunas, pero hay muchas muy interesantes:
-* Estas dos charlas de la Dra. Pino Alonso son imprescindibles para entender los posibles tratamiento del TOC desde del punto de vista psiquiátrico:
-* Farmacológicos:
-  {{< youtube id=PwRkQ_WxZtQ >}}
   
-* Tratamientos para pacientes resistentes a los fármacos:
-  {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
-
-* El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica el desde el punto de vista neurológico y biológico:
-  {{< youtube id=M5U1l-ElhX0 loading=lazy >}}
-  
-
 ### [Asociación TOC Zaragoza](https://www.youtube.com/@toczaragoza)
 
 Son muy recomendables sus charlas de preguntas y respuestas para afectados y para familiares, así como las charlas con expertos y profesionales en psiquiatría y psicología. Destacamos estas:
