@@ -148,7 +148,7 @@ Todas las personas con TOC sufren mucho con sus obsesiones —tanto como si los 
 
 * El Dr. Carles Soriano-Mas, neuropsicólogo clínico, explica el TOC desde el punto de vista neurológico y biológico en esta charla de la Fundación TOC Granada:
 
-  {{< youtube id=M5U1l-ElhX0 loading=lazy >}}
+  {{< youtube id=M5U1l-ElhX0 >}}
   
 
 
