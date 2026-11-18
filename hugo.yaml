@@ -22,7 +22,7 @@ enableEmoji: true
 enableInlineShortcodes: true
 
 outputs:
-  home: [html, markdown, llms]
+  home: [html]
   page: [html, markdown]
   section: [html, rss, markdown]
 
@@ -110,14 +110,14 @@ params:
   comments:
     enable: true
 
-  markup:
-    goldmark:
-      renderer:
-        unsafe: true
-      parser:
-        attribute:
-          block: true
-          title: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
 
 privacy:
   youTube:

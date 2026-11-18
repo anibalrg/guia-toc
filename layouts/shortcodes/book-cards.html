@@ -1,4 +1,4 @@
-{{- $books := .Site.Data.books -}}
+{{- $books := hugo.Data.books -}}
 {{- $cols := .Get "cols" | default 3 -}}
 
 <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
