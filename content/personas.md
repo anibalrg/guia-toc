@@ -5,7 +5,7 @@ weight:
 toc: true
 ---
 
-Lista de persona a las que nos hemos referido en algún momento por ser relevantes para el tratamiento, investigación o divulgación sobre el TOC. 
+Lista de persona que han contribuido a la investigación, el tratamiento o la divulgación del TOC. Nos hemos referido a algunas de ellas en algunas partes de este sitio.
 
 
 <!-- ### [Jonathan Abramowitz](https://jonabram.web.unc.edu/) -->
@@ -131,8 +131,15 @@ Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital
 
 ### [Aurelio López Reina](https://tocgranda.com)
 
-Fundador y presidente de la Fundación TOC Granada, el principal centro de tratamiento del TOC en España.
+Fundador y presidente de la Fundación [TOC Granada](https://tocgranada.com), el principal centro de tratamiento del TOC en España.
 
+
+### Antonella Orsucci
+
+Psicóloga sanitaria especializada en TOC y los trastornos de ansiedad. Ha colaborado impartiendo charlas y talleres en [TOC Zaragoza](https://toczaragoza.com/) y ha trabajado en [TOC Granada](https://tocgranada.com).
+* Investigadora en el grupo de investigación interuniversitario destinado al TOC. 
+* Coautora de artículos relativos al TOC publicados en revistas internacionales.
+* Miembro ordinario del Grupo de Intervención en Emergencias y Catástrofes del Colegio Oficial de Psicología de Andalucía Oriental.
 
 
 ### [Stanley J. Rachman](https://es.wikipedia.org/wiki/Stanley_Rachman)
