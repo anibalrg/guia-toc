@@ -106,6 +106,12 @@ type: docs
     >}}
 
     {{< card
+        title="Entendiendo el TOC (Sevilla)"
+        subtitle="Nuria, psicóloga y afectado por TOC, y su pareja comparten recursos y apoyo profesional."
+        link="https://entendiendoeltoc.com/"
+    >}}
+
+    {{< card
         title="OCD-UK (TOC-Reino Unido)"
         subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
         link="https://www.ocduk.org/"
@@ -145,6 +151,7 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
 ### Enlaces de interés
 
 {{< cards cols="2" >}}
+
 
     {{< card
         title="Child Mind Institute/Instituto de la Mente Infantil"
