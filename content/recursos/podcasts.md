@@ -36,6 +36,35 @@ La duración de este espacio es de 120 minutos aproximadamente. Este programa se
 
 -------------------------------------------------------------------------------
 
+### **Hablamos de salud mental**
+
+«Una de cada cuatro personas desarrollará un trastorno mental a lo largo de su vida, sin embargo en España la ratio para atenderlo es de 6 psicólogos por cada 100.000 habitantes».
+
+El programa sobre salud mental de Laura Hijón en [Radio Nacional de España](https://www.rtve.es/play/radio/) no específicamente sobre el TOC, aunque hay varios episodios dedicados a este trastorno.
+
+{{< cards cols="4" >}}
+  {{< card link="https://www.rtve.es/play/audios/hablamos-de-salud-mental/" title="RNE audio" icon="microphone" >}}
+{{< /cards >}}
+
+
+Episodios dedicados específicamente al TOC:
+
+
+{{< cards cols="1" >}}
+
+  {{< card link="https://www.rtve.es/play/audios/hablamos-de-salud-mental/hablamos-salud-mental-entender-toc/17189518/" title="Entender el TOC" icon="microphone" >}}
+
+  {{< card link="https://www.rtve.es/play/audios/hablamos-de-salud-mental/hablamos-salud-mental-vivir-toc/6247207/" title="Vivir con TOC" icon="microphone" >}}
+  
+
+  {{< card link="https://www.rtve.es/play/audios/hablamos-de-salud-mental/hablamos-salud-mental-33377486-2022-11-15t20-17-04000/6736972/" title="Zuhaitz Gurrutxaga, la salud mental al terreno de juego" icon="microphone" >}}
+
+  
+{{< /cards >}}
+
+
+-------------------------------------------------------------------------------
+
 ### **Diga bueno**
 
 «¿Qué es el TOC? El Transtorno Obsesivo Compulsivo es una condición mental silenciosa que no todos conocen. Poco a poco invade a una persona con pensamientos no deseados, algo de ansiedad, repetición de acciones y un toque de depresión. Todo lo anterior hace que muchas personas tengan comportamientos poco convencionales. Conozca mi caso y Diga Bueno!»
