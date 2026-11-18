@@ -119,7 +119,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 ### [Yann Lana](https://asistentetoc.com/).
 
 * Asistente personal en Salud Mental y Agente de Apoyo Mutuo especializado en TOC. 
-* Cofundador de la [Asociación TOC Zaragoza](https://toczaragoza.com).
+* Vocal de de la Junta Directiva de [Asociación TOC Zaragoza](https://toczaragoza.com).
 * Director y guionista del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
 
 
