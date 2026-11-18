@@ -82,7 +82,9 @@ Como podemos observar, en el caso de Mademoiselle F. se dan muchos de los elemen
 
 ### Noelia Hernández Yeste
 
-* Psicóloga clínica especialista en TOC. Directora y coordinadora del equípo técnico de la Asociación TOC Granada. 
+* Psicóloga clínica especialista en TOC.
+* Directora y coordinadora del equípo técnico de la Asociación [TOC Granada](https://www.tocgranada.com).
+* Vicepresidenta de la Fundación [TOC Granada](https://www.tocgranada.com).
 * Autora del libro [Detección del TOC en niños]({{% relref "/recursos/#book-detección-del-toc-en-niños" %}}) y coatura de [Qué debo hacer ante los pensamientos obsesivos por mi TOC](https://www.tocgranada.com/producto/que-debo-hacer-ante-los-pensamientos-obsesivos-por-mi-toc/).
 
 
@@ -131,7 +133,10 @@ Jefa del servicio de Psiquiatría y Psicología Infantil y Juvenil del [Hospital
 
 ### [Aurelio López Reina](https://tocgranda.com)
 
-Fundador y presidente de la Fundación [TOC Granada](https://tocgranada.com), el principal centro de tratamiento del TOC en España.
+Padre de un afectado por TOC, creó el Proyecto de Ayuda TOC Granada, que convirtió en la Asociación TOC Granada y que desde diciembre de 2025 se ha constituido como [Fundación TOC Granada](https://tocgranada.com), uno de los principales centros de tratamiento, investigación y formación sobre el TOC en España.
+* Presidente de la Fundación TOC Granada.
+* Aurelio en persona ofrece su ayuda y consejos a todos los familiares y amigos de afectados de TOC que lo necesiten a través del teléfono de ayuda de la fundación. 
+* Autor del libro [*Señales de vida*](https://www.tocgranada.com/producto/senales-de-vida/).
 
 
 ### Antonella Orsucci
