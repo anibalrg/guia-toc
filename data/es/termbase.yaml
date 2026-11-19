@@ -9,12 +9,26 @@
 - term: ciclo del TOC
   definition: La obsesión hace que aumente la ansiedad. La compulsión produce alivio temporal reduciendo la ansiedad, pero fortalece el TOC, haciendo que la necesidad de repetirla vuelva con más fuerza cada vez.
 
+- term: CIE
+  definition: |
+    (Clasificación estadística Internacional de Enfermedades y problemas relacionados con la salud). Lista oficial de enfermedades publicada por la Organización Mundial de la Salud (OMS) que clasifica síntomas, circunstacias sociales y causas externas de cada una.
+
+- term: comorbilidad
+  definition: Presencia simultánea de dos o más enfermedades o trastornos en un mismo individuo.
+
 - term: compulsión
   definition: |
       Conducta física o mental difícil de resistir que se realiza para reducir la ansiedad o evitar un temor provocado por una obsesión. Compulsiones físicas son, por ejemplo: lavarse, tocar, comprobar, repetir acciones un número de veces determinado, preguntar varias veces lo mismo...; compulsiones mentales son: repetir frases, rezar, contar, analizar recuerdos, reemplazar pensamientos negativos por positivos, etc.
 
+- term: dermatilomanía
+  definition: (excoriación). Es un trastorno del espectro del TOC que consiste en pellizcarse o arañarse la piel hasta producir herida para aliviar la tensión que les produce la ansiedad.
+
 - term: disparador
   definition: Estímulo que activa las obsesiones que causan la ansiedad. Puede se una situación, un pensamiento, una imagen o una sensación.
+
+- term: DSM
+  definition: |
+    (*Diagnostic and Statistical Manual of Mental Disorders*, Manual diagnóstico y estadístico de los trastornos mentales). Manual que clasifica los trastornos mentales y describen las distintas categoríasy, utilizado como guía de referencia en los EE.UU. y otros países. Está editado por la *American Psychiatric Association* (*APA*).
 
 - term: egodistónico
   definition: Pensamiento, imágen, sentimiento o conducta que está en conflicto con los valores, las  creencias y la autopercepción de la persona, causándole angustia, malestar, repugnancia, asco, miedo, ansiedad, etc. Los afectados por TOC luchan contra sus pensamientos porque no se identifican con ellos.
@@ -25,6 +39,9 @@
 - term: evitación
   definition: |
       Alejarse de situaciones, personas, pensamientos, lugares u objetos que pueden activar las obsesiones. Es una respuesta lógica y natural que produce alivio a corto plazo, pero contribuye a perpetuar el TOC pues es lo contrario de la exposición. Las evitaciones pueden realizarlas los afectados o sus familiares. En este caso, es un tipo de acomodación.
+
+- term: excoriación
+  definition: (dermatilomanía). Es un trastorno del espectro del TOC que consiste en pellizcarse o arañarse la piel hasta producir herida para aliviar la tensión que les produce la ansiedad.
 
 - term: extinción
   definition: Proceso mediante el que el cerebro aprende que el miedo, peligro o amenaza temida no ocurre y la ansiedad disminuye sin necesidad de compulsiones.
@@ -53,6 +70,9 @@
 - term: OMS
   definition: Organización Mundial de la Salud
 
+- term: PANDAS/PANS
+  definition:
+
 - term: pensamiento intrusivo
   definition: Pensamiento, imagen, impulso o sensación no deseada que aparece de forma automática en casi todas las personas, pero que en los afectados de TOC adquiren demasiada importancia conviertiéndose en una obsesión.
 
@@ -70,8 +90,18 @@
     Terapia cognitivo-conductual. Es el tratamiento estándar para tratar el TOC. La parte cognitiva consiste en ayudar a reconocer y cuestionar las interpretaciones
     erróneas que se hacen de las obsesiones, mientras que la parte conductual consiste en exponerse gradualmente a tolerar la incertidumbre y el malestar sin recurrir a compulsiones o evitaciones.
 
+- term: TDC
+  definition: |
+    Trastorno dismórfico corporal (trastornos del espectro del TOC). Las personas con TDC creen tener en su aspecto físico algún defecto que perciben como muy grave, pero que en realidad es inexistente o leve. Esto les casusa tal preocupación y malestar que se obsesionan y pueden pasar muchas horas mirándose en el espejo, arreglándose en exceso o comparándose con los demás, que les impide llevar una vida normal.
+
 - term: tolerancia a la incertidumbre
   definition: Capacidad de aceptar que no es posible tener certeza absoluta sobre todo. Suele ser uno de los objetivos de la terapia.
+
+- term: TPOC
+  definition: Trastorno de la personalidad obsesivo-compulsiva.
+
+- term: tricotilomanía
+  definition: Trastorno del espectro del TOC que consiste en arrancarse el cabello para aliviar la sensación de ansiedad.
 
 - term: validación emocional
   definition: Reconocimiento del sufrimiento sin reforzar el TOC.
