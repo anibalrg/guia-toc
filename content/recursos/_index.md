@@ -128,6 +128,37 @@ type: docs
         link="https://www.ocduk.org/"
     >}}
 
+    {{< card
+        title="CIE-11"
+        subtitle="Clasificación Internacional de Enfermedades, 11ª revisión. OMS."
+        link="https://www.who.int/es/standards/classifications/classification-of-diseases"
+    >}}
+    
+    {{< card
+        title="DSM-5"
+        subtitle="*Diagnostic and Statistic Manual of Mental Dissorders, 5th Edition. APA.*"
+        link="https://www.psychiatry.org/psychiatrists/practice/dsm/"
+    >}}
+   
+    {{< card
+        title="La Salud Mental"
+        subtitle="Información elaborada por psiquiatras pertenecientes a la *APA* (*American Psychiatric Association*, Asociación Estadounidense de Psiquiatría) de origen hispano y latino para ayudar a los afectados y sus familias."
+        link="https://www.psychiatry.org/patients-families/la-salud-mental/"
+    >}}
+    
+    {{< card
+        title="Salud Mental (MedlinePlus)"
+        subtitle="Información sobre salud mental en general del *NIH* (*National Institutes of Health*, Institutos Nacionales de Salud de los EE.UU.)"
+        link="https://medlineplus.gov/spanish/mentalhealth.html"
+    >}}
+       
+    {{< card
+        title="OCD (TOC)"
+        subtitle="*Obssesive-compulsive disorder*, *American Psychological Association* (Asociación Estadounidense de Psicología)"
+        link="https://www.apa.org/topics/ocd/index"
+    >}}
+   
+    
 
 {{< /cards >}}
 
