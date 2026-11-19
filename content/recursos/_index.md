@@ -9,14 +9,19 @@ type: docs
 {{< hextra/feature-grid cols="2">}}
     {{< hextra/feature-card link="videos" icon="film" title="Vídeos" subtitle="Canales dedicados al TOC, tanto de asociaciones como de afectados, documentales…" >}}
     {{< hextra/feature-card link="podcasts" title="Podcasts" icon="speakerphone" subtitle="Podcasts realizados por personas afectadas por TOC y profesionales dedicados a divulgar sobre este trastorno." >}}
-    
-    {{< hextra/feature-card link="arte" title="Arte" icon="pencil" subtitle="Poemas y cortometrajes para entender el TOC y sus consecuencias de otra manera." >}}
+    {{< hextra/feature-card link="arte" title="Arte" icon="photograph" subtitle="Formas artísticas de comprender el TOC y sus consecuencias." >}}
+
+    {{< hextra/feature-card link="#libros" icon="book-open" title="Libros" subtitle="Libros sobre el TOC escritos por profesionales, afectados y familiares." >}}
+    {{< hextra/feature-card link="#editoriales-especializadas" icon="book-open" title="Editoriales especializadas" subtitle="" >}}
+    {{< hextra/feature-card link="#profesionales" title="Profesionales" icon="office-building" subtitle="Algunos sitios profesionales de referencia." >}}
+    {{< hextra/feature-card link="#foros" title="Foros" icon="chat" subtitle="Foros sobre el TOC para afectados y familiares." >}}
+    {{< hextra/feature-card link="#enlaces-de-interés" title="Enlaces de interés" icon="location-marker" subtitle="Sitios interesantes sobre el TOC." >}}
     
 {{< /hextra/feature-grid >}}
 
 
 
-## {{< icon "book-open" >}} Libros {#Libros}
+## {{< icon "book-open" >}} Libros {#libros}
 <!-- TODO: especializar cards -->
 {{< book-cards >}}
 
@@ -43,7 +48,7 @@ type: docs
 
 ## Sitios de referencia
 
-### Información de profesionales y asociaciones.
+### Información de profesionales y asociaciones. {#profesionales}
 
 {{< cards cols="2" >}}
     {{< card 
@@ -80,6 +85,18 @@ type: docs
         link="https://www.madeofmillions.com/es/"
     >}}
     
+    {{< card
+        title="Trastorno obsesivo-compulsivo y trastornos relacionados"
+        subtitle="Manual de la farmacéutica MSD sobre el TOC y su espectro."
+        link="https://www.msdmanuals.com/es/hogar/trastornos-de-la-salud-mental/trastorno-obsesivo-compulsivo-y-trastornos-relacionados"
+    >}}
+
+    {{< card
+        title="Instituto Clínico No + TOC (Chile)"
+        subtitle="Una enciclopedia sobre el TOC."
+        link="https://nomastoc.cl/enciclopedia"
+    >}}
+
 
     {{< card
         title="Consulta de Psicología Más que TOC (Sevilla)"
@@ -93,12 +110,6 @@ type: docs
         link="https://nievesalvarez.es/blog/"
     >}}
     
-    {{< card
-        title="Instituto Clínico No + TOC (Chile)"
-        subtitle="Una enciclopedia sobre el TOC."
-        link="https://nomastoc.cl/enciclopedia"
-    >}}
-
     {{< card
         title="Psinco Alejandro Ibarra (Sevilla)"
         subtitle="Blog de este psicólogo especialista en TOC."
@@ -121,7 +132,7 @@ type: docs
 {{< /cards >}}
 
 
-## Foros
+### Foros
 
 {{< callout type="warning" >}}
 Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por TOC acuden a estos foros buscando confirmación (*reassurance*), una de las forma de compulsión.
@@ -154,21 +165,15 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
 
 
     {{< card
-        title="Child Mind Institute/Instituto de la Mente Infantil"
-        subtitle="TOC y trastornos relacionados."
-        link="https://childmind.org/es/temas/toc-y-trastornos-relacionados/"
-    >}}
-
-    {{< card
         title="A Short History of OCD, 2009"
         subtitle="Una breve historia del TOC desde la antigüedad hasta la actualidad. [EN]"
         link="https://www.ocdhistory.net/index.html"
     >}}
-    
+
     {{< card
-        title="The Secret Illness"
-        subtitle="Explorando las realidades del TOC a traves de las artes creativas[EN]"
-        link="https://thesecretillness.com/"
+        title="Child Mind Institute/Instituto de la Mente Infantil"
+        subtitle="TOC y trastornos relacionados."
+        link="https://childmind.org/es/temas/toc-y-trastornos-relacionados/"
     >}}
 
     {{< card
@@ -176,19 +181,18 @@ Si vas a participar, por favor, ten en cuenta que algunas personas afectadas por
         subtitle="Información sobre distintos aspectos de la vida con TOC."
         link="https://www.intrusivethoughts.org/es/"
     >}}
-    
-    {{< card
-        title="OCD-UK"
-        subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
-        link="https://www.ocduk.org/"
-    >}}
-    
+
     {{< card
         title="Taming Olivia (Domando a Olivia)"
         subtitle="Olivia es el nombre del TOC de uno de los autores de este sitio dedicado a ayudar a las personas con TOC y a los que convivimos con ellos. [EN]"
         link="https://www.tamingolivia.com/"
     >}}
 
+    {{< card
+        title="The Secret Illness"
+        subtitle="Explorando las realidades del TOC a traves de las artes creativas[EN]"
+        link="https://thesecretillness.com/"
+    >}}
 
 
 {{< /cards>}}
