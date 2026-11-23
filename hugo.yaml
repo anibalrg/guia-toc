@@ -71,6 +71,8 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
+    displayLegal: true
+    displayLastUpdate: true
 
   theme:
     default: light
