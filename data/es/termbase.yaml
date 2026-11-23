@@ -11,7 +11,7 @@
 
 - term: CIE
   definition: |
-    (Clasificación estadística Internacional de Enfermedades y problemas relacionados con la salud). Lista oficial de enfermedades publicada por la Organización Mundial de la Salud (OMS) que clasifica síntomas, circunstacias sociales y causas externas de cada una.
+    (Clasificación estadística Internacional de Enfermedades). Lista oficial de enfermedades y problemas relacionados con la salud publicada por la Organización Mundial de la Salud (OMS) que clasifica síntomas, circunstacias sociales y causas externas de cada una.
 
 - term: comorbilidad
   definition: Presencia simultánea de dos o más enfermedades o trastornos en un mismo individuo.
@@ -28,13 +28,13 @@
 
 - term: DSM
   definition: |
-    (*Diagnostic and Statistical Manual of Mental Disorders*, Manual diagnóstico y estadístico de los trastornos mentales). Manual que clasifica los trastornos mentales y describen las distintas categoríasy, utilizado como guía de referencia en los EE.UU. y otros países. Está editado por la *American Psychiatric Association* (*APA*).
+    (Diagnostic and Statistical Manual of Mental Disorders, Manual diagnóstico y estadístico de los trastornos mentales). Manual que clasifica los trastornos mentales y describen las distintas categoríasy, utilizado como guía de referencia en los EE.UU. y otros países. Está editado por la American Psychiatric Association (APA).
 
 - term: egodistónico
   definition: Pensamiento, imágen, sentimiento o conducta que está en conflicto con los valores, las  creencias y la autopercepción de la persona, causándole angustia, malestar, repugnancia, asco, miedo, ansiedad, etc. Los afectados por TOC luchan contra sus pensamientos porque no se identifican con ellos.
 
 - term: EPR
-  definition: Exposición con Prevención de Respuesta. Técnica usada en la Terapia cognitivo-conductual (TCC) para tratar el TOC, basada en la exposición gradual a las situaciones que generan malestar, evitando realizar las conductas de alivio aprendidas (compulsiones) para reducir la ansiedad, aprendiendo a convivir con ella y dejando que se reduzca de forma natural.
+  definition: (Exposición con Prevención de Respuesta). Técnica usada en la Terapia cognitivo-conductual (TCC) para tratar el TOC, basada en la exposición gradual a las situaciones que generan malestar, evitando realizar las conductas de alivio aprendidas (compulsiones) para reducir la ansiedad, aprendiendo a convivir con ella y dejando que se reduzca de forma natural.
 
 - term: evitación
   definition: |
@@ -48,14 +48,14 @@
 
 - term: GAM
   definition: |
-    Grupo de Ayuda o Apoyo Mutuo. Grupos presenciales o en línea para personas con TOC, familiares y amigos,  moderados por profesionales de la salud, agentes de apoyo mútuo o personas con TOC.
+    (Grupo de Ayuda o Apoyo Mutuo). Grupos presenciales o en línea para personas con TOC, familiares y amigos,  moderados por profesionales de la salud, agentes de apoyo mútuo o personas con TOC.
 
 - term: habituación
   definition: Disminución gradual de la ansiedad cuando la persona permanece el tiempo suficiente ante aquello que teme sin evitarlo ni realizar compulsiones.
 
 - term: ISRS
   definition: |
-    Inhibidor Selectivo de la Recaptación de la Serotonina. Son uno de los tipos de antidepresivos que se usan como tratamiento para el TOC en la actualidad. Los más conocidos son: sertralina, fluoxetina y paroxetina.
+    (Inhibidor Selectivo de la Recaptación de la Serotonina). Son uno de los tipos de antidepresivos que se usan como tratamiento para el TOC en la actualidad. Los más conocidos son: sertralina, fluoxetina y paroxetina.
 
 - term: miedo
   definition: Respuesta emocional ante un peligro que percibimos como inmediato y claramente identificable. Se procesa en la amigdala cerebral, que prepara el cuerpo para reaccionar inmediatamente para huir, protegerse o defenderse. Suele estar ligado al contenido de la obsesión.
@@ -68,17 +68,18 @@
   definition: Pensamiento, imagen, duda, impulso o sensación repetitiva e involuntaria que provoca malestar, culpa o ansiedad al interpretarse como muy importante o peligroso, generando mucha angustia, culpa o miedo. Toda obsesión comienza con un pensamiento intrusivo, pero no todo pensamiento intrusivo genera una obsesión.
 
 - term: OMS
-  definition: Organización Mundial de la Salud
+  definition: (Organización Mundial de la Salud). Es el organismo de la Organización de las Naciones Unidas (ONU) que gestión las políticas de prevención, promoción e intervención a nivel mundial de la salud.
 
 - term: PANDAS/PANS
   definition: |
-    Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci/Pediatric acute-onset neuropsychiatric syndrome, trastorno pediátrico neuropsiquiátrico autoinmune asociado a estreptococo/síndrome neuropsiquiátrico pediátrico agudo. Enfermedad pediátrica en la que una infección (estreptococos, en el caso del PANDA; gripe, varicela y otros, en el del PANS) desencadena diversos síntomas neurológicos asociados al TOC. Está aún en estudio y su diagnóstico no está aceptado como independiente, ni aparece en el CIE ni en el DSM.
+    (Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci/Pediatric acute-onset neuropsychiatric syndrome, trastorno pediátrico neuropsiquiátrico autoinmune asociado a estreptococo/síndrome neuropsiquiátrico pediátrico agudo). Enfermedades pediátricas en las que una infección (estreptococos, en el caso del PANDA; gripe, varicela y otros, en el del PANS) desencadena tics y diversos síntomas neurológicos asociados al TOC. Está aún en estudio y su diagnóstico no están aceptadas como independiente, ni aparecen en el CIE ni en el DSM.
 
 - term: pensamiento intrusivo
   definition: Pensamiento, imagen, impulso o sensación no deseada que aparece de forma automática en casi todas las personas, pero que en los afectados de TOC adquiren demasiada importancia conviertiéndose en una obsesión.
 
 - term: reconfirmación
-  definition: Tipo de compulsión que consiste en la búsqueda repetida de certeza, seguridad y tranquilidad de que las obsesiones que se sienten no son reales o las compulsiones que se están realizando no son necesarias.
+  definition: |
+    (reassurance). Tipo de compulsión que consiste en la búsqueda repetida de certeza, seguridad y tranquilidad de que las obsesiones que se sienten no son reales o las compulsiones que se están realizando no son necesarias.
 
 - term: ritual
   definition: Acciones o pensamientos repetitivos que la persona siente que debe hacer para reducir la ansiedad o prevenir un suceso temido. Suele ser un conjunto de compulsiones, aunque se suelen utilizar como sinónimos.
@@ -94,18 +95,18 @@
 
 - term: TDAH
   definition: |
-    Trastorno por déficit de atención con hiperactividad. Trastorno que se caracteriza por fallos en la regulación de la atención, hiperactividad mental y comportamiento impulsivo que dificulta el desarrollo emocional y cognitivo del afectado.
+    (Trastorno por déficit de atención con hiperactividad). Trastorno que se caracteriza por fallos en la regulación de la atención, hiperactividad mental y comportamiento impulsivo que dificulta el desarrollo emocional y cognitivo del afectado.
 
 - term: TDC
   definition: |
-    Trastorno dismórfico corporal. Las personas que sufren este trastorno creen tener en su aspecto físico algún defecto que perciben como muy grave, pero que en realidad es inexistente o leve. Esto les causa tal preocupación y malestar que se obsesionan y pueden pasar muchas horas mirándose en el espejo, arreglándose en exceso o comparándose con los demás, que les impide llevar una vida normal.
+    (Trastorno dismórfico corporal). Las personas que sufren este trastorno creen tener en su aspecto físico algún defecto que perciben como muy grave, pero que en realidad es inexistente o leve. Esto les causa tal preocupación y malestar que se obsesionan y pueden pasar muchas horas mirándose en el espejo, arreglándose en exceso o comparándose con los demás, que les impide llevar una vida normal.
 
 - term: tolerancia a la incertidumbre
   definition: Capacidad de aceptar que no es posible tener certeza absoluta sobre todo. Suele ser uno de los objetivos de la terapia.
 
 - term: TPOC
   definition: |
-    Trastorno de la personalidad obsesivo-compulsiva. Es un trastorno caracterizado por una preocupación por el orden, las normas, el perfecionismo y la necesidad de control que produce gran malestar que puede derivar en trastornos de ansiedad o depresivos.
+    (Trastorno de la personalidad obsesivo-compulsiva). Es un trastorno caracterizado por una preocupación por el orden, las normas, el perfecionismo y la necesidad de control que produce gran malestar que puede derivar en trastornos de ansiedad o depresivos.
 
 - term: tricotilomanía
   definition: Trastorno del espectro del TOC que consiste en arrancarse el cabello para aliviar la sensación de ansiedad.
