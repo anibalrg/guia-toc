@@ -55,7 +55,7 @@ Sin tratamiento, el TOC puede cronificarse y aparecer de forma episódica a lo l
 En España, en el caso de la sanidad pública, se debe acudir primero a la atención primaria, o al pediatra en caso de menores, para que deriven vuestro caso a los psicólogos y psiquiatras correspondientes.
 
 
-[^retraso-terapia]: [*Mental Health Stats*,OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni, (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
+[^retraso-terapia]: [*Mental Health Stats*, OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni, (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
 )
 
 
@@ -72,7 +72,9 @@ En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-de
 {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
   
 
-
+<!--
+### Retirada de la medicación
+-->
 
 
 
