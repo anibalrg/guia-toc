@@ -55,7 +55,7 @@
 
 - term: ISRS
   definition: |
-    Inhibidor Selectivo de la Recaptación de la Serotonina. Son el grupo de antidepresivos —junto con la clomipramina— que se usan como tratamiento para el TOC en la actualidad. Los más conocidos son: sertralina, fluoxetina y paroxetina.
+    Inhibidor Selectivo de la Recaptación de la Serotonina. Son uno de los tipos de antidepresivos que se usan como tratamiento para el TOC en la actualidad. Los más conocidos son: sertralina, fluoxetina y paroxetina.
 
 - term: miedo
   definition: Respuesta emocional ante un peligro que percibimos como inmediato y claramente identificable. Se procesa en la amigdala cerebral, que prepara el cuerpo para reaccionar inmediatamente para huir, protegerse o defenderse. Suele estar ligado al contenido de la obsesión.
@@ -71,7 +71,8 @@
   definition: Organización Mundial de la Salud
 
 - term: PANDAS/PANS
-  definition:
+  definition: |
+    Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci/Pediatric acute-onset neuropsychiatric syndrome, trastorno pediátrico neuropsiquiátrico autoinmune asociado a estreptococo/síndrome neuropsiquiátrico pediátrico agudo. Enfermedad pediátrica en la que una infección (estreptococos, en el caso del PANDA; gripe, varicela y otros, en el del PANS) desencadena diversos síntomas neurológicos asociados al TOC. Está aún en estudio y su diagnóstico no está aceptado como independiente, ni aparece en el CIE ni en el DSM.
 
 - term: pensamiento intrusivo
   definition: Pensamiento, imagen, impulso o sensación no deseada que aparece de forma automática en casi todas las personas, pero que en los afectados de TOC adquiren demasiada importancia conviertiéndose en una obsesión.
@@ -90,15 +91,21 @@
     Terapia cognitivo-conductual. Es el tratamiento estándar para tratar el TOC. La parte cognitiva consiste en ayudar a reconocer y cuestionar las interpretaciones
     erróneas que se hacen de las obsesiones, mientras que la parte conductual consiste en exponerse gradualmente a tolerar la incertidumbre y el malestar sin recurrir a compulsiones o evitaciones.
 
+
+- term: TDAH
+  definition: |
+    Trastorno por déficit de atención con hiperactividad. Trastorno que se caracteriza por fallos en la regulación de la atención, hiperactividad mental y comportamiento impulsivo que dificulta el desarrollo emocional y cognitivo del afectado.
+
 - term: TDC
   definition: |
-    Trastorno dismórfico corporal (trastornos del espectro del TOC). Las personas con TDC creen tener en su aspecto físico algún defecto que perciben como muy grave, pero que en realidad es inexistente o leve. Esto les casusa tal preocupación y malestar que se obsesionan y pueden pasar muchas horas mirándose en el espejo, arreglándose en exceso o comparándose con los demás, que les impide llevar una vida normal.
+    Trastorno dismórfico corporal. Las personas que sufren este trastorno creen tener en su aspecto físico algún defecto que perciben como muy grave, pero que en realidad es inexistente o leve. Esto les causa tal preocupación y malestar que se obsesionan y pueden pasar muchas horas mirándose en el espejo, arreglándose en exceso o comparándose con los demás, que les impide llevar una vida normal.
 
 - term: tolerancia a la incertidumbre
   definition: Capacidad de aceptar que no es posible tener certeza absoluta sobre todo. Suele ser uno de los objetivos de la terapia.
 
 - term: TPOC
-  definition: Trastorno de la personalidad obsesivo-compulsiva.
+  definition: |
+    Trastorno de la personalidad obsesivo-compulsiva. Es un trastorno caracterizado por una preocupación por el orden, las normas, el perfecionismo y la necesidad de control que produce gran malestar que puede derivar en trastornos de ansiedad o depresivos.
 
 - term: tricotilomanía
   definition: Trastorno del espectro del TOC que consiste en arrancarse el cabello para aliviar la sensación de ansiedad.
