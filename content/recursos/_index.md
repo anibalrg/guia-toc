@@ -53,7 +53,7 @@ type: docs
 {{< cards cols="2" >}}
     {{< card 
         title="Vivir con TOC: Más allá de las manías"
-        subtitle="Una completa visión sobre el TOC de SOM Salud Mental 360 (Hospital maternoinfantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
+        subtitle="Una completa visión sobre el TOC de SOM Salud Mental 360 (Hospital materno-infantil Sant Joan de Déu, Barcelona/Asocciació TOC Catalunya)."
         link="https://www.som360.org/es/monografico/vivir-toc-mas-alla-manias/"
     >}}
 
@@ -66,14 +66,8 @@ type: docs
     {{< cards cols="2" >}}
     
         {{< card
-            title="TOC Zaragoza - Blog"
-            subtitle="Noticias sobre el TOC de la Asociación TOC Zaragoza."
-            link="https://toczaragoza.com/blog/"
-        >}}
-            
-        {{< card
             title="TOC Zaragoza - Artículos"
-            subtitle="Noticias sobre el TOC de la Asociación TOC Zaragoza."
+            subtitle="Información científica sobre el TOC y sus tratamientos de la Asociación TOC Zaragoza."
             link="https://toczaragoza.com/category/articulos-toc/"
         >}}
 
@@ -123,23 +117,11 @@ type: docs
     >}}
 
     {{< card
-        title="OCD-UK (TOC-Reino Unido)"
-        subtitle="ONG británica para menores y adultos afectados por TOC.[EN]"
-        link="https://www.ocduk.org/"
-    >}}
-
-    {{< card
         title="CIE-11"
         subtitle="Clasificación Internacional de Enfermedades, 11ª revisión. OMS."
         link="https://www.who.int/es/standards/classifications/classification-of-diseases"
     >}}
     
-    {{< card
-        title="DSM-5"
-        subtitle="*Diagnostic and Statistic Manual of Mental Dissorders, 5th Edition. APA.*"
-        link="https://www.psychiatry.org/psychiatrists/practice/dsm/"
-    >}}
-   
     {{< card
         title="La Salud Mental"
         subtitle="Información elaborada por psiquiatras pertenecientes a la *APA* (*American Psychiatric Association*, Asociación Estadounidense de Psiquiatría) de origen hispano y latino para ayudar a los afectados y sus familias."
@@ -151,13 +133,44 @@ type: docs
         subtitle="Información sobre salud mental en general del *NIH* (*National Institutes of Health*, Institutos Nacionales de Salud de los EE.UU.)"
         link="https://medlineplus.gov/spanish/mentalhealth.html"
     >}}
-       
+    
+{{< /cards >}}
+
+#### Sitios de referencia en otros idiomas
+
+{{< cards cols="2" >}}
     {{< card
-        title="OCD (TOC)"
-        subtitle="*Obssesive-compulsive disorder*, *American Psychological Association* (Asociación Estadounidense de Psicología)"
+        title="DSM-5 (Diagnostic and Statistic Manual of mental disorders, 5th Edition) [EN]"
+        subtitle="5ª versión del Manual de diagnóstico y estadística de enfermadades mentales de la *APA* (*American Psychiatric Association*, Asociación Estadounidense de Psiquiatría)."
+        link="https://www.psychiatry.org/psychiatrists/practice/dsm/"
+    >}}
+
+
+    {{< card
+        title="ICOCS (International College of Obsessive Compulsive Spectrum Disorders, Colegio Internacional de trastornos del Espectro Obsesivo-Compulsivo) [EN]"
+        subtitle="ONG dedicada a fomentar la investigación y promover la sensibilización sobre el TOC y los trastornos de su espectro."
+        link="https://icocs.org/"
+    >}}
+
+
+    {{< card
+        title="OCD (TOC) [EN]"
+        subtitle="Información sobre el TOC de la *American Psychological Association* (Asociación Estadounidense de Psicología)"
         link="https://www.apa.org/topics/ocd/index"
     >}}
    
+    {{< card
+        title="OCD-UK (TOC-Reino Unido) [EN]"
+        subtitle="ONG británica que asesora y presta apoyo a las personas afectadas por el TOC y realiza campañas de sensibilización para acabar con la trivialización y el estigma."
+        link="https://www.ocduk.org/"
+    >}}
+    
+    {{< card
+        title="OCD Action (Acción TOC) [EN]"
+        subtitle="ONG británica que trabaja para que: el TOC se comprenda mejor, se diagnostique rápidamente, se trate adecuamente, y nadie se sienta avergonzado de pedir ayuda."
+        link="https://ocdaction.org.uk/"
+    >}}
+    
     
 
 {{< /cards >}}

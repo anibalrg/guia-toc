@@ -32,22 +32,23 @@ Es una de las principales psiquiatras e investigadoras especializadas en TOC. Es
 * Presidenta de la Asociación [TOC 2.0](https://toc20.org/) de Barcelona.
 
 
-### Nieves Álvarez
+### [Nieves Álvarez](https://nievesalvarez.es/)
 
-Psicóloga especializada en TOC y directora de una clínica especializada en este trastorno.
+Psicóloga clínica especializada en TOC y directora de una clínica especializada en este trastorno.
 
-* Directora del [gabiente de psicología Nieves Álvarez](https://nievesalvarez.es/) (Madrid).
+* Directora del [gabiente de psicología Nieves Álvarez](https://nievesalvarez.es/) (Madrid y Valencia).
 * Promotora y colaboradora de la [Asociacíón TOC Madrid](https://asociaciontocmadrid.es) (Madrid).
 * Directora del *podcast* [Nieves y el TOC]({{% relref "/recursos/podcasts/#nieves-y-el-toc" %}}).
 * [Tratamiento TOC](https://tratamientotoc.es/).
 
 
-### Encarni Cabrera Molina
+### [Encarni Cabrera Molina](https://www.psicologaencarnicabrera.com/)
 
-Psicóloga especializada en TOC.
+Psicóloga clínica especializada en TOC.
 
-* Directora Clínica de [Planeta TOC](https://www.planetatoc.com).
-* [Gabinete de Psicología Encarni Cabrera](https://www.psicologaencarnicabrera.com/).
+* Directora Clínica de [Planeta TOC](https://www.planetatoc.com)/[Fundación Nacional para el TOC](https://fundaciontoc.org/).
+* Propietaria del [Gabinete de Psicología Encarni Cabrera](https://www.psicologaencarnicabrera.com/).
+* Miembro fundaddor de la [Asociación TOC Granada](https://tocgranada.com/) y psicóloga y coordinadora de esta asociación durante 5 años.
 * Profesora asociada Universidad de Villanueva (Madrid).
 * Profesora asociada Universidad Loyola (Sevilla).
 * Colaboradora Universidad de Granada.
@@ -119,7 +120,7 @@ Creador de la terapia de aceptación y compromiso, que ha influido en el actual 
 ### [Yann Lana](https://asistentetoc.com/).
 
 * Asistente personal en Salud Mental y Agente de Apoyo Mutuo especializado en TOC. 
-* Vocal de de la Junta Directiva de [Asociación TOC Zaragoza](https://toczaragoza.com).
+* Vocal de de la Junta Directiva de la [Asociación TOC Zaragoza](https://toczaragoza.com).
 * Director y guionista del *podcast* [TOC & beats]({{% relref "/recursos/podcasts/#toc-and-beats" %}}).
 
 
