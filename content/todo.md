@@ -14,17 +14,17 @@ type: docs
 
  [x] +comorbilidad
  [ ] +psicoeducación
- [ ] +ISRS
+ [x] +ISRS
  [ ] *sertralina
  [ ] +fusión pensamiento-acción
  [x] +DSM
  [x] +CIE
- [ ] +excoriación
- [ ] +dermatilomanía
+ [x] +excoriación
+ [x] +dermatilomanía
  [x] +TDC
- [ ] +TDAH
- [ ] +TPOC
- [ ] +PANDAS/PANS
+ [x] +TDAH
+ [x] +TPOC
+ [x] +PANDAS/PANS
  [ ] +escrupolosidad
 
 
@@ -47,3 +47,6 @@ type: docs
 
 [ ] Acerca de
  
+## Misc.
+
+[ ] Mindfulness som 360 
