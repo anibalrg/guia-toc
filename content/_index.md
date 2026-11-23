@@ -10,7 +10,7 @@ cascade:
 
 {{< hextra/hero-container image="images/logo.svg"  imageTitle="TOC logo" cols="2" >}}
     {{< hextra/hero-headline >}}Información básica{{< /hextra/hero-headline >}}
-    {{< hextra/hero-subtitle >}}para familiares y amigos de personas con Trastorno obsesivo-compulsivo{{< /hextra/hero-subtitle >}}
+    {{< hextra/hero-subtitle >}}para familiares y amigos de personas con trastorno obsesivo-compulsivo.{{< /hextra/hero-subtitle >}}
 {{< /hextra/hero-container >}}
 
 
@@ -22,7 +22,7 @@ El TOC genera un enorme sufrimiento en las personas que lo padecen y mucha impot
 
 {{< hextra/hero-section heading="h3">}}Diagnóstico{{< /hextra/hero-section >}}
 {{< hextra/hero-subtitle >}}
-Lo más urgente es que un psicólogo confirme o descarte que se trata de TOC, determine si existen o no otros trastornos simultáneamente (**comorbilidad**) y valore la severidad. Si lo considera necesario, un psiquiatra determinará si es necesaria la administración de algún medicamento como complemento a la terapia.
+**Lo más urgente es que un psicólogo confirme o descarte que se trata de TOC**, determine si existen o no otros trastornos simultáneamente (comorbilidad) y valore la severidad. Si lo considera necesario, un psiquiatra determinará si es necesaria la administración de algún medicamento como complemento a la terapia.
 {{< /hextra/hero-subtitle >}}
 
 
@@ -89,7 +89,7 @@ Como familiares de una persona con TOC, reunimos aquí la información que nos h
 
     {{< hextra/feature-card link="noticias" title="Noticias" icon="newspaper" subtitle="Noticias relacionadas con el TOC.">}}
     
-    {{< hextra/feature-card link="glosario" title="Diccionario" icon="book-open" subtitle="Términos y expresiones comunes al escuchar y leer sobre el TOC.">}}
+    {{< hextra/feature-card link="glosario" title="Diccionario" icon="book-open" subtitle="El lenguaje del TOC.">}}
     
 
 {{< /hextra/feature-grid >}}
