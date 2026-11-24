@@ -55,8 +55,14 @@ Sin tratamiento, el TOC puede cronificarse y aparecer de forma episódica a lo l
 En España, en el caso de la sanidad pública, se debe acudir primero a la atención primaria, o al pediatra en caso de menores, para que deriven vuestro caso a los psicólogos y psiquiatras correspondientes.
 
 
-[^retraso-terapia]: [*Mental Health Stats*, OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni, (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
+[^retraso-terapia]: [*Mental Health Stats*, OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
 )
+
+### ¿Qué hacer cuando nuestro familiar no quiere tratarse?
+
+[Noelia Hernández Yeste](/personas/#noelia-hernandez-yeste) explica en este vídeo de [TOC Granada](https://tocgranada.com) cómo afrontar este problema.
+
+{{< youtube id=X9JWvrbBWOU loading=eager >}}
 
 
 ## Medicación y otros tratamientos psiquiátricos
