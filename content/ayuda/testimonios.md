@@ -9,10 +9,15 @@ weight: 3
 
 ### Testimonios de afectados y familiares de TOC Granada
 
-En el canal de [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) hay una sección dedicada a los testimonios de [afectados y familiares](https://tocgranada.com/testimonios-de-afectados-toc/).
+En el nuevo sitio web de TOC Granada hay una sección dedicada exclusivamente a los testimonios de [afectados y familiares](https://tocgranada.com/testimon). Y en su [canal](https://www.youtube.com/@TOCGranadaAsociacion) hay dos listas de vídeos con testimonios de afectados y familiares:
+
+* [Recuperados TOC. Testimonios de afectados más motivadores](https://youtube.com/playlist?list=PLXdlHaFUZs8p_V4ee4v4bSdxPEnrPKB8P&si=dNot1aiVtSSP8ZT4).
+* [Testimonios de afectados](https://youtube.com/playlist?list=PLXdlHaFUZs8qD5vSg20-wibWuOR4nW7Km&si=JT2a-EXvbjq3DDbL).
  
 
 ### aluandii
+
+Alicia es profesora de inglés y estudiante de psicología cuenta su experiencia con el TOC en su canal.
 
 **Tengo TOC (Trastorno Obsesivo Compulsivo). | qué es? mi experiencia**
 
@@ -22,6 +27,8 @@ En el canal de [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion) hay 
 
 
 ### Alaitz
+
+Alaitz es una de las personas que ha pasado por [TOC Granada](https://tocgranada.com/) para superar su TOC. En este vídeo cuenta su experiencia.
 
 **El potente testimonio de Alaizt por su TOC.** [TOC Granada](https://www.youtube.com/@TOCGranadaAsociacion)
 
@@ -80,12 +87,14 @@ Jaume es productor musica y DJ. Cuenta su historia con un TOC que empezó siendo
 
 **FRANKO BONILLA - Trastorno Obsesivo-Compulsivo TOC.** [La Risa Cura](https://www.youtube.com/@risacurashow)
 
-Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cura*. Un programa de humor en el que afectados por distintos trastornos hablan sobre cualquier tema, por delicado que sea, porque «es mejor reír que victimizarse».
+Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cura*. Un programa de humor en el que afectados por distintos trastornos hablan sobre cualquier tema, por delicado que sea, porque, según ellos: «¡es mejor reír que victimizarse!».
 
 {{< youtube id=Toyviw12cbo loading=lazy >}}
 
 
 ### Sol Carlos
+
+Sol Carlos es una influencer que ha querido hacer público que sufre TOC y contar su experiencia.
 
 **Tengo T.O.C.** [Sol Carlos](https://www.youtube.com/@solcarlosofficial)
 
@@ -93,6 +102,8 @@ Franko es un cómico colombiano afectado por TOC y cuenta su caso en *La Risa Cu
 
 
 ### José Costas
+
+El testimonio de José Costas es impresionante y ejemplifica lo que puede hacer el TOC con la vida de una persona cuando no se trata o no se trata adecuadamente.
 
 **Gran testimonio TOC recuperado. TOC Granada Asociación.** [UN PROPÓSITO](https://www.youtube.com/channel/UC1wRi5snKg6CowA4KNzkGGA) con Kiko Martín.
 
@@ -125,7 +136,7 @@ Después de ganar la Eurocopa sub-16 y lograr el tercer puesto en el Mundial sub
 **Puramente obsesivo: una historia sobre el TOC** [Puramente Obsesivo](https://www.youtube.com/@PuramenteObsesivo) [ES/CAT]
 
 Mini documental donde Joan cuenta su historia con TOC puro.
-{{< youtube id=iinC8BNelvE loading=lazy >}}
+{{< yt-thumb iinC8BNelvE >}}
 
 
 ### José Juan
