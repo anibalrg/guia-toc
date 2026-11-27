@@ -109,7 +109,7 @@ Edna Foa está considerada una pionera del desarrollo de la terapia de exposici�
 
 Psicólogo clínico creador de la terapia de aceptación y compromiso (*Acceptance and Commitment Therapy*, *ACT*), se le considera uno de los psicólogos más influyentes en la psicología contemporánea. Es profesor emérito en la Universidad de Nevada (Reno, EE.UU.).
 
-Aunque la {{ term EPR }} es el tratamiento de referencia para el TOC, la *ACT* intenta complementarla abordar algunas de sus limitaciones, especialmente el rechazo inicial a las exposiciones de algunas personas.
+Aunque la {{< term EPR >}} es el tratamiento de referencia para el TOC, la *ACT* intenta complementarla abordar algunas de sus limitaciones, especialmente el rechazo inicial a las exposiciones de algunas personas.
 
 
 <!-- ### John Hershfield -->
