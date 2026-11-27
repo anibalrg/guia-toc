@@ -21,27 +21,43 @@ En España, en el caso de la sanidad pública, se debe acudir primero a la atenc
 
 ### ¿En qué consiste la terapia?
 
-El núcleo de la terapia evolucionado de los métodos más conocidos descritos por [Claire Weekes](/personas/#claire-weekes) y [Jeffrey Schwartz](/personas/#jeffrey-schwartz) respectivamente.
+La **terapia cognitivo-conductual (TCC)** se basa en que pensamientos, emociones y comportamientos están interconectados. Su objetivo principal no es erradicar los pensamientos intrusivos —los cuales son inevitables—, sino cambiar el significado negativo que se les atribuye y modificar la manera en que se reacciona ante ellos.
 
+Dentro de la TCC, la **exposición y prevención de respuesta (EPR)** es una técnica conductual estructurada en dos partes: **exposición** y **prevención de respuesta**. La exposición consiste en enfrentarse a las situaciones, objetos o pensamientos que desencadenan ansiedad o temor. Mientras que la prevención de respuesta** consiste en evitar conscientemente las compulsiones para neutralizar la ansiedad o evitar el peligro percibido.
+
+En lugar de solo soportar el malestar, el paciente pone a prueba la veracidad de sus miedos obsesivos y comprueba que las consecuencias temidas no se cumplen y que la ansiedad disminuye por sí sola mediante la repetición (**habituación**). Para hacerlo manejable, este trabajo se realiza de forma **jerárquica** y **progresiva**, comenzando por situaciones que generan una ansiedad tolerable y avanzando gradualmente hacia los retos más difíciles, es decir, aquellos que generan más ansiedad.
+
+Durante el tratamiento, uno de los mayores desafíos es la ansiedad que genera la indicación de "no realizar rituales" o "no evitar". Para ayudar a tolerar el malestar sin ceder a la compulsión se han desarrollado modelos que abordan esto. Dos de los más conocidos son los descritos por [Claire Weekes](/personas/#claire-weekes) y [Jeffrey Schwartz](/personas/#jeffrey-schwartz) respectivamente.
+
+####  Los cuatro pasos de Claire  Weekes
 [Claire Weekes](/personas/#claire-weekes) fue la primera persona en estudiar los ataque de ansiedad, ella misma los sufría. Describió su método en su libro *Hope and Help for Your Nerves* (Esperanza y ayuda para tus nervios) y constaba de cuatro pasos:
-1. **Afrontar**: no huir de las sensaciones.
-2. **Aceptar**: dejar que el malestar esté sin luchar contra él. Según ella, así se evitaba el «segundo miedo», es decir, el miedo al propio miedo.
-3. **Flotar**: relajar el cuerpo y atravesar la sensación, como si flotases sobre ella.
-4. **Dejar pasar el tiempo**: Tener paciencia, porque la recuperación no es lineal y los retrocesos o recaídas forman parte del proceso.
+1. **Afrontar**: enfrentar las sensaciones, no huir de ellas.
+2. **Aceptar**: dejar de luchar contra el malestar físico o los pensamientos intrusivos y permitir que la emoción ocurra. Según Weekes, , así se evitaba el «segundo miedo», es decir, el miedo al propio miedo.
+3. **Flotar**: relajar el cuerpo y evitar la rigidez mental. Es como la analogía del junco que se dobla con el viento, en lugar de resitirlo.
+4. **Dejar pasar el tiempo**: Tener paciencia y tratar de no deseperarse, porque la habituación lleva tiempo, no es lineal y los retrocesos o recaídas forman parte del proceso.
 
-[Jeffrey Schwartz](/personas/#jeffrey-schwartz) describe su método para superar el TOC en su libro *Brain Lock*([Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}})):
-1. **Reetiquetar**: reconocer que la obsesión o pensamiento intrusivo es TOC no una señal real («no soy yo, es mi TOC»).
-2. **Reatribuir**: explicar su causa como una falsa alarma, no como un peligro real, ni tampoco como algo que defina a la persona.
-3. **Reenfocar**: redirigir la atención a una actividad agradable durante un rato, aunque el impulso siga presente.
-4. **Revalorar**: quitar importancia a la obsesión y tratar de observarla como un «espectador imparcial». Con la práctica repetida, perderá fuerza.
+#### Los cuatro pasos de Jeffrey Schwartz
+[Jeffrey Schwartz](/personas/#jeffrey-schwartz) desarrolló una metodología neurocognitiva basada en la atención plena (*mindfullness*) diseñada para cambiar los circuitos neuronales en el TOC. Lo describió en su libro *Brain Lock*([Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}})):
+1. **Reetiquetar**: reconocer la obsesión o pensamiento intrusivo por lo que es: es el TOC, un pesamiento obsesivo, no una amenaza real.
+2. **Reatribuir**: desvincular el pensamiento de la propia personalidad o responsabilidad («No soy yo, es mi TOC»).
+3. **Reenfocar**: redirigir la atención a una actividad agradable o constructiva, aunque la ansiedad permanezca.
+4. **Revalorar**: quitar importancia a la obsesión y tratar de observarla como un «espectador imparcial», viéndola como un falso mensaje. Con la práctica repetida, perderá fuerza.
 
 Ambos se basan en ser conscientes de que los síntomas no son peligrosos y que luchar contra ellos empeora las cosas. El matiz está en que Weekes proponía dejar de resistirse, mientras que Schwartz propone cambiar la respuesta desviando la atención.
 
+#### Los cuatro pasos de la Fundación TOC Granada
 
+La [Fundación TOC Granada](https://tocgranada.com/) en su [protocolo de terapia individual de la Fundación TOC Granada](https://www.tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf) ha fusionado los conceptos de Weekes y Schwartz:
+1. **Identificar**: reconocer que la intrusión o las ganas de compulsionar son un falso mensaje.
+2. **Atribuir**: asignar dicho mensaje al TOC, liberando a la persona de culpa o responsabilidad.
+3. **Aceptar** el malestar y las emociones sin intentar neutralizarlas.
+4. **Reenfocar**: continuar con lo que se estaba haciendo o deseaba hacer, permitiendo que el cerebro se reeduque mediante la neuroplasticidad.
 
-En los siguientes vídeos de la [Fundación TOC Granada](https://tocgranada.com/) se explica cómo funciona la terapia aplicando los cuatro pasos: **identificar** el pensamiento intrusivo u obsesivo, **atribuir** el pensamiento al TOC, **aceptar** el pensamiento; y, finalmente, **reenfocar**. Estos pasos forman parte del [protocolo de terapia individual de la Fundación TOC Granada](https://www.tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)
+### ¿Cómo se realiza la terapia?
 
-* Descripción de lo que se pretende con las exposiciones y los tipos. 
+En los siguientes vídeos de la [Fundación TOC Granada](https://tocgranada.com/) se puede observar cómo funciona la terapia en la práctica:
+
+* Descripción de lo que se pretende con las exposiciones y tipos de exposiciones. 
 
 {{< youtube id=FY9oIDG4mq0 loading=eager >}}
 
@@ -62,6 +78,11 @@ En los siguientes vídeos de la [Fundación TOC Granada](https://tocgranada.com/
 {{< youtube id=8mzdnfKeCIQ loading=lazy >}}
 
 
+### ¿Qué debemos esperar de la terapia?
+
+A veces estamos un poco perdidos en cuanto a qué podemos encontrarnos durante la terapia, especialmente si no tenemos mucha, o ninguna experiencia, en el trato con psicólogos. En el siguiente vídeo de [TOC Granada](https://tocgranada.com/), la psicóloga Blanca Bueno nos aconseja sobre la terapia del tratamiento del TOC. Habla sobre la importancia de la **alianza terapeútica** entre terapeuta y paciente, nos da indicadores para saber si estamos en buenas manos y lo dura que puede ser la terapia.
+
+{{< youtube id=DV-Cq2fQ21A loading=lazy >}}
 
 ### ¿Qué hacer cuando nuestro familiar no quiere tratarse?
 
@@ -70,8 +91,9 @@ En los siguientes vídeos de la [Fundación TOC Granada](https://tocgranada.com/
 {{< youtube id=X9JWvrbBWOU loading=lazy >}}
 
 
+### ¿Cómo se valora el TOC?
 
-### Gravedad del TOC
+#### Gravedad del TOC
 
 Los psicólogos y psiquiatras valoran la gravedad del TOC en función de la severidad de los síntomas antes de comenzar el tratamiento. Para ello se tienen en cuenta: la cantidad de obsesiones, la intensidad del malestar, el nivel de ansiedad, las horas diarias que la persona dedica a las compulsiones, etc. Se utilizan herramientas en forma de cuestionario, como la conocida por la escala Y-BOCS[^escalas] (*Yale-Brown Obssesive-Compulsive Scale*) y su versión para menores: CY-BOCS (*Children Y-BOCS*). Ambas evalúan las compulsiones y las obsesiones y las puntúan, valorando la severidad del TOC como: muy leve, leve, moderado o severo.
 
@@ -81,6 +103,13 @@ Los psicólogos y psiquiatras valoran la gravedad del TOC en función de la seve
     * el **malestar** que provocan las obsesiones;
     * la capacidad de **resistencia** contra las obsesiones: se esfuerza por detenerlas, ignorarlas, caer en ellas...;
     * la capacidad de **control** para sobrellevar los síntomas.
+
+#### Comorbilidad
+
+Se denomina comorbilidad cuando coexisten simultáneamente dos enfermedades o trastornos en la misma persona. A lo largo de la vida, algunas personas con TOC pueden sufrir otros trastornos[^2], principalmente trastornos de ansiedad (fobia social u otras fobias) y trastornos depresivos. Por ello es importante informar a los profesionales cuando nuestro familiar está más triste, apagado o nervioso de lo habitual.
+
+[^2]: Según los estudios de [Ruscio (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2797569) y [Torres (2016)](https://repositorio.unesp.br/bitstream/11449/161046/1/WOS000366463000073.pdf), en torno al 90% de las personas con TOC sufren algún trastorno de ansiedad a lo largo de su vida. 
+
 
 
 ### Prevalencia
@@ -99,12 +128,6 @@ En un estudio en la población infantil[^estudio-prevalencia-infantil] (entre 8 
 [^estudio-prevalencia-infantil]: [Canals (2012)](https://www.elsevier.es/en-revista-international-journal-clinical-health-psychology-355-articulo-socio-demographic-psychopathological-risk-factors-in-X1697260013005032)
 
 
-### Comorbilidad
-
-Se denomina comorbilidad cuando coexisten simultáneamente dos enfermedades o trastornos en la misma persona. A lo largo de la vida, algunas personas con TOC pueden sufrir otros trastornos[^2], principalmente trastornos de ansiedad (fobia social u otras fobias) y trastornos depresivos. Por ello es importante informar a los profesionales cuando nuestro familiar está más triste, apagado o nervioso de lo habitual.
-
-[^2]: Según los estudios de [Ruscio (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2797569) y [Torres (2016)](https://repositorio.unesp.br/bitstream/11449/161046/1/WOS000366463000073.pdf), en torno al 90% de las personas con TOC sufren algún trastorno de ansiedad a lo largo de su vida. 
-
 
 ## Medicación y otros tratamientos psiquiátricos
 
@@ -118,7 +141,6 @@ En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-de
 
 {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
   
-
 
 ### Retirada progresiva de la medicación
 
