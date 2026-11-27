@@ -4,6 +4,72 @@ title: Tratamiento
 weight: 3
 ---
 
+## Terapia
+
+El tratamiento estándar para el TOC se basa en la Terapia Cognitivo-Conductual (TCC) con la técnica de Exposición y Prevención de Respuesta (ERP). Esta terapia debe ser aplicada por psicólogos, idealmente especialistas en TOC. En algunos casos será necesaria la ayuda de medicación que debe ser recetada y pautada por psiquiatras.
+
+{{< callout type="info">}}
+Iniciar el tratamiento lo antes posible es el aspecto más importate para tener las máximas posibilidades de éxito.
+{{< /callout >}}
+
+El principal inconveniente del tratamiento es que los afectados de TOC **son los que más tardan** en pedir ayuda de todas las patologías mentales. **Los adultos tardan entre siete y diez años**[^retraso-terapia], mientras que **los menores entre dos y tres**. Sin tratamiento, el TOC puede cronificarse y aparecer de forma episódica a lo largo de la vida.
+
+En España, en el caso de la sanidad pública, se debe acudir primero a la atención primaria, o al pediatra en caso de menores, para que deriven vuestro caso a los psicólogos y psiquiatras correspondientes.
+
+[^retraso-terapia]: [*Mental Health Stats*, OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
+)
+
+### ¿En qué consiste la terapia?
+
+El núcleo de la terapia evolucionado de los métodos más conocidos descritos por [Claire Weekes](/personas/#claire-weekes) y [Jeffrey Schwartz](/personas/#jeffrey-schwartz) respectivamente.
+
+[Claire Weekes](/personas/#claire-weekes) fue la primera persona en estudiar los ataque de ansiedad, ella misma los sufría. Describió su método en su libro *Hope and Help for Your Nerves* (Esperanza y ayuda para tus nervios) y constaba de cuatro pasos:
+1. **Afrontar**: no huir de las sensaciones.
+2. **Aceptar**: dejar que el malestar esté sin luchar contra él. Según ella, así se evitaba el «segundo miedo», es decir, el miedo al propio miedo.
+3. **Flotar**: relajar el cuerpo y atravesar la sensación, como si flotases sobre ella.
+4. **Dejar pasar el tiempo**: Tener paciencia, porque la recuperación no es lineal y los retrocesos o recaídas forman parte del proceso.
+
+[Jeffrey Schwartz](/personas/#jeffrey-schwartz) describe su método para superar el TOC en su libro *Brain Lock*([Desbloquea tu cerebro]({{% relref "/recursos/#book-desbloquea-tu-cerebro" %}})):
+1. **Reetiquetar**: reconocer que la obsesión o pensamiento intrusivo es TOC no una señal real («no soy yo, es mi TOC»).
+2. **Reatribuir**: explicar su causa como una falsa alarma, no como un peligro real, ni tampoco como algo que defina a la persona.
+3. **Reenfocar**: redirigir la atención a una actividad agradable durante un rato, aunque el impulso siga presente.
+4. **Revalorar**: quitar importancia a la obsesión y tratar de observarla como un «espectador imparcial». Con la práctica repetida, perderá fuerza.
+
+Ambos se basan en ser conscientes de que los síntomas no son peligrosos y que luchar contra ellos empeora las cosas. El matiz está en que Weekes proponía dejar de resistirse, mientras que Schwartz propone cambiar la respuesta desviando la atención.
+
+
+
+En los siguientes vídeos de la [Fundación TOC Granada](https://tocgranada.com/) se explica cómo funciona la terapia aplicando los cuatro pasos: **identificar** el pensamiento intrusivo u obsesivo, **atribuir** el pensamiento al TOC, **aceptar** el pensamiento; y, finalmente, **reenfocar**. Estos pasos forman parte del [protocolo de terapia individual de la Fundación TOC Granada](https://www.tocgranada.com/wp-content/uploads/2025/11/PROTOCOLO-TERAPIA-INDIVIDUAL-FUNDACION-DIC-2025.pdf)
+
+* Descripción de lo que se pretende con las exposiciones y los tipos. 
+
+{{< youtube id=FY9oIDG4mq0 loading=eager >}}
+
+* Prevención de respuesta:
+
+{{< youtube id=1CMVXSkndo8 loading=lazy >}}
+
+* Entrenamiento del reenfoque:
+
+{{< youtube id=pAKQ8XJbtSM loading=lazy >}}
+
+* Representación de una exposición en vivo:
+
+{{< youtube id=tOJS5RhhWS8 loading=lazy >}}
+
+* Otro ejemplo de exposición:
+
+{{< youtube id=8mzdnfKeCIQ loading=lazy >}}
+
+
+
+### ¿Qué hacer cuando nuestro familiar no quiere tratarse?
+
+[Noelia Hernández Yeste](/personas/#noelia-hernandez-yeste) explica en este vídeo de [TOC Granada](https://tocgranada.com/) cómo afrontar este problema.
+
+{{< youtube id=X9JWvrbBWOU loading=lazy >}}
+
+
 
 ### Gravedad del TOC
 
@@ -40,31 +106,6 @@ Se denomina comorbilidad cuando coexisten simultáneamente dos enfermedades o tr
 [^2]: Según los estudios de [Ruscio (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2797569) y [Torres (2016)](https://repositorio.unesp.br/bitstream/11449/161046/1/WOS000366463000073.pdf), en torno al 90% de las personas con TOC sufren algún trastorno de ansiedad a lo largo de su vida. 
 
 
-## Terapia
-
-El tratamiento estándar para el TOC se basa en la Terapia Cognitivo-Conductual (TCC) con la técnica de Exposición y Prevención de Respuesta (ERP). Esta terapia debe ser aplicada por psicólogos, idealmente especialistas en TOC. En algunos casos será necesaria la ayuda de medicación que debe ser recetada y pautada por psiquiatras.
-
-{{< callout type="info">}}
-Iniciar el tratamiento lo antes posible es el aspecto más importate para tener las máximas posibilidades de éxito.
-{{< /callout >}}
-
-Los afectados de TOC **son los que más tardan** en pedir ayuda de todas las patologías mentales. **Los adultos tardan entre siete y diez años**[^retraso-terapia], mientras que **los menores entre dos y tres**.
-
-Sin tratamiento, el TOC puede cronificarse y aparecer de forma episódica a lo largo de la vida.
-
-En España, en el caso de la sanidad pública, se debe acudir primero a la atención primaria, o al pediatra en caso de menores, para que deriven vuestro caso a los psicólogos y psiquiatras correspondientes.
-
-
-[^retraso-terapia]: [*Mental Health Stats*, OCD in adults (USA)](https://mhstats.org/adults/ocd/), [Pampoloni (2021)](https://www.sciencedirect.com/science/article/pii/S0010440X22000487#bb0860
-)
-
-### ¿Qué hacer cuando nuestro familiar no quiere tratarse?
-
-[Noelia Hernández Yeste](/personas/#noelia-hernandez-yeste) explica en este vídeo de [TOC Granada](https://tocgranada.com) cómo afrontar este problema.
-
-{{< youtube id=X9JWvrbBWOU loading=eager >}}
-
-
 ## Medicación y otros tratamientos psiquiátricos
 
 En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-del-pino-alonso) explica todos los posibles tratamientos del TOC desde del punto de vista psiquiátrico: desde los farmacos (cómo funcionan, cuánto tiempo hay que tomarlos, efectos secundarios) hasta la estimulación magnética transcraneal y la estimulación cerebral profunda para los casos muy graves y resistentes.
@@ -78,9 +119,14 @@ En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-de
 {{< youtube id=Ra9Pv5vl7LA loading=lazy >}}
   
 
-<!--
-### Retirada de la medicación
--->
+
+### Retirada progresiva de la medicación
+
+En el siguiente vídeo Mark Horowitz explica de la forma ideal de retirar los psicofármacos para evitar problemas.
+
+{{< youtube id=OIy14ZnqIJY loading=lazy >}}
+
+
 
 
 
