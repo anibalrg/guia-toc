@@ -111,7 +111,6 @@ Se denomina comorbilidad cuando coexisten simultáneamente dos enfermedades o tr
 [^2]: Según los estudios de [Ruscio (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2797569) y [Torres (2016)](https://repositorio.unesp.br/bitstream/11449/161046/1/WOS000366463000073.pdf), en torno al 90% de las personas con TOC sufren algún trastorno de ansiedad a lo largo de su vida. 
 
 
-
 ### Prevalencia
 
 El TOC es mucho más frecuente de lo que pensamos. Según estudios[^estudios-prevalencia] en la población general, entre un 2 y un 4 de cada cien lo sufre en algún momento de su vida, y entre 1 y 3 lo padecen en un año cualquiera. Esto último significa, por ejemplo, que en España con 50 millones de habitantes (2026), hay entre medio millón y un millón y medio de personas afectadas. 
@@ -126,7 +125,6 @@ En un estudio en la población infantil[^estudio-prevalencia-infantil] (entre 8 
 [^estudios-prevalencia]: 2-4 de cada 100 a lo largo de la vida y 1-3 en un año: 2,3 % y 1,2 % en EE. UU. [Ruscio (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2797569); 4,1 % y 3,0 % en 10 países, con 26.136 adultos [Stein (2025)](https://doi.org/10.1186/s12916-025-04209-5).
 
 [^estudio-prevalencia-infantil]: [Canals (2012)](https://www.elsevier.es/en-revista-international-journal-clinical-health-psychology-355-articulo-socio-demographic-psychopathological-risk-factors-in-X1697260013005032)
-
 
 
 ## Medicación y otros tratamientos psiquiátricos
@@ -144,7 +142,7 @@ En estas dos charlas la eminente [Dra. Pino Alonso](/personas/#dra-mar%c3%ada-de
 
 ### Retirada progresiva de la medicación
 
-En el siguiente vídeo Mark Horowitz explica de la forma ideal de retirar los psicofármacos para evitar problemas.
+Una vez que la persona afectada ha completado la terapia, comienza a disminuir la dosis de psicofármacos que toma. En el siguiente vídeo Mark Horowitz explica de la forma ideal de retirarlos para evitar problemas como posibles recaídas.
 
 {{< youtube id=OIy14ZnqIJY loading=lazy >}}
 
