@@ -86,7 +86,9 @@ Como podemos observar, en el caso de Mademoiselle F. se dan muchos de los elemen
 * Psicóloga clínica especialista en TOC.
 * Directora y coordinadora del equípo técnico de la Asociación [TOC Granada](https://www.tocgranada.com).
 * Vicepresidenta de la Fundación [TOC Granada](https://www.tocgranada.com).
-* Autora del libro [Detección del TOC en niños]({{% relref "/recursos/#book-detección-del-toc-en-niños" %}}) y coatura de [Qué debo hacer ante los pensamientos obsesivos por mi TOC](https://www.tocgranada.com/producto/que-debo-hacer-ante-los-pensamientos-obsesivos-por-mi-toc/).
+* Autora o coautora de los libros:
+  - [Detección del TOC en niños]({{% relref "/recursos/#book-detección-del-toc-en-niños" %}})
+  - [Qué debo hacer ante los pensamientos obsesivos por mi TOC](https://www.tocgranada.com/producto/que-debo-hacer-ante-los-pensamientos-obsesivos-por-mi-toc/).
 
 
 ### Wayne K. Goodman.
@@ -98,10 +100,17 @@ Durante los años 80, Goodman fue uno de los investigadores principales del prim
 
 ### [Edna Ben Jacob Foa](https://en.wikipedia.org/wiki/Edna_Foa)
 
+Psicóloga clínica reconocida mundialmente como una de las máximas autoridades en el tratamiento del trastorno por estrés postraumático (TEPT), del TOC y de los trastornos de ansiedad. Su labor transformó la práctica clínica y fue fundamental para la difusión de terapias basadas en la evidencia científica. Fue profesora en la Universidad de Pensilvania (Filadelfia, EE.UU.), donde fundó el [Centro para el Tratamiento y Estudio de la Ansiedad](https://www.med.upenn.edu/ctsa/)    .
+
+Edna Foa está considerada una pionera del desarrollo de la terapia de exposición prolongada (PE) para tratar el TEPT y la exposición con prevención de respuesta (ERP) para el TOC. Ambos tratamientos, con el tiempo, se convirtiero en estándares de referencia por su sólida base científica. 
+
 
 ### Steve C. Hayes
 
-Creador de la terapia de aceptación y compromiso, que ha influido en el actual tratamiendo del TOC.
+Psicólogo clínico creador de la terapia de aceptación y compromiso (*Acceptance and Commitment Therapy*, *ACT*), se le considera uno de los psicólogos más influyentes en la psicología contemporánea. Es profesor emérito en la Universidad de Nevada (Reno, EE.UU.).
+
+Aunque la {{ term EPR }} es el tratamiento de referencia para el TOC, la *ACT* intenta complementarla abordar algunas de sus limitaciones, especialmente el rechazo inicial a las exposiciones de algunas personas.
+
 
 <!-- ### John Hershfield -->
 
